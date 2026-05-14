@@ -1,0 +1,62 @@
+{
+  "slug": "parallel-cinema",
+  "name": "Parallel Cinema",
+  "period_raw": "1954-1990s",
+  "period": {
+    "start": 1954,
+    "end": 1990
+  },
+  "country": "India",
+  "countries": [
+    "India"
+  ],
+  "region": "South Asia",
+  "coords": [
+    88.363,
+    22.572
+  ],
+  "summary": "Indian cinema is synonymous with Bollywood, known for its vibrant song and dance sequences and blockbuster entertainers. However, beneath the glitz and glamour lies another face of Indian cinema that has quietly, yet significantly, contributed to the country’s cinematic legacy. Published by: CinemaWaves Team   |   Filed Under: Film Movements Parallel Cinema refers to a film movement in India that surfaced around the same time as the mainstream commercial cinema but represented an alternative, more artistic approach to filmmaking – that is why the term “parallel cinema” is used. Its origins can be traced to the socio-political climate of post-independence India, when filmmakers looked to reflect the realities of a newly independent nation.",
+  "long_description": "Indian cinema is synonymous with Bollywood, known for its vibrant song and dance sequences and blockbuster entertainers. However, beneath the glitz and glamour lies another face of Indian cinema that has quietly, yet significantly, contributed to the country’s cinematic legacy. Published by: CinemaWaves Team   |   Filed Under: Film Movements Parallel Cinema refers to a film movement in India that surfaced around the same time as the mainstream commercial cinema but represented an alternative, more artistic approach to filmmaking – that is why the term “parallel cinema” is used. Its origins can be traced to the socio-political climate of post-independence India, when filmmakers looked to reflect the realities of a newly independent nation. The movement was largely inspired by Italian Neorealism, particularly after the release of “Bicycle Thieves” (1948), which resonated with Indian filmmakers looking for ways to portray the social challenges and inequalities in the country. Early pioneers of the movement, such as Satyajit Ray, Ritwik Ghatak, and Mrinal Sen, sought to move away from the formulaic, commercial narratives of popular cinema. The development of Parallel Cinema gained momentum in the 1950s with the success of Satyajit Ray’s “Pather Panchali” (1955), the first film in his “Apu Trilogy.” Ray’s work marked a turning point for Indian cinema, as it presented a new kind of filmmaking that was focused on rural life, personal struggles, and social issues. The Indian government, recognizing the cultural importance of this new approach, started supporting filmmakers through funding initiatives led by the Films Division of India and institutions like the National Film Development Corporation (NFDC). It allowed filmmakers with limited budgets and independent visions to create films that were distinct from the commercial ones. Parallel Cinema was also influenced by broader historical and cultural shifts in India. The movement emerged during a time of significant social transformation, as India grappled with issues like poverty, inequality, and the lingering effects of colonialism. The country was in the process of forging its national identity, and Parallel Cinema offered a platform for filmmakers to explore these concerns in an unfiltered way. These films reflected the concerns of post-independence India, such as land reforms, urbanization, and the struggles of marginalized communities. At the heart of Parallel Cinema lies a commitment to portraying the authenticity of Indian life. Filmmakers utilized natural lighting, non-professional actors, and real locations to create a genuine atmosphere. The movement is inherently political, addressing issues such as poverty, caste discrimination, gender inequality, and class struggle. These films served as a powerful medium for advocacy and raising social awareness, placing a strong emphasis on well-developed characters and their emotional journeys. Directors of this movement were unafraid to experiment with narrative structures, often challenging the traditional three-act format. This approach allowed for more nuanced and thought-provoking storytelling. Satyajit Ray, who is renowned for his “Apu Trilogy,” is considered the pioneer of Parallel Cinema and the most important director from the Indian subcontinent. His films showcased the everyday lives of common people with profound insight and artistry. Ray’s attention to detail and deep empathy for his characters set a high standard for filmmakers who followed in his footsteps. Shyam Benegal’s “Ankur” (1974) marked a significant shift in Indian cinema, addressing the themes of rural India and social class dynamics, which resonated with audiences across the nation. Benegal’s films focused on the lives of marginalized communities, highlighting the systemic inequalities and social issues they faced. His narrative style, which combined realism with a strong social message, became a defining characteristic of Parallel Cinema. Ritwik Kumar Ghatak, another influential director, is today celebrated for his film “A River Called Titas” (1973). The film depicts the lives of fisherfolk in East Bengal, capturing their struggles and the socio-economic challenges they face. Ghatak’s works are known for their emotional intensity, innovative storytelling, and social consciousness. Indian Parallel Cinema left an ever lasting mark on Indian filmmaking and the world of cinema at large. It challenged the dominance of mainstream Bollywood cinema, and created the foundation for a new generation of filmmakers who aimed to tell more meaningful and thought-provoking stories. Furthermore, Indian films with global recognition, such as “Lagaan” (2001) and “Court” (2014), incorporate elements of Parallel Cinema, demonstrating its continuing legacy. Parallel Cinema eventually merged with the Third Cinema movement, which advocated for using film as a means of driving social change in developing nations. The exchange of ideas between the two movements enriched their respective approaches, helping to shape a diverse, socially aware cinematic tradition that emphasized the power of film as a tool for transformation.",
+  "key_directors": [
+    "Satyajit Ray",
+    "Ritwik Ghatak"
+  ],
+  "canonical_films": [
+    {
+      "title": "Pather Panchali",
+      "year": "1955",
+      "director": "Satyajit Ray",
+      "letterboxd_url": "https://letterboxd.com/film/pather-panchali/"
+    },
+    {
+      "title": "The Cloud-Capped Star",
+      "year": "1960",
+      "director": "Ritwik Ghatak",
+      "letterboxd_url": "https://letterboxd.com/film/the-cloud-capped-star/"
+    },
+    {
+      "title": "The Big City",
+      "year": "1963",
+      "director": "Satyajit Ray",
+      "letterboxd_url": "https://letterboxd.com/film/the-big-city/"
+    },
+    {
+      "title": "Charulata",
+      "year": "1964",
+      "director": "Satyajit Ray",
+      "letterboxd_url": "https://letterboxd.com/film/charulata/"
+    },
+    {
+      "title": "A River Called Titas",
+      "year": "1973",
+      "director": "Ritwik Ghatak",
+      "letterboxd_url": "https://letterboxd.com/film/a-river-called-titas/"
+    }
+  ],
+  "influences_from": [
+    "italian-neorealism"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/parallel-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

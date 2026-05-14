@@ -1,0 +1,67 @@
+{
+  "slug": "cuban-revolutionary-cinema",
+  "name": "Cuban Revolutionary Cinema",
+  "period_raw": "early 1960s - late 1970s",
+  "period": {
+    "start": 1960,
+    "end": 1970
+  },
+  "country": "Cuba",
+  "countries": [
+    "Cuba"
+  ],
+  "region": "Latin America",
+  "coords": [
+    -82.366,
+    23.135
+  ],
+  "summary": "Cuban Revolutionary Cinema started in the wake of the Cuban Revolution of 1959, a period that saw the overthrow of the Batista regime and the rise of Fidel Castro. The new government recognized cinema as a powerful tool for cultural and political expression, leading to the establishment of the Cuban Institute of Cinematographic Art and Industry (ICAIC) in 1959. ICAIC aimed to produce films that reflected revolutionary ideals, national identity, while addressing social issues. Published by: CinemaWaves Team   |   Filed Under: Film Movements The roots of Cuban Revolutionary Cinema can be traced back to the revolutionary spirit that swept through Cuba during the late 1950s. The Castro-led government saw the potential of cinema to educate and mobilize the masses, promoting the ideals of socialism and anti-imperialism. The creation of ICAIC provided filmmakers with state support and resources, fostering an environment where artistic freedom and political commitment could coexist. This period was marked by a departure from commercial cinema, focusing instead on the realities of Cuban life and the aspirations of the revolution.",
+  "long_description": "Cuban Revolutionary Cinema started in the wake of the Cuban Revolution of 1959, a period that saw the overthrow of the Batista regime and the rise of Fidel Castro. The new government recognized cinema as a powerful tool for cultural and political expression, leading to the establishment of the Cuban Institute of Cinematographic Art and Industry (ICAIC) in 1959. ICAIC aimed to produce films that reflected revolutionary ideals, national identity, while addressing social issues. Published by: CinemaWaves Team   |   Filed Under: Film Movements The roots of Cuban Revolutionary Cinema can be traced back to the revolutionary spirit that swept through Cuba during the late 1950s. The Castro-led government saw the potential of cinema to educate and mobilize the masses, promoting the ideals of socialism and anti-imperialism. The creation of ICAIC provided filmmakers with state support and resources, fostering an environment where artistic freedom and political commitment could coexist. This period was marked by a departure from commercial cinema, focusing instead on the realities of Cuban life and the aspirations of the revolution. The establishment of ICAIC was a pivotal moment, as it marked the first time in Cuban history that cinema was institutionalized and given a central role in the cultural policies of the state. This institution aimed to create a new kind of cinema that was not only entertaining but also politically and socially engaged. The early years of ICAIC saw the production of newsreels, documentaries, and feature films that highlighted the achievements of the revolution and addressed issues such as literacy, agrarian reform, and the struggle against imperialism. Cuban Revolutionary Cinema is characterized by its emphasis on social realism and its commitment to portraying the struggles and triumphs of the Cuban people. Filmmakers employed a documentary-style approach, often using non-professional actors and shooting on location. Themes such as class struggle, imperialism, and solidarity were central. Additionally, the movement embraced experimental techniques, drawing inspiration from Soviet Montage and Italian Neorealism. One of the hallmarks was its use of innovative narrative structures and visual styles. Filmmakers experimented with storytelling methods, opting for fragmented narratives, nonlinear timelines, and a mix of fiction and documentary footage. This approach was intended to engage viewers more critically and reflect the complexity of the social and political changes taking place in Cuba. Cinematography was another key aspect, with filmmakers employing dynamic camera movements, close-ups, and innovative lighting techniques. Music and sound played a crucial role in these films, used to underscore the emotional tone and enhance the storytelling. Traditional Cuban music, as well as revolutionary songs, were commonly featured. The movement also placed a strong emphasis on collective filmmaking, where collaboration among directors, writers, and other crew members was encouraged to produce works that resonated with the revolutionary ethos. Several key directors and films define Cuban Revolutionary Cinema. Tomas Gutierrez Alea, as one of the most prominent figures, is known for his critical yet nuanced portrayal of Cuban society. His film “Memories of Underdevelopment” (1968) explores the disillusionment and identity crisis of a bourgeois intellectual in post-revolutionary Cuba, blending narrative and documentary elements. This film is considered a masterpiece of Latin American cinema and exemplifies the movement’s capacity to address complex personal and societal issues. Another significant director, Humberto Solas, gained recognition for “Lucia” (1968), a film that tells the story of three women named Lucia, set in different historical periods, highlighting the continuity of struggle and change in Cuban history. Sara Gomez was a pioneering filmmaker whose work focused on issues of race, gender, and class in revolutionary Cuba. Her film “One Way or Another” (1974) is a seminal work that explores the lives of ordinary Cubans, particularly Afro-Cubans, and their experiences in the post-revolutionary society. The film blends documentary and fictional elements to address social and cultural transformations, making a significant impact on Cuban and international cinema. Cuban Revolutionary Cinema played a crucial role in the development of a distinct Latin American cinematic voice. The movement’s emphasis on social and political issues resonated with filmmakers across the continent, contributing to the emergence of the Third Cinema movement. This broader movement shared many of the goals and stylistic approaches of Cuban Revolutionary Cinema, advocating for a cinema that reflects the realities and aspirations of Latin American peoples, while challenging the dominant narratives of Hollywood & European cinema, and promoting a more authentic, politically engaged form of filmmaking.",
+  "key_directors": [
+    "Santiago Álvarez",
+    "Sara Gomez",
+    "Tomás Gutiérrez Alea",
+    "Humberto Solás"
+  ],
+  "canonical_films": [
+    {
+      "title": "Now!",
+      "year": "1965",
+      "director": "Santiago Álvarez",
+      "letterboxd_url": "https://letterboxd.com/film/now/"
+    },
+    {
+      "title": "I'm Going to Santiago",
+      "year": "1964",
+      "director": "Sara Gomez",
+      "letterboxd_url": "https://letterboxd.com/film/im-going-to-santiago/"
+    },
+    {
+      "title": "Death of a Bureaucrat",
+      "year": "1966",
+      "director": "Tomás Gutiérrez Alea",
+      "letterboxd_url": "https://letterboxd.com/film/death-of-a-bureaucrat/"
+    },
+    {
+      "title": "Lucía",
+      "year": "1968",
+      "director": "Humberto Solás",
+      "letterboxd_url": "https://letterboxd.com/film/lucia/"
+    },
+    {
+      "title": "One Way or Another",
+      "year": "1975",
+      "director": "Sara Gomez",
+      "letterboxd_url": "https://letterboxd.com/film/one-way-or-another-1975/"
+    }
+  ],
+  "influences_from": [
+    "cinema-novo",
+    "soviet-montage"
+  ],
+  "influences_to": [
+    "third-cinema"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/cuban-revolutionary-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

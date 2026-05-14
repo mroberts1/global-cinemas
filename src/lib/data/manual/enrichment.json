@@ -1,0 +1,474 @@
+{
+  "_comment": "Manual enrichment for global-cinemas movements. Each entry is keyed by slug. Country = primary country of origin. Coords = [longitude, latitude] for map placement (capital city or movement epicenter). Region = continental rollup. influences_from/_to = slugs of related movements. Edit freely before merging.",
+  "_schema": {
+    "country": "string (primary country of origin)",
+    "countries": "array (all participating countries)",
+    "region": "Europe | East Asia | South Asia | Southeast Asia | Middle East | Africa | North America | Latin America | Oceania",
+    "coords": "[longitude, latitude]",
+    "influences_from": "array of upstream movement slugs",
+    "influences_to": "array of downstream movement slugs"
+  },
+
+  "cinema-of-attractions": {
+    "country": "France",
+    "countries": ["France", "United States"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": [],
+    "influences_to": ["italian-futurism", "soviet-montage"]
+  },
+
+  "italian-futurism": {
+    "country": "Italy",
+    "countries": ["Italy"],
+    "region": "Europe",
+    "coords": [12.496, 41.903],
+    "influences_from": ["cinema-of-attractions"],
+    "influences_to": ["soviet-montage", "surrealist-cinema"]
+  },
+
+  "german-expressionism": {
+    "country": "Germany",
+    "countries": ["Germany"],
+    "region": "Europe",
+    "coords": [13.405, 52.520],
+    "influences_from": ["cinema-of-attractions"],
+    "influences_to": ["film-noir", "surrealist-cinema", "new-german-cinema"]
+  },
+
+  "french-impressionist-cinema": {
+    "country": "France",
+    "countries": ["France"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["cinema-of-attractions"],
+    "influences_to": ["surrealist-cinema", "poetic-realism", "french-new-wave"]
+  },
+
+  "surrealist-cinema": {
+    "country": "France",
+    "countries": ["France", "Spain"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["french-impressionist-cinema", "german-expressionism"],
+    "influences_to": ["new-extremity", "no-wave-cinema"]
+  },
+
+  "soviet-montage": {
+    "country": "Soviet Union",
+    "countries": ["Russia", "Ukraine"],
+    "region": "Europe",
+    "coords": [37.618, 55.756],
+    "influences_from": ["cinema-of-attractions", "italian-futurism"],
+    "influences_to": ["cinema-novo", "third-cinema", "cuban-revolutionary-cinema"]
+  },
+
+  "poetic-realism": {
+    "country": "France",
+    "countries": ["France"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["french-impressionist-cinema"],
+    "influences_to": ["italian-neorealism", "film-noir"]
+  },
+
+  "film-noir": {
+    "country": "United States",
+    "countries": ["United States", "France"],
+    "region": "North America",
+    "coords": [-118.243, 34.052],
+    "influences_from": ["german-expressionism", "poetic-realism"],
+    "influences_to": ["cinema-du-look", "american-new-wave", "korean-new-wave"]
+  },
+
+  "italian-neorealism": {
+    "country": "Italy",
+    "countries": ["Italy"],
+    "region": "Europe",
+    "coords": [12.496, 41.903],
+    "influences_from": ["poetic-realism"],
+    "influences_to": ["french-new-wave", "cinema-novo", "parallel-cinema", "iranian-new-wave"]
+  },
+
+  "parallel-cinema": {
+    "country": "India",
+    "countries": ["India"],
+    "region": "South Asia",
+    "coords": [88.363, 22.572],
+    "influences_from": ["italian-neorealism"],
+    "influences_to": []
+  },
+
+  "polish-film-school": {
+    "country": "Poland",
+    "countries": ["Poland"],
+    "region": "Europe",
+    "coords": [21.012, 52.230],
+    "influences_from": ["italian-neorealism"],
+    "influences_to": ["czechoslovak-new-wave", "cinema-of-moral-anxiety"]
+  },
+
+  "french-new-wave": {
+    "country": "France",
+    "countries": ["France"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["italian-neorealism", "french-impressionist-cinema"],
+    "influences_to": ["british-new-wave", "japanese-new-wave", "cinema-novo", "czechoslovak-new-wave", "american-new-wave", "yugoslav-black-wave", "iranian-new-wave"]
+  },
+
+  "japanese-new-wave": {
+    "country": "Japan",
+    "countries": ["Japan"],
+    "region": "East Asia",
+    "coords": [139.692, 35.690],
+    "influences_from": ["french-new-wave", "italian-neorealism"],
+    "influences_to": ["hong-kong-new-wave", "taiwan-new-wave"]
+  },
+
+  "direct-cinema-and-cinema-verite": {
+    "country": "United States",
+    "countries": ["United States", "Canada", "France"],
+    "region": "North America",
+    "coords": [-73.987, 40.748],
+    "influences_from": ["italian-neorealism"],
+    "influences_to": ["mumblecore", "dogme-95"]
+  },
+
+  "cinema-novo": {
+    "country": "Brazil",
+    "countries": ["Brazil"],
+    "region": "Latin America",
+    "coords": [-43.196, -22.907],
+    "influences_from": ["italian-neorealism", "french-new-wave", "soviet-montage"],
+    "influences_to": ["third-cinema", "cuban-revolutionary-cinema", "new-mexican-cinema"]
+  },
+
+  "british-new-wave": {
+    "country": "United Kingdom",
+    "countries": ["United Kingdom"],
+    "region": "Europe",
+    "coords": [-0.128, 51.507],
+    "influences_from": ["french-new-wave", "italian-neorealism"],
+    "influences_to": ["australian-new-wave", "toronto-new-wave"]
+  },
+
+  "new-british-wave": {
+    "country": "United Kingdom",
+    "countries": ["United Kingdom"],
+    "region": "Europe",
+    "coords": [-0.128, 51.507],
+    "influences_from": ["british-new-wave"],
+    "influences_to": []
+  },
+
+  "czechoslovak-new-wave": {
+    "country": "Czechoslovakia",
+    "countries": ["Czech Republic", "Slovakia"],
+    "region": "Europe",
+    "coords": [14.418, 50.075],
+    "influences_from": ["french-new-wave", "polish-film-school"],
+    "influences_to": ["budapest-school-film-movement"]
+  },
+
+  "cuban-revolutionary-cinema": {
+    "country": "Cuba",
+    "countries": ["Cuba"],
+    "region": "Latin America",
+    "coords": [-82.366, 23.135],
+    "influences_from": ["cinema-novo", "soviet-montage"],
+    "influences_to": ["third-cinema"]
+  },
+
+  "third-cinema": {
+    "country": "Argentina",
+    "countries": ["Argentina", "Cuba", "Brazil", "Bolivia"],
+    "region": "Latin America",
+    "coords": [-58.382, -34.603],
+    "influences_from": ["cinema-novo", "cuban-revolutionary-cinema", "soviet-montage"],
+    "influences_to": ["new-nigerian-cinema", "philippine-new-wave"]
+  },
+
+  "yugoslav-black-wave": {
+    "country": "Yugoslavia",
+    "countries": ["Serbia", "Croatia", "Bosnia and Herzegovina"],
+    "region": "Europe",
+    "coords": [20.456, 44.787],
+    "influences_from": ["french-new-wave"],
+    "influences_to": []
+  },
+
+  "american-new-wave": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-118.243, 34.052],
+    "influences_from": ["french-new-wave", "italian-neorealism", "film-noir"],
+    "influences_to": ["american-eccentric-cinema", "no-wave-cinema", "mumblecore"]
+  },
+
+  "new-german-cinema": {
+    "country": "Germany",
+    "countries": ["Germany"],
+    "region": "Europe",
+    "coords": [11.582, 48.135],
+    "influences_from": ["french-new-wave", "german-expressionism"],
+    "influences_to": ["berlin-school-movement"]
+  },
+
+  "iranian-new-wave": {
+    "country": "Iran",
+    "countries": ["Iran"],
+    "region": "Middle East",
+    "coords": [51.389, 35.689],
+    "influences_from": ["italian-neorealism", "french-new-wave"],
+    "influences_to": []
+  },
+
+  "australian-new-wave": {
+    "country": "Australia",
+    "countries": ["Australia"],
+    "region": "Oceania",
+    "coords": [151.209, -33.868],
+    "influences_from": ["british-new-wave"],
+    "influences_to": []
+  },
+
+  "budapest-school-film-movement": {
+    "country": "Hungary",
+    "countries": ["Hungary"],
+    "region": "Europe",
+    "coords": [19.040, 47.498],
+    "influences_from": ["czechoslovak-new-wave"],
+    "influences_to": []
+  },
+
+  "budapest-school": {
+    "_alias_of": "budapest-school-film-movement",
+    "country": "Hungary",
+    "countries": ["Hungary"],
+    "region": "Europe",
+    "coords": [19.040, 47.498],
+    "influences_from": ["czechoslovak-new-wave"],
+    "influences_to": []
+  },
+
+  "new-hollywood": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-118.243, 34.052],
+    "influences_from": ["italian-neorealism", "french-new-wave"],
+    "influences_to": ["american-new-wave", "american-eccentric-cinema"]
+  },
+
+  "nuevo-cine-mexicano": {
+    "_alias_of": "new-mexican-cinema",
+    "country": "Mexico",
+    "countries": ["Mexico"],
+    "region": "Latin America",
+    "coords": [-99.133, 19.432],
+    "influences_from": ["cinema-novo"],
+    "influences_to": []
+  },
+
+  "direct-cinema-cinema-vertie": {
+    "_alias_of": "direct-cinema-and-cinema-verite",
+    "country": "United States",
+    "countries": ["United States", "Canada", "France"],
+    "region": "North America",
+    "coords": [-73.987, 40.748],
+    "influences_from": ["italian-neorealism"],
+    "influences_to": ["mumblecore", "dogme-95"]
+  },
+
+  "l-a-rebellion": {
+    "_alias_of": "la-rebellion",
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-118.443, 34.073],
+    "influences_from": ["third-cinema"],
+    "influences_to": ["new-queer-cinema"]
+  },
+
+  "la-rebellion": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-118.443, 34.073],
+    "influences_from": ["third-cinema"],
+    "influences_to": ["new-queer-cinema"]
+  },
+
+  "cinema-of-moral-anxiety": {
+    "country": "Poland",
+    "countries": ["Poland"],
+    "region": "Europe",
+    "coords": [21.012, 52.230],
+    "influences_from": ["polish-film-school"],
+    "influences_to": []
+  },
+
+  "no-wave-cinema": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-73.987, 40.748],
+    "influences_from": ["surrealist-cinema", "american-new-wave"],
+    "influences_to": ["mumblecore"]
+  },
+
+  "hong-kong-new-wave": {
+    "country": "Hong Kong",
+    "countries": ["Hong Kong"],
+    "region": "East Asia",
+    "coords": [114.169, 22.319],
+    "influences_from": ["japanese-new-wave", "french-new-wave"],
+    "influences_to": ["taiwan-new-wave", "korean-new-wave"]
+  },
+
+  "cinema-du-look": {
+    "country": "France",
+    "countries": ["France"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["film-noir"],
+    "influences_to": ["new-extremity"]
+  },
+
+  "taiwan-new-wave": {
+    "country": "Taiwan",
+    "countries": ["Taiwan"],
+    "region": "East Asia",
+    "coords": [121.565, 25.033],
+    "influences_from": ["japanese-new-wave", "hong-kong-new-wave"],
+    "influences_to": ["thai-new-wave"]
+  },
+
+  "new-queer-cinema": {
+    "country": "United States",
+    "countries": ["United States", "United Kingdom"],
+    "region": "North America",
+    "coords": [-73.987, 40.748],
+    "influences_from": ["la-rebellion"],
+    "influences_to": []
+  },
+
+  "toronto-new-wave": {
+    "country": "Canada",
+    "countries": ["Canada"],
+    "region": "North America",
+    "coords": [-79.383, 43.653],
+    "influences_from": ["british-new-wave", "american-new-wave"],
+    "influences_to": []
+  },
+
+  "new-mexican-cinema": {
+    "country": "Mexico",
+    "countries": ["Mexico"],
+    "region": "Latin America",
+    "coords": [-99.133, 19.432],
+    "influences_from": ["cinema-novo"],
+    "influences_to": []
+  },
+
+  "dogme-95": {
+    "country": "Denmark",
+    "countries": ["Denmark"],
+    "region": "Europe",
+    "coords": [12.568, 55.676],
+    "influences_from": ["direct-cinema-and-cinema-verite"],
+    "influences_to": ["mumblecore", "new-extremity"]
+  },
+
+  "american-eccentric-cinema": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-118.243, 34.052],
+    "influences_from": ["american-new-wave"],
+    "influences_to": ["mumblecore"]
+  },
+
+  "korean-new-wave": {
+    "country": "South Korea",
+    "countries": ["South Korea"],
+    "region": "East Asia",
+    "coords": [126.978, 37.566],
+    "influences_from": ["hong-kong-new-wave", "film-noir"],
+    "influences_to": []
+  },
+
+  "thai-new-wave": {
+    "country": "Thailand",
+    "countries": ["Thailand"],
+    "region": "Southeast Asia",
+    "coords": [100.501, 13.756],
+    "influences_from": ["taiwan-new-wave"],
+    "influences_to": []
+  },
+
+  "new-extremity": {
+    "country": "France",
+    "countries": ["France"],
+    "region": "Europe",
+    "coords": [2.349, 48.864],
+    "influences_from": ["surrealist-cinema", "cinema-du-look", "dogme-95"],
+    "influences_to": []
+  },
+
+  "berlin-school-movement": {
+    "country": "Germany",
+    "countries": ["Germany"],
+    "region": "Europe",
+    "coords": [13.405, 52.520],
+    "influences_from": ["new-german-cinema"],
+    "influences_to": []
+  },
+
+  "mumblecore": {
+    "country": "United States",
+    "countries": ["United States"],
+    "region": "North America",
+    "coords": [-97.743, 30.267],
+    "influences_from": ["american-new-wave", "american-eccentric-cinema", "no-wave-cinema", "direct-cinema-and-cinema-verite", "dogme-95"],
+    "influences_to": []
+  },
+
+  "philippine-new-wave": {
+    "country": "Philippines",
+    "countries": ["Philippines"],
+    "region": "Southeast Asia",
+    "coords": [120.984, 14.599],
+    "influences_from": ["third-cinema"],
+    "influences_to": []
+  },
+
+  "romanian-new-wave": {
+    "country": "Romania",
+    "countries": ["Romania"],
+    "region": "Europe",
+    "coords": [26.103, 44.426],
+    "influences_from": ["italian-neorealism"],
+    "influences_to": []
+  },
+
+  "greek-weird-wave": {
+    "country": "Greece",
+    "countries": ["Greece"],
+    "region": "Europe",
+    "coords": [23.728, 37.984],
+    "influences_from": ["new-extremity"],
+    "influences_to": []
+  },
+
+  "new-nigerian-cinema": {
+    "country": "Nigeria",
+    "countries": ["Nigeria"],
+    "region": "Africa",
+    "coords": [3.379, 6.524],
+    "influences_from": ["third-cinema"],
+    "influences_to": []
+  }
+}

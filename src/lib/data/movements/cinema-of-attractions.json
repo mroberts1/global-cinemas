@@ -1,0 +1,66 @@
+{
+  "slug": "cinema-of-attractions",
+  "name": "Cinema of Attractions",
+  "period_raw": "1885-1910s",
+  "period": {
+    "start": 1885,
+    "end": 1910
+  },
+  "country": "France",
+  "countries": [
+    "France",
+    "United States"
+  ],
+  "region": "Europe",
+  "coords": [
+    2.349,
+    48.864
+  ],
+  "summary": "The Cinema of Attractions refers to an early style of filmmaking, popular in the late 19th and early 20th centuries, that prioritized spectacle and visual novelty over storytelling. Coined by film scholar Tom Gunning, the term highlights this thrilling and transformative period in film history, when movies were designed to surprise and captivate audiences through their sheer technological and artistic innovation. Published by: CinemaWaves Team   |   Filed Under: Film Movements Unlike narrative cinema, which prioritizes storytelling, the Cinema of Attractions aims to astonish and amuse viewers. These films were typically short, just a few minutes long, featuring (for its time) breathtaking stunts, optical illusions, and special effects. These early films were a precursor to modern-day blockbusters, creating a sense of awe and excitement that remains an important part of cinema.",
+  "long_description": "The Cinema of Attractions refers to an early style of filmmaking, popular in the late 19th and early 20th centuries, that prioritized spectacle and visual novelty over storytelling. Coined by film scholar Tom Gunning, the term highlights this thrilling and transformative period in film history, when movies were designed to surprise and captivate audiences through their sheer technological and artistic innovation. Published by: CinemaWaves Team   |   Filed Under: Film Movements Unlike narrative cinema, which prioritizes storytelling, the Cinema of Attractions aims to astonish and amuse viewers. These films were typically short, just a few minutes long, featuring (for its time) breathtaking stunts, optical illusions, and special effects. These early films were a precursor to modern-day blockbusters, creating a sense of awe and excitement that remains an important part of cinema. At its core, the Cinema of Attractions was all about creating a visceral experience. Audiences flocked to theaters to witness the magic of moving images on a large screen for the very first time, and filmmakers capitalized on this curiosity by showcasing their technical prowess. Films included elements of live performance, and were accompanied by live music, narration, and sound effects. This combination of moving images and live elements turned cinema into a multifaceted event, making it an unforgettable experience. The theatricality of these early films can be seen as a continuation of the traditions of vaudeville and magic shows, where the goal was to entertain and astonish. Direct Address to the Audience: Early cinema  acknowledged the viewer’s presence, with actors and performers looking directly into the camera or interacting with it. This broke the illusion of a self-contained world, engaging audiences in a way that later narrative films would avoid. Spectacle Over Story: Films were not primarily concerned with structured storytelling but instead focused on showcasing extraordinary visuals, everyday life, or cinematic tricks. Many of the first motion pictures simply presented real-world events in motion, fascinating audiences with the novelty of the moving image. Focus on Technological Innovation: Filmmakers experimented with motion, editing, and special effects to showcase the possibilities of the new medium. Techniques like stop-motion, jump cuts, and superimpositions, allowed for illusions that amazed pushed the boundaries of visual storytelling. Exhibitionist Mode: Many early films resembled live performances, featuring magic acts, circus stunts, or scenic views designed purely to entertain. These films treated cinema as a spectacle, much like a carnival attraction. One of the most famous examples from this era is the Lumiere Brothers’ “Arrival of a Train at La Ciotat” (1895), which depicts a steam locomotive approaching a stationary camera. Though the scene is basic by today’s standards, it had a great impact on people at the time, many of whom were reportedly startled by the life-like movement of the train, fearing it would burst through the screen. This film exemplified the raw power of motion and visual realism that cinema can offer. Visionaries such as Georges Melies, celebrated for his groundbreaking masterpiece “A Trip to the Moon” (1902), took audiences on a captivating 14-minute odyssey, immersing them in a fantastical and visually mesmerizing expedition with a group of astronomers on their ambitious quest to reach the surface of the Moon. The film’s pioneering use of effects, such as stop motion animation, hand-painted color, and double exposure, still captivates audiences today. Not only does it highlight Melies’ creative genius, but it also underscores humanity’s early fascination with space. Another notable figure in this era was Edwin S. Porter, who directed “The Great Train Robbery” (1903), a film that introduced continuity editing and created the foundation for eventual narrative cinema. However, even in this narrative-infused film, elements of the Cinema of Attractions could be seen in its action sequences and thrilling train robbery scenes.",
+  "key_directors": [
+    "Louis Lumière",
+    "Georges Méliès",
+    "Edwin S. Porter",
+    "Pathé"
+  ],
+  "canonical_films": [
+    {
+      "title": "Workers Leaving the Lumière Factory",
+      "year": "1895",
+      "director": "Louis Lumière",
+      "letterboxd_url": "https://letterboxd.com/film/la-sortie-de-lusine-lumiere/"
+    },
+    {
+      "title": "The Arrival of a Train at La Ciotat",
+      "year": "1896",
+      "director": "Louis Lumière",
+      "letterboxd_url": "https://letterboxd.com/film/the-arrival-of-a-train-at-la-ciotat/"
+    },
+    {
+      "title": "A Trip to the Moon",
+      "year": "1902",
+      "director": "Georges Méliès",
+      "letterboxd_url": "https://letterboxd.com/film/a-trip-to-the-moon/"
+    },
+    {
+      "title": "The Great Train Robbery",
+      "year": "1903",
+      "director": "Edwin S. Porter",
+      "letterboxd_url": "https://letterboxd.com/film/the-great-train-robbery/"
+    },
+    {
+      "title": "The Dancing Pig",
+      "year": "1907",
+      "director": "Pathé",
+      "letterboxd_url": "https://letterboxd.com/film/the-dancing-pig/"
+    }
+  ],
+  "influences_from": [],
+  "influences_to": [
+    "italian-futurism",
+    "soviet-montage"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/cinema-of-attractions/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

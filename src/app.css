@@ -1,0 +1,134 @@
+:root {
+	--bg: #0e0d10;
+	--bg-2: #18171c;
+	--fg: #e8e6e0;
+	--fg-dim: #98968e;
+	--accent: #d2a05c;
+	--accent-2: #6f9bd8;
+	--border: #2a2830;
+	--font-serif: 'Iowan Old Style', 'Charter', Georgia, serif;
+	--font-sans:
+		-apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+	--font-mono: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background: var(--bg);
+	color: var(--fg);
+	font-family: var(--font-sans);
+	font-size: 15px;
+	line-height: 1.55;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: var(--accent);
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	transition: border-color 0.15s;
+}
+a:hover {
+	border-bottom-color: var(--accent);
+}
+
+.shell {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 2rem;
+	padding: 1rem 2rem;
+	border-bottom: 1px solid var(--border);
+	background: var(--bg-2);
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+header .brand {
+	display: flex;
+	flex-direction: column;
+	color: var(--fg);
+	border: none;
+}
+header .brand strong {
+	font-family: var(--font-serif);
+	font-size: 1.3rem;
+	letter-spacing: 0.02em;
+}
+header .brand span {
+	font-size: 0.78rem;
+	color: var(--fg-dim);
+	font-style: italic;
+}
+
+header nav {
+	display: flex;
+	gap: 1.5rem;
+	font-size: 0.9rem;
+}
+header nav a {
+	color: var(--fg-dim);
+	border: none;
+}
+header nav a:hover {
+	color: var(--accent);
+}
+
+main {
+	flex: 1;
+	padding: 1.5rem 2rem 3rem;
+	max-width: 1400px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+footer {
+	border-top: 1px solid var(--border);
+	padding: 1rem 2rem;
+	text-align: center;
+	color: var(--fg-dim);
+	background: var(--bg-2);
+}
+footer a {
+	color: var(--fg-dim);
+}
+footer a:hover {
+	color: var(--accent);
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-serif);
+	font-weight: 600;
+	letter-spacing: 0.005em;
+}
+
+h1 {
+	font-size: 2.2rem;
+	margin: 0 0 0.5rem;
+}
+h2 {
+	font-size: 1.4rem;
+	margin: 1.5rem 0 0.5rem;
+}
+
+.dim {
+	color: var(--fg-dim);
+}
+.serif {
+	font-family: var(--font-serif);
+}

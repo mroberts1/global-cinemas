@@ -1,0 +1,165 @@
+{
+  "slug": "taiwan-new-wave",
+  "name": "Taiwan New Wave",
+  "period_raw": "1982 - late 1990s",
+  "period": {
+    "start": 1982,
+    "end": 1990
+  },
+  "country": "Taiwan",
+  "countries": [
+    "Taiwan"
+  ],
+  "region": "East Asia",
+  "coords": [
+    121.565,
+    25.033
+  ],
+  "summary": "Taiwan New Wave, also known as Taiwan New Cinema, was a film movement that flourished during the 1980s and 1990s. It gained international acclaim for its exploration of complex cultural, political and societal themes. Led by a group of visionary directors, Taiwan New Wave offered a fresh perspective on Taiwanese identity, and initiated a transformation in the nation’s cinematic landscape. Published by: CinemaWaves Team   |   Filed Under: Film Movements At its core, the movement was a response to Taiwan’s shifting socio-political landscape, marked by the lifting of martial law in 1987 after nearly four decades of authoritarian rule under the Kuomintang (KMT) regime. Martial law, which was imposed in 1949 following the retreat of the KMT to Taiwan after losing the Chinese Civil War, severely restricted freedom of expression. It stifled dissent and limited the types of stories that could be told through cinema, leading to a dominance of government-sanctioned propaganda and safe commercial films.",
+  "long_description": "Taiwan New Wave, also known as Taiwan New Cinema, was a film movement that flourished during the 1980s and 1990s. It gained international acclaim for its exploration of complex cultural, political and societal themes. Led by a group of visionary directors, Taiwan New Wave offered a fresh perspective on Taiwanese identity, and initiated a transformation in the nation’s cinematic landscape. Published by: CinemaWaves Team   |   Filed Under: Film Movements At its core, the movement was a response to Taiwan’s shifting socio-political landscape, marked by the lifting of martial law in 1987 after nearly four decades of authoritarian rule under the Kuomintang (KMT) regime. Martial law, which was imposed in 1949 following the retreat of the KMT to Taiwan after losing the Chinese Civil War, severely restricted freedom of expression. It stifled dissent and limited the types of stories that could be told through cinema, leading to a dominance of government-sanctioned propaganda and safe commercial films. With the lifting of martial law, Taiwanese society experienced a newfound sense of openness and liberalization. This political change laid the foundation for a burgeoning of artistic expression across various mediums, including literature, music, and importantly, cinema. Filmmakers, inspired by the wave of democratization and cultural revival sweeping Taiwan, seized the opportunity to explore themes that had long been suppressed or overlooked. Taiwan’s economic miracle during the 1980s also played a crucial role in the development of Taiwan New Cinema. The prosperity and availability of resources facilitated the production of films, enabling directors to experiment with their narratives and aesthetics. In 1982, a crucial moment occurred when two young directors, Hou Hsiao-hsien and Edward Yang, were invited to participate in a government-funded film anthology project called “In Our Time.” This project marked a departure from mainstream Taiwanese cinema by focusing on everyday life and the realities of Taiwan’s evolving society. They wanted to explore Taiwan’s complex identity, including the tension between traditional Chinese values and modernity. One of the driving forces behind Taiwan New Cinema was the quest for a distinct Taiwanese cultural identity. Taiwan’s history had been shaped by complex interplay of influences, including indigenous cultures, waves of migration from the mainland China, Japanese colonial rule and KMT governance. The movement sought to assert a unique Taiwanese identity, separate from the political ideologies of mainland China. It also served as a vehicle for social and political commentary. The films explored issues such as authoritarianism, historical trauma and urbanization, providing a critical examination of Taiwanese society at the time. The visual aesthetics were often marked by a sense of visual poetry. Directors used symbolism, extended takes, and a careful composition of shots. Being influenced by Italian Neorealist cinema and similar movements, they embraced realism, offering a contemplative approach to storytelling with meticulous attention to details. Well-developed and multi-dimensional characters were prioritized, portraying the complexities and internal struggles of individuals in the context of a changing society. Hou Hsiao-Hsien is considered the central figure of the Taiwan New Wave. His films, such as “A City of Sadness” (1989) and “The Puppetmaster” (1993), are celebrated for their slow, contemplative pacing, realistic portrayal of everyday life, and focus on Taiwanese history and identity. Hou’s work is known for its poetic storytelling, often exploring the intersection of personal and collective memory. “A City of Sadness” won the prestigious Golden Lion at the Venice Film Festival, further cementing Hou’s international reputation. Another luminary, Edward Yang, in films like “Taipei Story” (1985) and “Yi Yi” (2000), provided a keen and introspective view of contemporary Taiwanese society. In addition to depicting the changes in the Taiwanese middle class, he examined the struggle between the modern and the traditional, as well as the relationship between business and art. His films offered deep character studies and multifaceted narratives, reflecting the anxieties and aspirations of a rapidly modernizing Taiwan. “Yi Yi” is considered today one of the greatest films ever made. In contemplative cinema, Tsai Ming-liang‘s work stands out as truly remarkable. Works such as “Rebels of the Neon God” (1992) and “Vive L’Amour” (1994) are celebrated for their minimalist style, long takes, and focus on urban alienation. His films challenge conventional storytelling norms, inviting viewers to find beauty in the ordinary and mundane. “Vive L’Amour,” as well,  won the Golden Lion at the Venice Film Festival, which was a testament of Tsai’s unique vision in the world of cinema. The Taiwan New Wave was instrumental in shaping Taiwan’s cultural identity and inspiring a new generation of filmmakers to explore the complexities of their society. Emerging during a time of cultural and political change, the movement gave a cinematic voice to a nation in transition.",
+  "key_directors": [
+    "Chen Kunhou",
+    "Hou Hsiao-hsien",
+    "Edward Yang",
+    "Tsai Ming-liang",
+    "Ang Lee",
+    "Yee Chih-yen",
+    "Tian Zhuangzhuang",
+    "Zhang Yimou",
+    "Chen Kaige",
+    "Jiang Wen",
+    "Lou Ye",
+    "Jia Zhangke"
+  ],
+  "canonical_films": [
+    {
+      "title": "Growing Up",
+      "year": "1983",
+      "director": "Chen Kunhou",
+      "letterboxd_url": "https://letterboxd.com/film/growing-up/"
+    },
+    {
+      "title": "The Time to Live and the Time to Die",
+      "year": "1985",
+      "director": "Hou Hsiao-hsien",
+      "letterboxd_url": "https://letterboxd.com/film/the-time-to-live-and-the-time-to-die/"
+    },
+    {
+      "title": "A City of Sadness",
+      "year": "1989",
+      "director": "Hou Hsiao-hsien",
+      "letterboxd_url": "https://letterboxd.com/film/a-city-of-sadness/"
+    },
+    {
+      "title": "A Brighter Summer Day",
+      "year": "1991",
+      "director": "Edward Yang",
+      "letterboxd_url": "https://letterboxd.com/film/a-brighter-summer-day/"
+    },
+    {
+      "title": "Rebels of the Neon God",
+      "year": "1992",
+      "director": "Tsai Ming-liang",
+      "letterboxd_url": "https://letterboxd.com/film/rebels-of-the-neon-god/"
+    },
+    {
+      "title": "Eat Drink Man Woman",
+      "year": "1994",
+      "director": "Ang Lee",
+      "letterboxd_url": "https://letterboxd.com/film/eat-drink-man-woman/"
+    },
+    {
+      "title": "Vive L'Amour",
+      "year": "1994",
+      "director": "Tsai Ming-liang",
+      "letterboxd_url": "https://letterboxd.com/film/vive-lamour/"
+    },
+    {
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": "2000",
+      "director": "Ang Lee",
+      "letterboxd_url": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/"
+    },
+    {
+      "title": "Yi Yi",
+      "year": "2000",
+      "director": "Edward Yang",
+      "letterboxd_url": "https://letterboxd.com/film/yi-yi/"
+    },
+    {
+      "title": "Blue Gate Crossing",
+      "year": "2002",
+      "director": "Yee Chih-yen",
+      "letterboxd_url": "https://letterboxd.com/film/blue-gate-crossing/"
+    },
+    {
+      "title": "The Horse Thief",
+      "year": "1986",
+      "director": "Tian Zhuangzhuang",
+      "letterboxd_url": "https://letterboxd.com/film/the-horse-thief/"
+    },
+    {
+      "title": "Raise the Red Lantern",
+      "year": "1991",
+      "director": "Zhang Yimou",
+      "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/"
+    },
+    {
+      "title": "The Blue Kite",
+      "year": "1993",
+      "director": "Tian Zhuangzhuang",
+      "letterboxd_url": "https://letterboxd.com/film/the-blue-kite/"
+    },
+    {
+      "title": "Farewell My Concubine",
+      "year": "1993",
+      "director": "Chen Kaige",
+      "letterboxd_url": "https://letterboxd.com/film/farewell-my-concubine/"
+    },
+    {
+      "title": "To Live",
+      "year": "1994",
+      "director": "Zhang Yimou",
+      "letterboxd_url": "https://letterboxd.com/film/to-live/"
+    },
+    {
+      "title": "In the Heat of the Sun",
+      "year": "1994",
+      "director": "Jiang Wen",
+      "letterboxd_url": "https://letterboxd.com/film/in-the-heat-of-the-sun/"
+    },
+    {
+      "title": "Suzhou River",
+      "year": "2000",
+      "director": "Lou Ye",
+      "letterboxd_url": "https://letterboxd.com/film/suzhou-river/"
+    },
+    {
+      "title": "Devils on the Doorstep",
+      "year": "2000",
+      "director": "Jiang Wen",
+      "letterboxd_url": "https://letterboxd.com/film/devils-on-the-doorstep/"
+    },
+    {
+      "title": "Platform",
+      "year": "2000",
+      "director": "Jia Zhangke",
+      "letterboxd_url": "https://letterboxd.com/film/platform/"
+    },
+    {
+      "title": "Still Life",
+      "year": "2006",
+      "director": "Jia Zhangke",
+      "letterboxd_url": "https://letterboxd.com/film/still-life/"
+    }
+  ],
+  "influences_from": [
+    "japanese-new-wave",
+    "hong-kong-new-wave"
+  ],
+  "influences_to": [
+    "thai-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/taiwan-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "italian-neorealism",
+  "name": "Italian Neorealism",
+  "period_raw": "1943-1954",
+  "period": {
+    "start": 1943,
+    "end": 1954
+  },
+  "country": "Italy",
+  "countries": [
+    "Italy"
+  ],
+  "region": "Europe",
+  "coords": [
+    12.496,
+    41.903
+  ],
+  "summary": "In the aftermath of World War II, Italy was a country in ruins, both physically and economically. Amidst the rubble and despair, a group of visionary filmmakers arose to breathe new life into cinema by creating a film movement that would forever change the course of cinema’s history. Published by: CinemaWaves Team   |   Filed Under: Film Movements Italian Neorealism was a reaction to the lavish and escapist films produced under Mussolini’s fascist regime, which aimed to provide an idealized image of Italy filled with propaganda. The Neorealist style was developed by a circle of film critics that revolved around the magazine “Cinema”. Largely prevented from writing about politics, they criticized the Telefoni Bianchi (white telephone – also called deco films, were made by the Italian film industry in the 1930s and the 1940s imitating American comedies) films that dominated the industry at the time. These films, characterized by their glamorous settings and superficial themes, stood in stark contrast to the harsh realities faced by ordinary Italians.",
+  "long_description": "In the aftermath of World War II, Italy was a country in ruins, both physically and economically. Amidst the rubble and despair, a group of visionary filmmakers arose to breathe new life into cinema by creating a film movement that would forever change the course of cinema’s history. Published by: CinemaWaves Team   |   Filed Under: Film Movements Italian Neorealism was a reaction to the lavish and escapist films produced under Mussolini’s fascist regime, which aimed to provide an idealized image of Italy filled with propaganda. The Neorealist style was developed by a circle of film critics that revolved around the magazine “Cinema”. Largely prevented from writing about politics, they criticized the Telefoni Bianchi (white telephone – also called deco films, were made by the Italian film industry in the 1930s and the 1940s imitating American comedies) films that dominated the industry at the time. These films, characterized by their glamorous settings and superficial themes, stood in stark contrast to the harsh realities faced by ordinary Italians. The movement developed organically through a combination of necessity and artistic vision. Italy’s film industry had been severely weakened by the war, with limited resources and equipment. As a result, filmmakers were forced to work with non-professional actors, on location, and with minimal budgets. This practical necessity of working with limited means became a defining feature of Neorealism, which contributed to its documentary-like style and its authentic portrayal of life. Additionally, Neorealism drew inspiration from the French movement of Poetic Realism, which portrayed working-class life through a lens of lyrical melancholy, blending realism with a subtle romanticism. The movement also benefited from the cultural atmosphere in Italy, where a growing intellectual community, disillusioned by fascism and war, looked for new ways to express their socio-political concerns through art and cinema. The historical context of Italian Neorealism was also influenced by global shifts, particularly the Allied occupation of Italy and the rise of socialist ideas. Italy was struggling to rebuild both its economy and its national identity, and the population was grappling with poverty, unemployment, and the psychological scars left by the war. Neorealist filmmakers used cinema to explore these challenges, capturing the daily lives of ordinary Italians amid the rubble and ruin of a country trying to rise from the ashes, in the process making Italian Neorealism one of the most influential film movements of the 20th century. Italian Neorealist cinema is characterized by its commitment to portraying real-life situations and characters. These films frequently casted non-professional actors – ordinary people, laborers, and peasants as central figures, presenting a stark departure from the glamorous personas of mainstream cinema at the time. Many Neorealist films used improvised dialogue, giving a natural and unscripted quality to the performances. Locations of filming were selected from the streets and neighborhoods scarred by the war, contributing to the movement’s authentic and gritty aesthetic. The minimalist approach of the movement, both in terms of budget and narrative structure, allowed the stories and characters to take center stage. The emphasis was on raw and unfiltered storytelling, focusing on the mundane yet profound aspects of everyday life. This approach was not just a stylistic choice but a necessity, as the post-war economy left filmmakers with limited resources, prompting them to find innovative ways to tell their stories. A core element of Italian Neorealism is its sharp social critique, as films explore issues such as poverty, class struggle, and the human cost of war, shedding light on post-war Italian society. Often lacking traditional narrative structures, they focused on episodic storytelling that mirrors the unpredictability of real life. The absence of clear-cut resolutions or happy endings in these films reflects the uncertainty and complexity of the real world. While theorists and filmmakers have debated the exact origin of Neorealism, Luchino Visconti’s “Ossessione” (1943) is widely considered the first Neorealist film. Released during the German occupation of Italy, Ossessione marked a radical departure from the polished, escapist cinema of the Fascist era. The film was a gritty adaptation of James M. Cain’s “The Postman Always Rings Twice,” and its raw depiction of passion, poverty, and violence directly challenged the sanitized, idealized imagery promoted by Mussolini’s regime. As a result, Ossessione was banned by the Fascist authorities. Despite its controversial reception, the film has since become a cornerstone of Italian cinema, and the Italian Ministry of Culture has included it in its list of “100 Italian films to be saved.” Among the movement’s most prominent figures is Roberto Rossellini, often regarded as the father of Neorealism. His landmark film “Rome, Open City” (1945) was a powerful portrayal of life under Nazi occupation in Rome and captured the moral and emotional struggles of ordinary Italians. Shot in the immediate aftermath of the war, using real locations and non-professional actors, the film became a symbol of the resilience and determination of the Italian people in the face of oppression. Vittorio De Sica, another major figure of Italian Neorealism, further advanced the movement with films like “Bicycle Thieves” (1948) and “Umberto D.” (1952). De Sica’s works are celebrated for their empathy and attention to the struggles of Italy’s lower classes. “Bicycle Thieves“ is often hailed as a masterpiece of world cinema, focusing on the quest of a poor man and his son to recover a stolen bicycle essential to their survival.",
+  "key_directors": [
+    "Luchino Visconti",
+    "Roberto Rossellini",
+    "Vittorio De Sica"
+  ],
+  "canonical_films": [
+    {
+      "title": "Obsession",
+      "year": "1943",
+      "director": "Luchino Visconti",
+      "letterboxd_url": "https://letterboxd.com/film/obsession-1943/"
+    },
+    {
+      "title": "Rome, Open City",
+      "year": "1945",
+      "director": "Roberto Rossellini",
+      "letterboxd_url": "https://letterboxd.com/film/rome-open-city/"
+    },
+    {
+      "title": "Bicycle Thieves",
+      "year": "1948",
+      "director": "Vittorio De Sica",
+      "letterboxd_url": "https://letterboxd.com/film/bicycle-thieves/"
+    },
+    {
+      "title": "Umberto D.",
+      "year": "1952",
+      "director": "Vittorio De Sica",
+      "letterboxd_url": "https://letterboxd.com/film/umberto-d/"
+    },
+    {
+      "title": "Journey to Italy",
+      "year": "1954",
+      "director": "Roberto Rossellini",
+      "letterboxd_url": "https://letterboxd.com/film/journey-to-italy/"
+    }
+  ],
+  "influences_from": [
+    "poetic-realism"
+  ],
+  "influences_to": [
+    "french-new-wave",
+    "cinema-novo",
+    "parallel-cinema",
+    "iranian-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/italian-neorealism/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

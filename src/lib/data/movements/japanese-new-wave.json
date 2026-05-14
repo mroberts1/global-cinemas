@@ -1,0 +1,103 @@
+{
+  "slug": "japanese-new-wave",
+  "name": "Japanese New Wave",
+  "period_raw": "1956 - late 1970s",
+  "period": {
+    "start": 1956,
+    "end": 1970
+  },
+  "country": "Japan",
+  "countries": [
+    "Japan"
+  ],
+  "region": "East Asia",
+  "coords": [
+    139.692,
+    35.69
+  ],
+  "summary": "The Japanese New Wave or Nuberu Bagu, as it’s known in Japan, represents a pivotal period in cinema of Japan, marked by a wave of artistic experimentation and exploration of social commentaries. It unfolded when a wave of young Japanese filmmakers embarked on a quest to redefine the very essence of filmmaking. Published by: CinemaWaves Team   |   Filed Under: Film Movements The Japanese New Wave developed in post-World War II Japan, a nation undergoing massive political, social, and cultural transformation. After the war, Japan was faced with the task of rebuilding, both physically, economically, and ideologically. The occupation by Allied forces introduced Western values and ideologies, which led to a blending of traditional Japanese customs with modern, often conflicting influences.",
+  "long_description": "The Japanese New Wave or Nuberu Bagu, as it’s known in Japan, represents a pivotal period in cinema of Japan, marked by a wave of artistic experimentation and exploration of social commentaries. It unfolded when a wave of young Japanese filmmakers embarked on a quest to redefine the very essence of filmmaking. Published by: CinemaWaves Team   |   Filed Under: Film Movements The Japanese New Wave developed in post-World War II Japan, a nation undergoing massive political, social, and cultural transformation. After the war, Japan was faced with the task of rebuilding, both physically, economically, and ideologically. The occupation by Allied forces introduced Western values and ideologies, which led to a blending of traditional Japanese customs with modern, often conflicting influences. This period of reconstruction also brought heightened tensions, as Japan sought to redefine its national identity while grappling with its imperialist past and the trauma of defeat. Amidst this complex environment, a new generation of filmmakers emerged, inspired by these domestic realities, and also by global film movements like the French New Wave and Italian Neorealism, both of which were focused on realism, anti-establishment themes, and experimentation. The Japanese New Wave was heavily influenced by the youth culture of the 1960s. In Japan, this generational clash between the youth and the more conservative values of their parents’ generation became a central theme. Filmmakers of the New Wave focused on the frustrations, dreams, and disillusionment of a younger generation that felt alienated from traditional Japanese society. This made the Japanese New Wave a unique reflection of its time, addressing issues like individualism versus collectivism, political unrest, and the impact of globalization on Japanese culture. Prior to the New Wave, major studios like Toho, Shochiku, and Nikkatsu controlled film production, churning out samurai epics, family melodramas, and escapist entertainment. However, the New Wave filmmakers rejected these conventions, pushing for more personal, socially relevant works. The Japanese New Wave embraced narrative experimentation, pushing the boundaries of storytelling. This experimentation included non-linear narratives, meta-narratives, and surrealism. Such innovative approaches challenged viewers’ expectations and encouraged them to engage with the films on an intellectual and emotional level. Occasionally, it delved into elements of psychedelia, exploring altered states of consciousness. These elements added a unique dimension to the narratives. Filmmakers confronted issues of sexuality and identity, often pushing against what was considered acceptable on screen. Iconic works like “In the Realm of the Senses” (1976) and “Funeral Parade of Roses” (1969) tackled themes of sexual liberation, gender fluidity, and presented eroticism in a fresh and provocative manner. Through their films, filmmakers challenged societal norms not only in terms of narrative content but also in their audacious and avant-garde visual styles. The movement also placed a strong emphasis on the visual and aesthetic aspects of filmmaking. Directors employed bold and unconventional cinematography, innovative editing techniques, and striking use of color and composition. The Japanese New Wave boasted a lineup of maverick filmmakers who left a great mark on the world of cinema. Among them, Nagisa Oshima, hailed as the enfant terrible of the movement, stood out with his bold, controversial works that tackled taboo subjects like sexuality, violence, and political unrest. Oshima’s “In the Realm of the Senses” (1976) remains one of his most infamous films, blending eroticism with a critique of Japan’s rigid social structures. Seijun Suzuki, known for his stylistic flair and unconventional approach to storytelling, also made a significant impact. His film “Tokyo Drifter” (1966) exemplifies his unique brand of filmmaking, with its vibrant color palette, surreal set pieces, and a plot that often veers into absurdity. Though his films were initially dismissed by mainstream studios, Suzuki’s rejection of conventional storytelling would later be celebrated for pushing the boundaries of cinematic form, influencing future generations both in Japan and internationally. Another importatn figure was Shohei Imamura, whose works delved into the most primal aspects of human nature and the moral decay lurking beneath the surface of Japanese society. His films depicted characters from society’s margins, prostitutes, criminals, and peasants, and explored themes of lust, survival, and the clash between traditional values and modernity. Imamura was also one of the few directors to win two Palme d’Or awards, first for “The Ballad of Narayama” (1983), and later for “The Eel” (1997). His films’ raw depictions of life’s complexities made him a critical figure in Japanese cinema.",
+  "key_directors": [
+    "Kō Nakahira",
+    "Shōhei Imamura",
+    "Hiroshi Teshigahara",
+    "Masahiro Shinoda",
+    "Kaneto Shindo",
+    "Seijun Suzuki",
+    "Toshio Matsumoto",
+    "Yoshishige Yoshida",
+    "Nagisa Ōshima"
+  ],
+  "canonical_films": [
+    {
+      "title": "Crazed Fruit",
+      "year": "1956",
+      "director": "Kō Nakahira",
+      "letterboxd_url": "https://letterboxd.com/film/crazed-fruit/"
+    },
+    {
+      "title": "Pigs and Battleships",
+      "year": "1961",
+      "director": "Shōhei Imamura",
+      "letterboxd_url": "https://letterboxd.com/film/pigs-and-battleships/"
+    },
+    {
+      "title": "Woman in the Dunes",
+      "year": "1964",
+      "director": "Hiroshi Teshigahara",
+      "letterboxd_url": "https://letterboxd.com/film/woman-in-the-dunes/"
+    },
+    {
+      "title": "Pale Flower",
+      "year": "1964",
+      "director": "Masahiro Shinoda",
+      "letterboxd_url": "https://letterboxd.com/film/pale-flower/"
+    },
+    {
+      "title": "Onibaba",
+      "year": "1964",
+      "director": "Kaneto Shindo",
+      "letterboxd_url": "https://letterboxd.com/film/onibaba/"
+    },
+    {
+      "title": "Tokyo Drifter",
+      "year": "1966",
+      "director": "Seijun Suzuki",
+      "letterboxd_url": "https://letterboxd.com/film/tokyo-drifter/"
+    },
+    {
+      "title": "Funeral Parade of Roses",
+      "year": "1969",
+      "director": "Toshio Matsumoto",
+      "letterboxd_url": "https://letterboxd.com/film/funeral-parade-of-roses/"
+    },
+    {
+      "title": "Eros + Massacre",
+      "year": "1969",
+      "director": "Yoshishige Yoshida",
+      "letterboxd_url": "https://letterboxd.com/film/eros-massacre/"
+    },
+    {
+      "title": "In the Realm of the Senses",
+      "year": "1976",
+      "director": "Nagisa Ōshima",
+      "letterboxd_url": "https://letterboxd.com/film/in-the-realm-of-the-senses/"
+    },
+    {
+      "title": "Vengeance Is Mine",
+      "year": "1979",
+      "director": "Shōhei Imamura",
+      "letterboxd_url": "https://letterboxd.com/film/vengeance-is-mine/"
+    }
+  ],
+  "influences_from": [
+    "french-new-wave",
+    "italian-neorealism"
+  ],
+  "influences_to": [
+    "hong-kong-new-wave",
+    "taiwan-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/japanese-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

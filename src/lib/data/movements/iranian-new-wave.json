@@ -1,0 +1,98 @@
+{
+  "slug": "iranian-new-wave",
+  "name": "Iranian New Wave",
+  "period_raw": "late 1960s - 2010s",
+  "period": {
+    "start": 1960,
+    "end": 2010
+  },
+  "country": "Iran",
+  "countries": [
+    "Iran"
+  ],
+  "region": "Middle East",
+  "coords": [
+    51.389,
+    35.689
+  ],
+  "summary": "In the latter half of the 20th century, a cinematic renaissance took shape in Iran that would leave a lasting mark on world cinema. The Iranian New Wave, also known as the Iranian New Cinema, emerged as a transformative cultural force, challenging conventions, offering a fresh perspective on storytelling, and redefining the relationship between cinema and society. Published by: CinemaWaves Team   |   Filed Under: Film Movements Understanding the Iranian New Wave requires acknowledging the political and cultural backdrop against which it unfolded. The 1960s and 1970s saw Iran in the midst of significant social and political shifts. The Shah’s (Mohammad Reza Shah, the last king of Iran) modernization and westernization efforts brought about rapid urbanization, relative prosperity and increased access to education, created a burgeoning middle class with newfound intellectual and artistic aspirations. This era of profound change was also marked by growing dissatisfaction, which eventually culminated in the Iranian Revolution in 1979.",
+  "long_description": "In the latter half of the 20th century, a cinematic renaissance took shape in Iran that would leave a lasting mark on world cinema. The Iranian New Wave, also known as the Iranian New Cinema, emerged as a transformative cultural force, challenging conventions, offering a fresh perspective on storytelling, and redefining the relationship between cinema and society. Published by: CinemaWaves Team   |   Filed Under: Film Movements Understanding the Iranian New Wave requires acknowledging the political and cultural backdrop against which it unfolded. The 1960s and 1970s saw Iran in the midst of significant social and political shifts. The Shah’s (Mohammad Reza Shah, the last king of Iran) modernization and westernization efforts brought about rapid urbanization, relative prosperity and increased access to education, created a burgeoning middle class with newfound intellectual and artistic aspirations. This era of profound change was also marked by growing dissatisfaction, which eventually culminated in the Iranian Revolution in 1979. The Iranian Revolution was a watershed moment in the country’s history, representing a seismic shift in political, social and cultural paradigms. It brought about the toppling of the monarchy, and the establishment of the Islamic Republic of Iran, governed by Islamic theocracy, radically altering the nation’s trajectory and eventual backsliding. In this tumultuous environment, Iranian filmmakers embarked on a quest to rediscover their cultural identity. The Iranian New Wave became a vehicle for this resurgence, enabling artists to connect with their roots, reflect on their society, and share their stories with the world. Filmmakers delved into the rich tapestry of Iranian history, traditions and everyday life, inviting audiences to experience the genuine spirit of the nation. A defining feature of the Iranian New Wave is its blend of realism with poetic elements. The narrative structure of these films combines straightforward storytelling with metaphorical and allegorical layers, creating a unique cinematic language that conveys deep emotional and philosophical themes. This approach allows filmmakers to explore the human condition, morality, and the complexities of Iranian society in a nuanced and engaging way. Social and political commentary is central to the Iranian New Wave. These films provide critiques of social, cultural, and political issues in Iran, addressing themes such as poverty, gender inequality, and the impact of tradition and modernity on the life of Iranians. Filmmakers used symbolism and allegory to navigate the constraints of censorship, discussing sensitive topics indirectly through metaphorical storytelling. One of the earliest voices of the Iranian New Wave was Forough Farrokhzad, whose documentary “The House is Black” (1963) is regarded today as one of the seminal works. The film, which depicts life in a leprosy colony, combines stark realism with lyrical narration, setting the tone for the movement’s blend of documentary and poetic elements. Abbas Kiarostami is one of the most acclaimed directors of the Iranian New Wave and worldwide. His film “Where is the Friend’s House?” (1987) exemplifies his minimalist style and focus on children’s experiences. Kiarostami’s work often blurs the line between fiction and documentary, as seen in “Close-Up” (1990), a film that mixes real-life events with reenactments. His film “Taste of Cherry” (1997) won the Palme d’Or at the Cannes Film Festival, further establishing movement’s international reputation. Mohsen Makhmalbaf is another key figure in the movement, known for his socially and politically charged films. His film “A Moment of Innocence” (1996) revisits a traumatic incident from Makhmalbaf’s youth when he stabbed a policeman during a protest, blending reality and fiction to explore themes of memory, reconciliation, and the passage of time. One remarkable aspect of the Iranian New Wave was the prominence of female directors and strong female characters. Filmmakers like Tahmineh Milani and Samira Makhmalbaf depicted the struggles, aspirations and resilience of Iranian women. Their work shed light on issues such as gender inequality, education, and the quest for self-determination in a society undergoing transformation and noticeable regression of women rights. The Iranian New Wave has left an indelible mark on both domestic and global cinema. The movement has brought Iranian cinema to the attention of international audiences and critics, earning numerous awards at prestigious film festivals such as Cannes, Venice, and Berlin. This recognition has helped to elevate Iranian filmmakers to global prominence and has inspired filmmakers around the world with its unique blend of realism, poetic storytelling, and social critique. However, it also faced significant challenges, including censorship and limited resources. Directors like Jafar Panahi, who faced censorship blockade, found creative ways to navigate these obstacles, sometimes making films in secret or under pseudonyms.",
+  "key_directors": [
+    "Forugh Farrokhzad",
+    "Dariush Mehrjui",
+    "Sohrab Shahid-Saless",
+    "Abbas Kiarostami",
+    "Mohsen Makhmalbaf",
+    "Jafar Panahi",
+    "Asghar Farhadi"
+  ],
+  "canonical_films": [
+    {
+      "title": "The House Is Black",
+      "year": "1963",
+      "director": "Forugh Farrokhzad",
+      "letterboxd_url": "https://letterboxd.com/film/the-house-is-black/"
+    },
+    {
+      "title": "The Cow",
+      "year": "1969",
+      "director": "Dariush Mehrjui",
+      "letterboxd_url": "https://letterboxd.com/film/the-cow-1969/"
+    },
+    {
+      "title": "Still Life",
+      "year": "1974",
+      "director": "Sohrab Shahid-Saless",
+      "letterboxd_url": "https://letterboxd.com/film/still-life-1974/"
+    },
+    {
+      "title": "Close-Up",
+      "year": "1990",
+      "director": "Abbas Kiarostami",
+      "letterboxd_url": "https://letterboxd.com/film/close-up/"
+    },
+    {
+      "title": "A Moment of Innocence",
+      "year": "1996",
+      "director": "Mohsen Makhmalbaf",
+      "letterboxd_url": "https://letterboxd.com/film/a-moment-of-innocence/"
+    },
+    {
+      "title": "Taste of Cherry",
+      "year": "1997",
+      "director": "Abbas Kiarostami",
+      "letterboxd_url": "https://letterboxd.com/film/taste-of-cherry/"
+    },
+    {
+      "title": "Crimson Gold",
+      "year": "2003",
+      "director": "Jafar Panahi",
+      "letterboxd_url": "https://letterboxd.com/film/crimson-gold/"
+    },
+    {
+      "title": "A Separation",
+      "year": "2011",
+      "director": "Asghar Farhadi",
+      "letterboxd_url": "https://letterboxd.com/film/a-separation/"
+    },
+    {
+      "title": "This Is Not a Film",
+      "year": "2011",
+      "director": "Jafar Panahi",
+      "letterboxd_url": "https://letterboxd.com/film/this-is-not-a-film/"
+    },
+    {
+      "title": "The Salesman",
+      "year": "2016",
+      "director": "Asghar Farhadi",
+      "letterboxd_url": "https://letterboxd.com/film/the-salesman-2016/"
+    }
+  ],
+  "influences_from": [
+    "italian-neorealism",
+    "french-new-wave"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/iranian-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

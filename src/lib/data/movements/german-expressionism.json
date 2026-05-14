@@ -1,0 +1,68 @@
+{
+  "slug": "german-expressionism",
+  "name": "German Expressionism",
+  "period_raw": "1913-1930",
+  "period": {
+    "start": 1913,
+    "end": 1930
+  },
+  "country": "Germany",
+  "countries": [
+    "Germany"
+  ],
+  "region": "Europe",
+  "coords": [
+    13.405,
+    52.52
+  ],
+  "summary": "German Expressionism stands out as one of the most distinctive styles in the era of silent film. Expressionism, as an artistic movement, originally emerged in poetry and the visual arts during the early 20th century, before finding its way into various fields like theater, architecture, and notably cinema around the time of the First World War. Published by: CinemaWaves Team   |   Filed Under: Film Movements German Expressionism started as an artistic movement in painting, theater, architecture, and literature. Artists such as Ernst Ludwig Kirchner, Wassily Kandinsky, and Emil Nolde rejected naturalistic representation in favor of distorted forms, vivid colors, and exaggerated emotions. This movement provided a visual language that would deeply influence Expressionist filmmakers. Additionally, they drew inspiration from the rich tradition of German Romanticism and Gothic literature, with its emphasis on the supernatural, the macabre, and the irrational.",
+  "long_description": "German Expressionism stands out as one of the most distinctive styles in the era of silent film. Expressionism, as an artistic movement, originally emerged in poetry and the visual arts during the early 20th century, before finding its way into various fields like theater, architecture, and notably cinema around the time of the First World War. Published by: CinemaWaves Team   |   Filed Under: Film Movements German Expressionism started as an artistic movement in painting, theater, architecture, and literature. Artists such as Ernst Ludwig Kirchner, Wassily Kandinsky, and Emil Nolde rejected naturalistic representation in favor of distorted forms, vivid colors, and exaggerated emotions. This movement provided a visual language that would deeply influence Expressionist filmmakers. Additionally, they drew inspiration from the rich tradition of German Romanticism and Gothic literature, with its emphasis on the supernatural, the macabre, and the irrational. The movement was born in the aftermath of World War I and the Weimar Republic’s fragile democracy. Despite the dire economic situation in the post-World War period, the German filmmaking business flourished. This success was attributed to the industry’s outstanding technical prowess but was predominantly driven by a national ban on most foreign films instituted in 1916. This restriction forced German filmmakers to develop their own unique styles and narratives, leading to an explosion of creativity and innovation in the industry. Regardless of the cinematic boom of this period, it is undeniable that the German population was grappling with social, psychological, and economic challenges, to which Expressionist cinema emerged as a response. The socio-political climate of the time, marked by instability and disillusionment, heavily influenced the themes and aesthetics of German Expressionist films. The horrors and traumas of the war, coupled with the uncertainty of the Weimar Republic era, were reflected in the stark, often grotesque imagery and themes of madness, betrayal, and existential dread. This era of film was not just an artistic endeavor but also a means for filmmakers to process and comment on the tumultuous reality around them. At its core, German Expressionism sought to convey the inner turmoil, anxieties, and societal discord of the post-World War I era felt in Europe. Through distorted sets, dramatic lighting, and nightmarish landscapes, it offered a subjective representation of the world. The purpose of employing these stylistic elements was to evoke emotions while simultaneously narrating a tale or presenting a commentary on the societal backdrop of the period. This movement aimed to present a reality that was more emotional and psychological than literal. One of the most significant contributions of German Expressionism to cinema was its study of the human psyche. These films frequently delved into the inner workings of characters’ minds, emphasizing the emotional turmoil and mental states of the protagonists. This psychological depth was groundbreaking and laid the foundation for future cinematic narratives. Characters in Expressionist films often found themselves in surreal and oppressive environments, mirroring their internal struggles, and blurring the lines between reality and hallucination. The visual style of German Expressionist films is among its most defining features. The use of chiaroscuro lighting – the stark interplay of light and darkness, created a haunting and otherworldly atmosphere. This technique heightened the emotional impact of the scenes, adding a sense of mystery and unease. German film critic Lotte Eisner favored the term “Helldunkel,” which she defined as “a kind of twilight of the German soul, manifesting itself in shadowy and enigmatic interiors or misty and ethereal landscapes.” The movement’s unique approach to set design and architecture played a crucial role in creating its distinctive aesthetic. Sets were constructed in a manner that defied naturalistic representation, featuring jagged lines, twisted shapes, and an overall sense of instability. These elements were used to symbolize the fractured state of the world and the characters’ psyches. The use of painted shadows and stark contrasts further enhanced the surreal and nightmarish quality of these environments, making them integral to the storytelling process. German Expressionist films also employed innovative camera techniques and special effects to enhance their storytelling. Techniques such as double exposure, miniatures, and creative use of camera angles allowed filmmakers to create visually stunning and thematically rich scenes. German Expressionism was a collaborative endeavor, propelled by visionary directors, cinematographers, and designers. Among the most distinguished figures within this film movement was Robert Wiene, famous for now iconic film “The Cabinet of Dr. Caligari” (1920). The film epitomizes Expressionist cinema, distinguished by its surreal, distorted sets and with a narrative that delves into the darkest corners of imagination. Fritz Lang, the genius behind many famous films, among them “Metropolis” (1927) and “M“ (1931), both regarding as masterpieces that represents visual and thematic highlights of the movement. Metropolis embarked on a exploration of the consequences of industrialization and the dehumanizing effects of technology on society. His visual style had a great impact on the development of science fiction and thriller genres.",
+  "key_directors": [
+    "Paul Wegener",
+    "Robert Wiene",
+    "F. W. Murnau",
+    "Fritz Lang"
+  ],
+  "canonical_films": [
+    {
+      "title": "The Student of Prague",
+      "year": "1913",
+      "director": "Paul Wegener",
+      "letterboxd_url": "https://letterboxd.com/film/the-student-of-prague-1913/"
+    },
+    {
+      "title": "The Cabinet of Dr. Caligari",
+      "year": "1920",
+      "director": "Robert Wiene",
+      "letterboxd_url": "https://letterboxd.com/film/the-cabinet-of-dr-caligari-1920/"
+    },
+    {
+      "title": "Nosferatu",
+      "year": "1922",
+      "director": "F. W. Murnau",
+      "letterboxd_url": "https://letterboxd.com/film/nosferatu/"
+    },
+    {
+      "title": "Metropolis",
+      "year": "1927",
+      "director": "Fritz Lang",
+      "letterboxd_url": "https://letterboxd.com/film/metropolis/"
+    },
+    {
+      "title": "M",
+      "year": "1931",
+      "director": "Fritz Lang",
+      "letterboxd_url": "https://letterboxd.com/film/m/"
+    }
+  ],
+  "influences_from": [
+    "cinema-of-attractions"
+  ],
+  "influences_to": [
+    "film-noir",
+    "surrealist-cinema",
+    "new-german-cinema"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/german-expressionism/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

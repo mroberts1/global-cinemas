@@ -1,0 +1,66 @@
+{
+  "slug": "new-extremity",
+  "name": "New Extremity",
+  "period_raw": "late 1990s - now",
+  "period": {
+    "start": 1990,
+    "end": null
+  },
+  "country": "France",
+  "countries": [
+    "France"
+  ],
+  "region": "Europe",
+  "coords": [
+    2.349,
+    48.864
+  ],
+  "summary": "Cinema as an art form, has the unique ability to challenge societal norms, push the boundaries of storytelling and provoke intense emotions. One of the most striking and controversial film movements to have emerged is New Extremity. Characterized by its exploration of the darkest aspects of the human experience, this movement seeks to shock, disturb and challenge. Published by: CinemaWaves Team   |   Filed Under: Film Movements New Extremity, also known as New French Extremity, is a relatively modern film movement that emerged in the late 20th and early 21st centuries, as a response to both the legacy of French cinema and the broader global trends in horror and transgressive filmmaking.",
+  "long_description": "Cinema as an art form, has the unique ability to challenge societal norms, push the boundaries of storytelling and provoke intense emotions. One of the most striking and controversial film movements to have emerged is New Extremity. Characterized by its exploration of the darkest aspects of the human experience, this movement seeks to shock, disturb and challenge. Published by: CinemaWaves Team   |   Filed Under: Film Movements New Extremity, also known as New French Extremity, is a relatively modern film movement that emerged in the late 20th and early 21st centuries, as a response to both the legacy of French cinema and the broader global trends in horror and transgressive filmmaking. Started primarily in France, before spreading to other parts of Europe, it surfaced during a time of societal discontent and cultural shifts, with globalization, economic uncertainties, and political unrest fueling a sense of alienation. This shifting socio-political landscape laid the foundation for filmmakers to explore themes of violence, sexuality, and existential despair. The movement’s films became known for their graphic, unsettling scenes and their desire to confront the anxieties and taboos of modern life. The directors of New French Extremity drew inspiration from a variety of international movements that had previously challenged conventional storytelling and embraced transgressive themes. Filmmakers such as David Lynch, known for his surrealist explorations of the subconscious, and David Cronenberg, famous for his body horror films, were significant influences on the movement. Italian giallo films, with their blend of horror, eroticism, and violence, also played a crucial role in shaping the aesthetic and thematic approaches of New French Extremity. The term “New French Extremity” was coined by critic James Quandt in the early 2000s to describe this new wave of films that seemed to revel in pushing the limits of on-screen violence and discomfort. New Extremity films are not solely defined by their graphic content, they also engage in deep thematic exploration and social commentary. The movement defies conventional storytelling techniques, opting for nonlinear narratives and fragmented plots. These films critique societal norms, while questioning moral and ethical boundaries. Violence and morality: Many films in the movement examine the nature of violence and its impact on individuals and society, depicting violence in a way that forces viewers to confront its reality and consequences. Sexuality and identity: The explicit portrayal of sexuality in these films serves to challenge conventional attitudes and explore complex issues of desire, sadomasochism and power dynamics. Alienation and existentialism: Themes of alienation, existential despair, and the search for meaning are prevalent in New Extremity films. Characters often struggle with their inner turmoil, reflecting broader existential questions. The most direct and highly impactful figure of the modern European extreme cinema is undeniably Michael Haneke, regarded as the godfather of New Extremity. Haneke’s movies, such as “Benny’s Video” (1992)  and “The Piano Teacher” (2001), are widely recognized for their introspective exploration of violence. His work stands out for its contemplative and self-aware portrayal of violent themes within the narratives. Known for his unflinching and immersive filmmaking style, Gaspar Noe‘s first film “I Stand Alone” (1998), is cited as a key work in the New Extremity movement. Its unflinching portrayal of a butcher’s descent into violence and madness set a new standard for graphic images and psychological intensity in French cinema. His second film “Irreversible” (2002), with its non-linear narrative and graphic depictions of violence and rape, caused a sensation at the Cannes Film Festival, shocking audiences and garnering both praise and criticism.",
+  "key_directors": [
+    "Gaspar Noé",
+    "Claire Denis",
+    "Olivier Assayas",
+    "Bertrand Bonello"
+  ],
+  "canonical_films": [
+    {
+      "title": "I Stand Alone",
+      "year": "1998",
+      "director": "Gaspar Noé",
+      "letterboxd_url": "https://letterboxd.com/film/i-stand-alone/"
+    },
+    {
+      "title": "Trouble Every Day",
+      "year": "2001",
+      "director": "Claire Denis",
+      "letterboxd_url": "https://letterboxd.com/film/trouble-every-day/"
+    },
+    {
+      "title": "Demonlover",
+      "year": "2002",
+      "director": "Olivier Assayas",
+      "letterboxd_url": "https://letterboxd.com/film/demonlover/"
+    },
+    {
+      "title": "House of Tolerance",
+      "year": "2011",
+      "director": "Bertrand Bonello",
+      "letterboxd_url": "https://letterboxd.com/film/house-of-tolerance/"
+    },
+    {
+      "title": "Climax",
+      "year": "2018",
+      "director": "Gaspar Noé",
+      "letterboxd_url": "https://letterboxd.com/film/climax-2018/"
+    }
+  ],
+  "influences_from": [
+    "surrealist-cinema",
+    "cinema-du-look",
+    "dogme-95"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/new-extremity/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

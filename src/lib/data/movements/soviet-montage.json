@@ -1,0 +1,69 @@
+{
+  "slug": "soviet-montage",
+  "name": "Soviet Montage",
+  "period_raw": "1924 - 1935",
+  "period": {
+    "start": 1924,
+    "end": 1935
+  },
+  "country": "Soviet Union",
+  "countries": [
+    "Russia",
+    "Ukraine"
+  ],
+  "region": "Europe",
+  "coords": [
+    37.618,
+    55.756
+  ],
+  "summary": "The idea of Soviet Montage theory was first brought up by director Lev Kuleshov, that an idea or an emotion might not be adequately expressed in a single frame. Two distinct images can be seen by the audience, who subconsciously assigns them a larger context. His method altered how time and space were merged into films, leading to the development of the \"montage\" that still influence modern film, and was important throughout cinematic history.",
+  "long_description": "The idea of Soviet Montage theory was first brought up by director Lev Kuleshov, that an idea or an emotion might not be adequately expressed in a single frame. Two distinct images can be seen by the audience, who subconsciously assigns them a larger context. His method altered how time and space were merged into films, leading to the development of the \"montage\" that still influence modern film, and was important throughout cinematic history.",
+  "key_directors": [
+    "Sergei Eisenstein",
+    "Dziga Vertov",
+    "Alexander Dovzhenko"
+  ],
+  "canonical_films": [
+    {
+      "title": "Battleship Potemkin",
+      "year": "1925",
+      "director": "Sergei Eisenstein",
+      "letterboxd_url": "https://letterboxd.com/film/battleship-potemkin/"
+    },
+    {
+      "title": "Strike",
+      "year": "1925",
+      "director": "Sergei Eisenstein",
+      "letterboxd_url": "https://letterboxd.com/film/strike/"
+    },
+    {
+      "title": "October (Ten Days that Shook the World)",
+      "year": "1928",
+      "director": "Sergei Eisenstein",
+      "letterboxd_url": "https://letterboxd.com/film/october-ten-days-that-shook-the-world/"
+    },
+    {
+      "title": "Man with a Movie Camera",
+      "year": "1929",
+      "director": "Dziga Vertov",
+      "letterboxd_url": "https://letterboxd.com/film/man-with-a-movie-camera/"
+    },
+    {
+      "title": "Earth",
+      "year": "1930",
+      "director": "Alexander Dovzhenko",
+      "letterboxd_url": "https://letterboxd.com/film/earth-1930/"
+    }
+  ],
+  "influences_from": [
+    "cinema-of-attractions",
+    "italian-futurism"
+  ],
+  "influences_to": [
+    "cinema-novo",
+    "third-cinema",
+    "cuban-revolutionary-cinema"
+  ],
+  "cinema_waves_url": null,
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

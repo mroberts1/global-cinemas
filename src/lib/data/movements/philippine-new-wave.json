@@ -1,0 +1,63 @@
+{
+  "slug": "philippine-new-wave",
+  "name": "Philippine New Wave",
+  "period_raw": "early 2000s - now",
+  "period": {
+    "start": 2000,
+    "end": null
+  },
+  "country": "Philippines",
+  "countries": [
+    "Philippines"
+  ],
+  "region": "Southeast Asia",
+  "coords": [
+    120.984,
+    14.599
+  ],
+  "summary": "The Philippine New Wave, also known as the Filipino New Wave, is a currently active movement in Philippine cinema that unfolded in the early 2000s. It is characterized by a departure from traditional filmmaking practices and narratives, while embracing digital technology. The movement has gained worldwide recognition and has been pivotal in revitalizing Philippine cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements Following the first golden age (1950s – 1960s) and the second (1970s – early 1980s), the Philippine film industry experienced a dramatic decline in the mid-1980s to 1990s. Hollywood films increasingly dominated theater sales, and fewer than twenty local films were being produced yearly. As a result, many production houses stopped making films after losing millions of pesos.",
+  "long_description": "The Philippine New Wave, also known as the Filipino New Wave, is a currently active movement in Philippine cinema that unfolded in the early 2000s. It is characterized by a departure from traditional filmmaking practices and narratives, while embracing digital technology. The movement has gained worldwide recognition and has been pivotal in revitalizing Philippine cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements Following the first golden age (1950s – 1960s) and the second (1970s – early 1980s), the Philippine film industry experienced a dramatic decline in the mid-1980s to 1990s. Hollywood films increasingly dominated theater sales, and fewer than twenty local films were being produced yearly. As a result, many production houses stopped making films after losing millions of pesos. The origins of the Philippine New Wave can be traced to the late 1990s and early 2000s, a period marked by significant technological advancements and a growing discontent with mainstream Philippine cinema. The cheaper production costs associated with digital media facilitated the rebirth of filmmaking in the Philippines. Several factors contributed to the rise of the New Wave movement: Technological Advancements: The advent of digital filmmaking technology made it more affordable for aspiring filmmakers to create high-quality films without the need for expensive film stock and equipment. Independent Spirit: Inspired by the global independent movement like Dogme 95, Filipino filmmakers began to experiment with new storytelling techniques and explore personal and socially relevant themes. This shift was a response to the constraints of the commercial film industry and a desire to present more authentic narratives. Film Festivals and Workshops: Local film festivals and workshops played a crucial role as well. Festivals like Cinemalaya and Cinema One Originals provided platforms for independent filmmakers to gain wider recognition. One of the defining features of the Philippine New Wave is its embrace of digital technology. The use of digital cameras and editing software allowed filmmakers to produce films on lower budgets, bypassing the high costs associated with traditional film production. This technological shift opened up new possibilities for expression and experimentation. The New Wave films usually feature unconventional narratives, non-linear storytelling, and a focus on personal and social issues. Films tend to be more experimental in form compared to mainstream Philippine cinema. Directors frequently employ techniques such as long takes, minimal dialogue, and improvisation to create a more immersive and authentic experience. Many films tackle issues such as poverty, corruption, and political unrest, and provide a raw and unfiltered look at Philippine society, highlighting the struggles of marginalized. This commitment to social realism has been a hallmark of the New Wave. The most prominent figure in the New Wave, Lav Diaz is known for his black and white, epic-length, films that run for several hours. His works like “Evolution of a Filipino Family” (2004), “Norte, the End of History” (2013), and “From What Is Before” (2014), are critically acclaimed for their depth and artistry. Diaz’s films explore themes of history, identity, and social justice, providing a deep commentary on the unique Filipino experience. His contemplative style challenges traditional narrative structures, offering audiences an immersive and reflective viewing experience. Known for his gritty and realistic portrayal of life, Brillante Mendoza‘s work is characterized by its unflinching depiction of social issues. Films like “Kinatay” (2009) highlight the harsh realities faced by ordinary Filipinos, shedding light on issues such as poverty, crime, and cultural traditions. Mendoza’s raw storytelling has made him a significant voice in the New Wave movement.",
+  "key_directors": [
+    "Lav Diaz",
+    "Auraeus Solito",
+    "Brillante Mendoza"
+  ],
+  "canonical_films": [
+    {
+      "title": "Evolution of a Filipino Family",
+      "year": "2004",
+      "director": "Lav Diaz",
+      "letterboxd_url": "https://letterboxd.com/film/evolution-of-a-filipino-family/"
+    },
+    {
+      "title": "The Blossoming of Maximo Oliveros",
+      "year": "2005",
+      "director": "Auraeus Solito",
+      "letterboxd_url": "https://letterboxd.com/film/the-blossoming-of-maximo-oliveros/"
+    },
+    {
+      "title": "The Execution of P",
+      "year": "2009",
+      "director": "Brillante Mendoza",
+      "letterboxd_url": "https://letterboxd.com/film/the-execution-of-p/"
+    },
+    {
+      "title": "Norte, the End of History",
+      "year": "2013",
+      "director": "Lav Diaz",
+      "letterboxd_url": "https://letterboxd.com/film/norte-the-end-of-history/"
+    },
+    {
+      "title": "From What Is Before",
+      "year": "2014",
+      "director": "Lav Diaz",
+      "letterboxd_url": "https://letterboxd.com/film/from-what-is-before/"
+    }
+  ],
+  "influences_from": [
+    "third-cinema"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/philippine-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

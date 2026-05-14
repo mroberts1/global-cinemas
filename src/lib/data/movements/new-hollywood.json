@@ -1,0 +1,136 @@
+{
+  "slug": "new-hollywood",
+  "name": "New Hollywood",
+  "period_raw": "1966 - 1984",
+  "period": {
+    "start": 1966,
+    "end": 1984
+  },
+  "country": "United States",
+  "countries": [
+    "United States"
+  ],
+  "region": "North America",
+  "coords": [
+    -118.243,
+    34.052
+  ],
+  "summary": "Or American New Wave, a revolutionary era in American filmmaking, that challenged traditional studio practices and embraced artistic freedom. With visionary directors like Kubrick, Coppola, Scorsese, Altman, and groundbreaking films like \"The Godfather\", \"Taxi Driver\" and \"2001: A Space Odyssey\", it introduced innovative storytelling, tackled societal issues, and left an enduring legacy that continues to influence contemporary cinema worldwide. American New Wave's legacy persist as a beacon of cinematic innovation and cultural reflection, and remains one of the most important film movements in cinema to this date.",
+  "long_description": "Or American New Wave, a revolutionary era in American filmmaking, that challenged traditional studio practices and embraced artistic freedom. With visionary directors like Kubrick, Coppola, Scorsese, Altman, and groundbreaking films like \"The Godfather\", \"Taxi Driver\" and \"2001: A Space Odyssey\", it introduced innovative storytelling, tackled societal issues, and left an enduring legacy that continues to influence contemporary cinema worldwide. American New Wave's legacy persist as a beacon of cinematic innovation and cultural reflection, and remains one of the most important film movements in cinema to this date.",
+  "key_directors": [
+    "Arthur Penn",
+    "Stanley Kubrick",
+    "Dennis Hopper",
+    "Francis Ford Coppola",
+    "George Lucas",
+    "Robert Altman",
+    "John Cassavetes",
+    "Steven Spielberg",
+    "Martin Scorsese",
+    "Sidney Lumet",
+    "Terrence Malick",
+    "Michael Cimino"
+  ],
+  "canonical_films": [
+    {
+      "title": "Bonnie and Clyde",
+      "year": "1967",
+      "director": "Arthur Penn",
+      "letterboxd_url": "https://letterboxd.com/film/bonnie-and-clyde/"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "director": "Stanley Kubrick",
+      "letterboxd_url": "https://letterboxd.com/film/2001-a-space-odyssey/"
+    },
+    {
+      "title": "Easy Rider",
+      "year": "1969",
+      "director": "Dennis Hopper",
+      "letterboxd_url": "https://letterboxd.com/film/easy-rider/"
+    },
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "director": "Francis Ford Coppola",
+      "letterboxd_url": "https://letterboxd.com/film/the-godfather/"
+    },
+    {
+      "title": "American Graffiti",
+      "year": "1973",
+      "director": "George Lucas",
+      "letterboxd_url": "https://letterboxd.com/film/american-graffiti/"
+    },
+    {
+      "title": "The Long Goodbye",
+      "year": "1973",
+      "director": "Robert Altman",
+      "letterboxd_url": "https://letterboxd.com/film/the-long-goodbye/"
+    },
+    {
+      "title": "A Woman Under the Influence",
+      "year": "1974",
+      "director": "John Cassavetes",
+      "letterboxd_url": "https://letterboxd.com/film/a-woman-under-the-influence/"
+    },
+    {
+      "title": "Jaws",
+      "year": "1975",
+      "director": "Steven Spielberg",
+      "letterboxd_url": "https://letterboxd.com/film/jaws/"
+    },
+    {
+      "title": "Taxi Driver",
+      "year": "1976",
+      "director": "Martin Scorsese",
+      "letterboxd_url": "https://letterboxd.com/film/taxi-driver/"
+    },
+    {
+      "title": "Network",
+      "year": "1976",
+      "director": "Sidney Lumet",
+      "letterboxd_url": "https://letterboxd.com/film/network/"
+    },
+    {
+      "title": "Days of Heaven",
+      "year": "1978",
+      "director": "Terrence Malick",
+      "letterboxd_url": "https://letterboxd.com/film/days-of-heaven/"
+    },
+    {
+      "title": "The Deer Hunter",
+      "year": "1978",
+      "director": "Michael Cimino",
+      "letterboxd_url": "https://letterboxd.com/film/the-deer-hunter/"
+    },
+    {
+      "title": "Big Wednesday",
+      "year": "1978",
+      "director": "John Milius",
+      "letterboxd_url": "https://letterboxd.com/film/big-wednesday/"
+    },
+    {
+      "title": "All That Jazz",
+      "year": "1979",
+      "director": "Bob Fosse",
+      "letterboxd_url": "https://letterboxd.com/film/all-that-jazz/"
+    },
+    {
+      "title": "Manhattan",
+      "year": "1979",
+      "director": "Woody Allen",
+      "letterboxd_url": "https://letterboxd.com/film/manhattan/"
+    }
+  ],
+  "influences_from": [
+    "italian-neorealism",
+    "french-new-wave"
+  ],
+  "influences_to": [
+    "american-new-wave",
+    "american-eccentric-cinema"
+  ],
+  "cinema_waves_url": null,
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

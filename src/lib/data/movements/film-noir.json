@@ -1,0 +1,71 @@
+{
+  "slug": "film-noir",
+  "name": "Film Noir",
+  "period_raw": "late 1930s - late 1950s",
+  "period": {
+    "start": 1930,
+    "end": 1950
+  },
+  "country": "United States",
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "region": "North America",
+  "coords": [
+    -118.243,
+    34.052
+  ],
+  "summary": "Film noir emerged in the early 1940s as a distinctive style within American cinema, marked by its dark, moody aesthetics and cynical narratives. The term “film noir,” meaning “black film” or “dark film” in French, was coined by French critics in the post-World War II era, who observed the appearance of American crime dramas with similar shadowy visuals and themes of moral ambiguity. Published by: CinemaWaves Team   |   Filed Under: Film Movements One of the most significant influences on film noir was German Expressionism, an artistic movement from the 1910s and 1920s. Expressionist films such as “The Cabinet of Dr. Caligari” (1920) and “M“ (1931) utilized stark, high-contrast lighting, distorted sets, and shadowy visuals to evoke a sense of psychological unease and horror. These techniques were brought to Hollywood by German filmmakers who fled the rise of Nazism in the 1930s, including Fritz Lang, Robert Siodmak, and Billy Wilder. Their influence helped shape the visual style of film noir, characterized by chiaroscuro lighting, deep shadows, and unconventional camera angles.",
+  "long_description": "Film noir emerged in the early 1940s as a distinctive style within American cinema, marked by its dark, moody aesthetics and cynical narratives. The term “film noir,” meaning “black film” or “dark film” in French, was coined by French critics in the post-World War II era, who observed the appearance of American crime dramas with similar shadowy visuals and themes of moral ambiguity. Published by: CinemaWaves Team   |   Filed Under: Film Movements One of the most significant influences on film noir was German Expressionism, an artistic movement from the 1910s and 1920s. Expressionist films such as “The Cabinet of Dr. Caligari” (1920) and “M“ (1931) utilized stark, high-contrast lighting, distorted sets, and shadowy visuals to evoke a sense of psychological unease and horror. These techniques were brought to Hollywood by German filmmakers who fled the rise of Nazism in the 1930s, including Fritz Lang, Robert Siodmak, and Billy Wilder. Their influence helped shape the visual style of film noir, characterized by chiaroscuro lighting, deep shadows, and unconventional camera angles. Another precursor to film noir was French Poetic Realism, a film movement from the 1930s famous for portraying doomed characters in urban settings. Films such as Marcel Carne’s “Le Quai des Brumes” (1938) and Jean Renoir’s “La Bete Humaine” (1938) depicted characters trapped by fate and their own flaws, set against moody, atmospheric backdrops. Additionally, the hard boiled crime fiction of the 1920s and 1930s played a crucial role in shaping the narratives. Authors like Dashiell Hammett and Raymond Chandler crafted gritty stories featuring cynical detectives and morally complex characters, providing a rich source of material for film adaptations. The socio-economic context of post-World War II America was also crucial in movements the development. The war had left a great impact on American society, as the returning soldiers faced a changed society, economic uncertainty, and the beginning of the Cold War era, which was marked by paranoia and fear of nuclear annihilation. These societal tensions were reflected in the themes of film noir, which explored corruption, betrayal, and the darker aspects of human nature. At its core, film noir is defined by its distinctive visual and thematic elements. The visual style is characterized by low-key lighting, creating high contrast between light and shadow. This chiaroscuro effect, combined with the frequent use of oblique angles and deep focus, enhances the sense of mystery and tension. Urban settings, often depicted at night with rain-soaked streets and neon lights, are common backdrops, adding to the atmospheric mood. Thematically, film noir explores the darker aspects of human nature and society. Central to many noir films is the figure of the anti-hero, a protagonist who is usually morally ambiguous and deeply flawed. These characters are frequently entangled in complex, twisting plots that involve crime and corruption. The femme fatale – a seductive and manipulative woman, is another iconic character in noir. Noir films are famous for their psychological depth, examining the inner turmoil and motivations of their characters. This focus on the psyche is a significant contribution of the genre, laying the groundwork for future explorations of character and morality in cinema. The pervasive sense of fatalism and existential dread in noir narratives reflects the broader societal disillusionment of the time, making the genre a powerful commentary on the human condition. Film noir was a collaborative endeavor by visionary directors, writers, and cinematographers. Among the most distinguished figures in this genre is John Huston, whose film “The Maltese Falcon” (1941) is considered one of the first major noirs, setting the standard for the genre with its complex plot and dark atmosphere. Billy Wilder‘s “Double Indemnity” (1944) further defined noir, featuring a quintessential femme fatale and a narrative centered on greed and betrayal. Howard Hawks made significant contributions to the noir genre with his film “The Big Sleep” (1946). Starring Humphrey Bogart and Lauren Bacall, The Big Sleep is renowned for its intricate plot, sharp dialogue, and the palpable chemistry between its leads. Hawks’ direction added a layer of sophistication to the genre, blending noir’s dark themes with a sense of wit and style. Orson Welles‘ “Touch of Evil” (1958) is another landmark, known for its innovative use of long takes and deep focus cinematography. Welles’ film exemplifies the genre’s ability to blend stylistic experimentation with compelling storytelling. Alfred Hitchcock, though not exclusively a noir director, contributed significantly to the genre with films like “Strangers on a Train” (1951) and “Shadow of a Doubt” (1943), which infused noir elements with psychological depth. Film noir is often discussed as a style, but it also has elements of both a movement and a genre. Here’s a breakdown of each perspective:",
+  "key_directors": [
+    "John Huston",
+    "Billy Wilder",
+    "Otto Preminger",
+    "Howard Hawks",
+    "Orson Welles"
+  ],
+  "canonical_films": [
+    {
+      "title": "The Maltese Falcon",
+      "year": "1941",
+      "director": "John Huston",
+      "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/"
+    },
+    {
+      "title": "Double Indemnity",
+      "year": "1944",
+      "director": "Billy Wilder",
+      "letterboxd_url": "https://letterboxd.com/film/double-indemnity/"
+    },
+    {
+      "title": "Laura",
+      "year": "1944",
+      "director": "Otto Preminger",
+      "letterboxd_url": "https://letterboxd.com/film/laura/"
+    },
+    {
+      "title": "The Big Sleep",
+      "year": "1946",
+      "director": "Howard Hawks",
+      "letterboxd_url": "https://letterboxd.com/film/the-big-sleep/"
+    },
+    {
+      "title": "Touch of Evil",
+      "year": "1958",
+      "director": "Orson Welles",
+      "letterboxd_url": "https://letterboxd.com/film/touch-of-evil/"
+    }
+  ],
+  "influences_from": [
+    "german-expressionism",
+    "poetic-realism"
+  ],
+  "influences_to": [
+    "cinema-du-look",
+    "american-new-wave",
+    "korean-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/film-noir/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

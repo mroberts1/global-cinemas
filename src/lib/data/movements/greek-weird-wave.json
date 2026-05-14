@@ -1,0 +1,64 @@
+{
+  "slug": "greek-weird-wave",
+  "name": "Greek Weird Wave",
+  "period_raw": "late 2000s - now",
+  "period": {
+    "start": 2000,
+    "end": null
+  },
+  "country": "Greece",
+  "countries": [
+    "Greece"
+  ],
+  "region": "Europe",
+  "coords": [
+    23.728,
+    37.984
+  ],
+  "summary": "The Greek Weird Wave is a loosely defined, unconventional, movement of Greek cinema that surfaced in the late 2000s as a response to the country’s economic and social challenges. Characterized by surreal storytelling, dark humor, departure from traditional narrative structures and its sheer “weirdness,” the films within this wave explore themes of alienation, identity and societal norms. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the Greek Weird Wave can be traced to the socio-economic and political landscape of Greece in the early 21st century. The economic crisis that began in 2008 greatly impacted Greek society, leading to a widespread unemployment, financial instability, and a reevaluation of the country’s identity. This turbulent period served as a backdrop for filmmakers who felt compelled to explore the human experience in the face of adversity.",
+  "long_description": "The Greek Weird Wave is a loosely defined, unconventional, movement of Greek cinema that surfaced in the late 2000s as a response to the country’s economic and social challenges. Characterized by surreal storytelling, dark humor, departure from traditional narrative structures and its sheer “weirdness,” the films within this wave explore themes of alienation, identity and societal norms. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the Greek Weird Wave can be traced to the socio-economic and political landscape of Greece in the early 21st century. The economic crisis that began in 2008 greatly impacted Greek society, leading to a widespread unemployment, financial instability, and a reevaluation of the country’s identity. This turbulent period served as a backdrop for filmmakers who felt compelled to explore the human experience in the face of adversity. The influence of the world cinema, particularly the work of directors outside the mainstream, played a pivotal role in shaping the Greek Weird Wave. Filmmakers were inspired by international movements such as Dogme 95, and the works of auteurs like David Lynch and Luis Bunuel. These influences encouraged Greek directors to break from the traditional storytelling norms, and experiment with narrative structures and visual aesthetics. The Greek Weird Wave wasn’t a deliberate initiative by a collective of filmmakers. Instead, it was a convergence of individual artistic expressions that shared a common spirit of innovation and change. As a postmodern film movement, one of the defining features of the Greek Weird Wave is its rejection of traditional storytelling structures. Directors often experiment with non-linear narratives, fragmented plots and enigmatic character arcs, while incorporating surreal and allegorical elements, blurring the line between reality and fantasy. A prevailing aspect is the usage of dark humor to highlight the absurdities of the society, and it serves as a vehicle for further critique. Filmmakers use their works to comment on contemporary issues of Greeks, addressing identity, conformity, familial relationships, and the impact of economic and political instability. The Weird Wave embraces minimalist visuals, sparse dialogue and deliberate pacing to create a unique atmosphere. Furthermore, the movement frequently defy genre conventions. It may blend elements of drama, comedy, and psychological thriller, sometimes resulting in absurdist works, making it challenging to categorize within traditional genre labels. Being a trailblazer and a pioneer of the Greek Weird Wave, Yorgos Lanthimos is renowned for his thought-provoking and unconventional films. One of his seminal works “Dogtooth” (2009), challenges notions of familial relationships, presenting a world where a father rigorously controls his children, shielding them from external influences and manipulating their perception of reality. “Dogtooth” not only solidified Lanthimos’ status as a visionary filmmaker, but also contributed significantly to the global recognition of the Greek Weird Wave. Having garnered attention for his work in the Greek film industry, Christos Nikou‘s feature debut, “Apples” (2020), explores themes of memory, identity and human connection. Nikou’s directorial style is characterized by a thoughtful approach to storytelling, with “Apples” standing as a testament to his ability to blend existential questions with a touch of humanity. Athina Rachel Tsangari is celebrated for her critically acclaimed film “Attenberg” (2010). It offers a fresh perspective on the coming-of-age genre, weaving together a narrative of relationships, sexuality, and societal expectations. Tsangari’s work is distinguished by its unique blend of stark realism and absurdist humor, usually focusing on the complexities of human behavior and societal norms. The Greek Weird Wave brought international attention to Greek cinema, expanding the reach of filmmakers like Yorgos Lanthimos and Athina Rachel Tsangari, who gained acclaim at major film festivals worldwide. This movement has influenced Greek cinema’s creative landscape, encouraging diverse narratives, styles, and themes. Its distinctive blend of surrealism, dark humor, and absurdism has resonated globally, criticizing modern Greek society through themes of authority, family dynamics, identity, and existential angst, and setting these films apart internationally with minimalist dialogue, unconventional structures, and striking visuals.",
+  "key_directors": [
+    "Yorgos Lanthimos",
+    "Athina Rachel Tsangari",
+    "Babis Makridis",
+    "Christos Nikou"
+  ],
+  "canonical_films": [
+    {
+      "title": "Dogtooth",
+      "year": "2009",
+      "director": "Yorgos Lanthimos",
+      "letterboxd_url": "https://letterboxd.com/film/dogtooth/"
+    },
+    {
+      "title": "Attenberg",
+      "year": "2010",
+      "director": "Athina Rachel Tsangari",
+      "letterboxd_url": "https://letterboxd.com/film/attenberg/"
+    },
+    {
+      "title": "The Lobster",
+      "year": "2015",
+      "director": "Yorgos Lanthimos",
+      "letterboxd_url": "https://letterboxd.com/film/the-lobster/"
+    },
+    {
+      "title": "Pity",
+      "year": "2018",
+      "director": "Babis Makridis",
+      "letterboxd_url": "https://letterboxd.com/film/pity-2018/"
+    },
+    {
+      "title": "Apples",
+      "year": "2020",
+      "director": "Christos Nikou",
+      "letterboxd_url": "https://letterboxd.com/film/apples/"
+    }
+  ],
+  "influences_from": [
+    "new-extremity"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/greek-weird-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

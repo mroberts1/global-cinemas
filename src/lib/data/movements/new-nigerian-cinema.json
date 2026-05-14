@@ -1,0 +1,63 @@
+{
+  "slug": "new-nigerian-cinema",
+  "name": "New Nigerian Cinema",
+  "period_raw": "mid 2000s - now",
+  "period": {
+    "start": 2000,
+    "end": null
+  },
+  "country": "Nigeria",
+  "countries": [
+    "Nigeria"
+  ],
+  "region": "Africa",
+  "coords": [
+    3.379,
+    6.524
+  ],
+  "summary": "New Nigerian Cinema, also known as New Nigerian Wave, or Nollywood 2.0, represents a transformative period in the Nigerian film industry. This renaissance, starting in the mid-2000s, signifies a departure from the low-budget, rapid-production approach that characterized earlier Nollywood films. It marks a shift towards higher quality films with improved storytelling, gaining significant international recognition. Published by: CinemaWaves Team   |   Filed Under: Film Movements Nollywood originated in the early 1990s, during a period of economic challenges in the Nigerian entertainment sector. The collapse of the state-owned television network and the decline of the Nigerian cinema industry created a demand for new forms of entertainment.",
+  "long_description": "New Nigerian Cinema, also known as New Nigerian Wave, or Nollywood 2.0, represents a transformative period in the Nigerian film industry. This renaissance, starting in the mid-2000s, signifies a departure from the low-budget, rapid-production approach that characterized earlier Nollywood films. It marks a shift towards higher quality films with improved storytelling, gaining significant international recognition. Published by: CinemaWaves Team   |   Filed Under: Film Movements Nollywood originated in the early 1990s, during a period of economic challenges in the Nigerian entertainment sector. The collapse of the state-owned television network and the decline of the Nigerian cinema industry created a demand for new forms of entertainment. Amateur filmmakers began producing films on videocassette, using inexpensive technology to create accessible and affordable movies. The release of “Living in Bondage” in 1992 by Kenneth Nnebue, is cited as the starting point for Nollywood. This low-budget film resonated with audiences through its portrayal of contemporary Nigerian issues, setting the template for subsequent Nollywood productions with quick turnaround, local themes, and direct-to-video distribution. From the early 1990s to the mid-2000s, Nollywood films were defined by their grassroots approach, often shot quickly with limited resources, and thriving on their strong local demand. Despite the lack of structure and professional training, the industry managed to reach audiences across Nigeria and Africa through informal distribution networks. By the mid-2000s, the limitations of early Nollywood became clear, with films criticized for technical shortcomings and simplistic narratives. The evolving global film landscape and growing local expectations pushed Nigerian filmmakers to finally improve. The mid-2000s marked a turning point as a new generation of filmmakers emerged. This period, known as the birth of New Nigerian Cinema, focused on improving production values, diversifying storytelling, and gaining grater international recognition. Improved production quality: New Nigerian Cinema is marked by significant upgrades in production quality, including better cinematography, sound design, and overall technical expertise. This resulted in higher quality films, with bigger budgets, that could compete internationally and be screened at prestigious festivals and theaters worldwide. Diverse and sophisticated storytelling: The narratives in New Nigerian Cinema are more varied and complex, addressing a wide range of themes and genres. Filmmakers often explore stories that resonate locally, as well as globally, blending traditional African storytelling with modern cinematic approach. International collaboration and recognition: Films have benefited from international collaborations, bringing experts from other countries. Festivals like TIFF and the Berlin International Film Festival started featuring some Nigerian films, which created more opportunities for Nigerian filmmakers. Professionalization of the industry: There has been a concerted effort to professionalize the Nigerian film industry with better training for actors, directors, and technical crews. Private sector and government support, through initiatives like “Project ACT Nollywood,” film festivals like AFRIFF, along with professional film schools, provide much needed platforms for education and networking. Known for films such as “The Figurine” (2009) and “October 1” (2014), Kunle Afolayan has been a pioneer in raising the bar for Nigerian films with his meticulous approach to storytelling and production quality. Kunles films usually explore historical and cultural themes, offering a dive into Nigeria’s past and present. With her blockbuster film “The Wedding Party” (2016), Kemi Adetiba demonstrated the potential for Nigerian films to achieve massive box office success while maintaining high standards. Her works are known for their vibrant storytelling and relatable characters, focusing on modern Nigerian life and issues.",
+  "key_directors": [
+    "Kunle Afolayan",
+    "Kemi Adetiba",
+    "Niyi Akinmolayan"
+  ],
+  "canonical_films": [
+    {
+      "title": "The Figurine: Araromire",
+      "year": "2009",
+      "director": "Kunle Afolayan",
+      "letterboxd_url": "https://letterboxd.com/film/the-figurine-araromire/"
+    },
+    {
+      "title": "October 1",
+      "year": "2014",
+      "director": "Kunle Afolayan",
+      "letterboxd_url": "https://letterboxd.com/film/october-1/"
+    },
+    {
+      "title": "The Wedding Party",
+      "year": "2016",
+      "director": "Kemi Adetiba",
+      "letterboxd_url": "https://letterboxd.com/film/the-wedding-party-2016/"
+    },
+    {
+      "title": "King of Boys",
+      "year": "2018",
+      "director": "Kemi Adetiba",
+      "letterboxd_url": "https://letterboxd.com/film/king-of-boys/"
+    },
+    {
+      "title": "The Arbitration",
+      "year": "2016",
+      "director": "Niyi Akinmolayan",
+      "letterboxd_url": "https://letterboxd.com/film/the-arbitration/"
+    }
+  ],
+  "influences_from": [
+    "third-cinema"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/new-nigerian-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

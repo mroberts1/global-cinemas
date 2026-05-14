@@ -1,0 +1,70 @@
+{
+  "slug": "cinema-novo",
+  "name": "Cinema Novo",
+  "period_raw": "1950s - early 1970s",
+  "period": {
+    "start": 1950,
+    "end": 1970
+  },
+  "country": "Brazil",
+  "countries": [
+    "Brazil"
+  ],
+  "region": "Latin America",
+  "coords": [
+    -43.196,
+    -22.907
+  ],
+  "summary": "Cinema Novo, meaning “New Cinema”, was a revolutionary film movement that originated in Brazil during the 1950s. It aimed to depart from the confines of traditional film, both aesthetically and thematically, and played a pivotal role in shaping Brazilian cinema and its cultural identity. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of Cinema Novo can be traced to the cultural and political landscape of Brazil in the 1950s, a time of growing urbanization, industrialization, and political unrest. The country was experiencing a social divide, with the elite enjoying wealth and power while the majority of the population lived in absolute poverty. The movement’s founding figures, including Glauber Rocha, Nelson Pereira dos Santos, and Ruy Guerra, were influenced by Marxist ideologies and saw film as a way to challenge the status quo and expose the harsh realities of life in Brazil.",
+  "long_description": "Cinema Novo, meaning “New Cinema”, was a revolutionary film movement that originated in Brazil during the 1950s. It aimed to depart from the confines of traditional film, both aesthetically and thematically, and played a pivotal role in shaping Brazilian cinema and its cultural identity. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of Cinema Novo can be traced to the cultural and political landscape of Brazil in the 1950s, a time of growing urbanization, industrialization, and political unrest. The country was experiencing a social divide, with the elite enjoying wealth and power while the majority of the population lived in absolute poverty. The movement’s founding figures, including Glauber Rocha, Nelson Pereira dos Santos, and Ruy Guerra, were influenced by Marxist ideologies and saw film as a way to challenge the status quo and expose the harsh realities of life in Brazil. The Brazilian political climate of the 1960s also played a significant role in shaping Cinema Novo. The country went through a period of political instability, culminating in a military coup in 1964 that established a dictatorship. This environment of repression and censorship only fueled the movement’s sense of rebellion, with filmmakers continuing to produce films that critiqued the government and the exploitation of Brazil’s people and resources. The movement also arose in response to the dominance of Hollywood films and the Brazilian studio system, which often produced formulaic, escapist entertainment that ignored the country’s struggles. Influenced by Italian Neorealism and the French New Wave, filmmakers wanted to tell stories that reflected the harsh conditions of life in 1950s Brazil, particularly the widespread poverty and inequality. Cinema Novo was known for its emphasis on realism. Filmmakers abandoned studio settings and expensive production values in favor of location shooting, usually in low-class areas of Brazil. They utilized documentary-like techniques and innovative cinematography, often employing handheld cameras, and frequently casting non-professional actors, making the stories more authentic and relatable. These actors usually came from the communities being portrayed in the films, further reinforcing the movement’s commitment to giving a voice to the underprivileged. Many Cinema Novo films experimented with narrative structures, embracing nonlinear storytelling, fragmented narratives, and symbolic imagery. This allowed for a deeper exploration of the human condition and the socio-political struggles faced by the characters. Filmmakers embraced the richness of Brazilian heritage by incorporating local music, folklore, and traditions into their works. In doing so, they fostered a sense of pride and identity among the Brazilian people, promoting their cultural legacy on the global stage. This celebration of cultural heritage was integral to Cinema Novo’s mission, as it affirms Brazil’s unique identity and resist cultural homogenization. As a central figure in the Cinema Novo movement, Glauber Rocha’s cinematic vision was characterized by its bold narratives and innovative storytelling techniques. His works, including “Black God, White Devil” (1964) and “Antonio das Mortes” (1969), offered thought-provoking social and political commentary. Rocha’s films were a call to action, urging Brazil to confront its sociopolitical challenges. His fusion of documentary-style realism with poetic and surreal elements created a distinctive cinematic language that left an immense impact on the movement and gave him the title of the Godfather of Cinema Novo. Nelson Pereira dos Santos, a pioneering figure in the Cinema Novo movement, made a significant impact on Brazilian cinema with his 1955 semi-documentary film “Rio, 100 Degrees,” known for its unvarnished portrayal of the harsh conditions and the resilience of the young characters it follows. This was one of his early works and played a big role in defining his cinematic style and commitment to social realism. Ruy Guerra, another prominent director, contributed with his unique storytelling and thematic exploration. His films “The Guns” (1964) and “The Fall” (1976), were notable for their examination of social and political issues. Guerra’s works combined elements of allegory and realism, reflecting the struggles and aspirations of Brazilian society. Cinema Novo was a transformative force in Brazilian cinema, challenging conventions and providing a voice for the marginalized. Through the works of key figures like Glauber Rocha, Nelson Pereira dos Santos, and Ruy Guerra, the movement addressed social and political issues, and also celebrated Brazil’s cultural heritage. It set the stage for a new generation of Brazilian filmmakers and inspired similar movements across Latin America.",
+  "key_directors": [
+    "Nelson Pereira dos Santos",
+    "Glauber Rocha",
+    "Ruy Guerra",
+    "Luis Sérgio Person"
+  ],
+  "canonical_films": [
+    {
+      "title": "Rio, 100 Degrees F°",
+      "year": "1955",
+      "director": "Nelson Pereira dos Santos",
+      "letterboxd_url": "https://letterboxd.com/film/rio-100-degrees-f/"
+    },
+    {
+      "title": "Barren Lives",
+      "year": "1963",
+      "director": "Nelson Pereira dos Santos",
+      "letterboxd_url": "https://letterboxd.com/film/barren-lives/"
+    },
+    {
+      "title": "Black God, White Devil",
+      "year": "1964",
+      "director": "Glauber Rocha",
+      "letterboxd_url": "https://letterboxd.com/film/black-god-white-devil/"
+    },
+    {
+      "title": "The Guns",
+      "year": "1964",
+      "director": "Ruy Guerra",
+      "letterboxd_url": "https://letterboxd.com/film/the-guns/"
+    },
+    {
+      "title": "São Paulo, Incorporated",
+      "year": "1965",
+      "director": "Luis Sérgio Person",
+      "letterboxd_url": "https://letterboxd.com/film/sao-paulo-incorporated/"
+    }
+  ],
+  "influences_from": [
+    "italian-neorealism",
+    "french-new-wave",
+    "soviet-montage"
+  ],
+  "influences_to": [
+    "third-cinema",
+    "cuban-revolutionary-cinema",
+    "new-mexican-cinema"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/cinema-novo/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

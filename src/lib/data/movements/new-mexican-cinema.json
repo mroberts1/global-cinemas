@@ -1,0 +1,99 @@
+{
+  "slug": "new-mexican-cinema",
+  "name": "New Mexican Cinema",
+  "period_raw": "1990s-2010s",
+  "period": {
+    "start": 1990,
+    "end": 2010
+  },
+  "country": "Mexico",
+  "countries": [
+    "Mexico"
+  ],
+  "region": "Latin America",
+  "coords": [
+    -99.133,
+    19.432
+  ],
+  "summary": "In the late 20th century, Mexico witnessed a cinematic renaissance that brought a new life into its film industry. This film movement, also known as Nuevo Cine Mexicano, reshaped the landscape of Mexican and Latin American filmmaking, leading to the production of higher-quality films that received greater international acclaim. Published by: CinemaWaves Team   |   Filed Under: Film Movements The late 20th century witnessed a significant political transition in Mexico, marked by the end of seven decades of one-party rule. The country had experienced a long period of stagnation in its film industry due to government censorship, lack of funding, and a preference for formulaic commercial productions. However, with the introduction of neoliberal policies and the establishment of institutions such as IMCINE (Instituto Mexicano de Cinematografia), the landscape for filmmaking began to change. These reforms allowed for more independent and artistically-driven films, setting the stage for a new wave of Mexican filmmakers.",
+  "long_description": "In the late 20th century, Mexico witnessed a cinematic renaissance that brought a new life into its film industry. This film movement, also known as Nuevo Cine Mexicano, reshaped the landscape of Mexican and Latin American filmmaking, leading to the production of higher-quality films that received greater international acclaim. Published by: CinemaWaves Team   |   Filed Under: Film Movements The late 20th century witnessed a significant political transition in Mexico, marked by the end of seven decades of one-party rule. The country had experienced a long period of stagnation in its film industry due to government censorship, lack of funding, and a preference for formulaic commercial productions. However, with the introduction of neoliberal policies and the establishment of institutions such as IMCINE (Instituto Mexicano de Cinematografia), the landscape for filmmaking began to change. These reforms allowed for more independent and artistically-driven films, setting the stage for a new wave of Mexican filmmakers. A major influence on the movement was Italian Neorealism, with its emphasis on social issues, the lives of ordinary people, and location shooting. Filmmakers in Mexico, much like their Italian predecessors, wanted to reflect the realities of life in a country grappling with poverty, inequality, and the aftereffects of political and economic turmoil. Adding to this, as Mexico opened up its economy and embraced globalization, filmmakers began exploring topics of identity, social issues, and the effects of modernization. Directors such as Alfonso Cuaron, Guillermo del Toro, and Alejandro Gonzalez Inarritu, who studied abroad or worked internationally, were pivotal in this period. Their global perspective and technical prowess allowed them to create films that resonated both domestically and internationally. There is a debate over when this New Wave began, but the movement gained momentum in the late 1990s and early 2000s, as these filmmakers achieved international recognition, with many New Mexican films being selected for prestigious film festivals around the world. The success of films like “Amores Perros” and “Y Tu Mama Tambirn” signaled a new era for Mexican cinema, one where the narratives focuses on the country’s complex realities and personal stories. The international acclaim and commercial success of these films helped to propel New Mexican Cinema as a significant force in both Latin American and global film industries. The main characteristic of Nuevo Cine Mexicano is its emphasis on social realism. Drawing from the influence of neorealists, many films focus on the everyday struggles of ordinary people, exploring issues such as poverty, migration, violence, and inequality in contemporary Mexican society. Identity, whether individual or collective, is a recurring motif. The films often looked into questions of self-discovery, cultural identity, and the tension between preserving cultural heritage and embracing change. Mexican culture, folklore and traditions are celebrated and criticized in equal measure. Visually, the movement stands out for its bold, often innovative cinematography. Directors like Alfonso Cuaron have pushed the boundaries of visual storytelling, using long takes, handheld cameras, and natural lighting to create a sense of immediacy and immersion. The movement also reflects the influence of global cinema in its visual style, borrowing techniques from Hollywood and European arthouse film. The attention to detail in mise-en-scene and the creative use of color, landscape, and framing contribute to the films’ appeal. Another key characteristic of New Mexican Cinema is its blending of genres. While many films are rooted in realism, they are known to mix drama with elements of magic realism, dark comedy, or thriller. This genre-blurring approach makes the films more dynamic, engaging, and globally relevant. Alfonso Cuaron, a key figure in both Mexican and international cinema, contributed significantly to the development of the movement. His film “Y Tu Mama Tambien” (2001) explored themes of friendship, sexuality, and the disparities between social classes in Mexico. Cuaron’s later international successes, including “Gravity” (2013) and “Roma” (2018), further solidified his position as a cinematic trailblazer. Acclaimed director Alejandro Gonzalez Inarritu gained global recognition with films like “Amores Perros” (2000), the first installment of his “Death Trilogy.” Known for his intricate narrative structures and exploration of complex human emotions, Inarritu’s work usually delves into the interconnected lives of characters against the backdrop of Mexico City. While Guillermo del Toro‘s work spans various genres, his impact on Mexican cinema is undeniable. Films like “The Devil’s Backbone” (2001) and “Pan’s Labyrinth” (2006) represents his unique blend of fantasy, horror and social commentary. Del Toro’s ability to infuse folklore and myth into his narratives adds a distinctive flavor to the New Mexican Cinema landscape.",
+  "key_directors": [
+    "Alfonso Cuarón",
+    "Jorge Fons",
+    "Alejandro González Iñárritu",
+    "Carlos Reygadas",
+    "Thomas Vinterberg",
+    "Lars von Trier",
+    "Søren Kragh-Jacobsen",
+    "Harmony Korine",
+    "Susanne Bier"
+  ],
+  "canonical_films": [
+    {
+      "title": "Sólo con tu pareja",
+      "year": "1991",
+      "director": "Alfonso Cuarón",
+      "letterboxd_url": "https://letterboxd.com/film/solo-con-tu-pareja/"
+    },
+    {
+      "title": "Midaq Alley",
+      "year": "1995",
+      "director": "Jorge Fons",
+      "letterboxd_url": "https://letterboxd.com/film/midaq-alley/"
+    },
+    {
+      "title": "Amores Perros",
+      "year": "2000",
+      "director": "Alejandro González Iñárritu",
+      "letterboxd_url": "https://letterboxd.com/film/amores-perros/"
+    },
+    {
+      "title": "Y Tu Mamá También",
+      "year": "2001",
+      "director": "Alfonso Cuarón",
+      "letterboxd_url": "https://letterboxd.com/film/y-tu-mama-tambien/"
+    },
+    {
+      "title": "Japón",
+      "year": "2002",
+      "director": "Carlos Reygadas",
+      "letterboxd_url": "https://letterboxd.com/film/japon/"
+    },
+    {
+      "title": "The Celebration",
+      "year": "1998",
+      "director": "Thomas Vinterberg",
+      "letterboxd_url": "https://letterboxd.com/film/the-celebration/"
+    },
+    {
+      "title": "The Idiots",
+      "year": "1998",
+      "director": "Lars von Trier",
+      "letterboxd_url": "https://letterboxd.com/film/the-idiots/"
+    },
+    {
+      "title": "Mifune",
+      "year": "1999",
+      "director": "Søren Kragh-Jacobsen",
+      "letterboxd_url": "https://letterboxd.com/film/mifune/"
+    },
+    {
+      "title": "Julien Donkey-Boy",
+      "year": "1999",
+      "director": "Harmony Korine",
+      "letterboxd_url": "https://letterboxd.com/film/julien-donkey-boy/"
+    },
+    {
+      "title": "Open Hearts",
+      "year": "2002",
+      "director": "Susanne Bier",
+      "letterboxd_url": "https://letterboxd.com/film/open-hearts/"
+    }
+  ],
+  "influences_from": [
+    "cinema-novo"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/new-mexican-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "toronto-new-wave",
+  "name": "Toronto New Wave",
+  "period_raw": "mid 1980s - late 1990s",
+  "period": {
+    "start": 1980,
+    "end": 1990
+  },
+  "country": "Canada",
+  "countries": [
+    "Canada"
+  ],
+  "region": "North America",
+  "coords": [
+    -79.383,
+    43.653
+  ],
+  "summary": "In the vibrant, largely unknown landscape of Canadian cinema, the Toronto New Wave arose during the dynamic and transformative period of the 1980s. Filmmakers like Atom Egoyan, Patricia Rozema and Bruce McDonald distanced themselves from the conventional norms of Hollywood dramas, embracing independent and unique way of storytelling. Published by: CinemaWaves Team   |   Filed Under: Film Movements While not a formal or structured movement, the term “Toronto New Wave” is commonly used retrospectively to encapsulate the spirit of the creative wave that emerged in the city. The Toronto-based group of young filmmakers (all were under the age of 30) existed through a sense of cooperation, often helping each other on their work, which was rarely seen in Canada since the growth of Quebec cinema in the 1960s.",
+  "long_description": "In the vibrant, largely unknown landscape of Canadian cinema, the Toronto New Wave arose during the dynamic and transformative period of the 1980s. Filmmakers like Atom Egoyan, Patricia Rozema and Bruce McDonald distanced themselves from the conventional norms of Hollywood dramas, embracing independent and unique way of storytelling. Published by: CinemaWaves Team   |   Filed Under: Film Movements While not a formal or structured movement, the term “Toronto New Wave” is commonly used retrospectively to encapsulate the spirit of the creative wave that emerged in the city. The Toronto-based group of young filmmakers (all were under the age of 30) existed through a sense of cooperation, often helping each other on their work, which was rarely seen in Canada since the growth of Quebec cinema in the 1960s. Several factors contributed to the birth of the Toronto New Wave. One significant influence was the cultural and artistic climate of Toronto itself. As a diverse and cosmopolitan city, Toronto provided a unique backdrop for filmmakers to explore a wide range of narratives and perspectives. The city’s multiculturalism and urban dynamics became integral components of the films produced during this period. The 1980s also witnessed a changing political and social landscape in Canada. Filmmakers were inspired to seek themes related to identity, individualism, and the Canadian experience. This period saw a departure from the more traditional narratives that had dominated English-Canadian cinema, with filmmakers wanting to break from the established norms, and experiment with new storytelling techniques. In terms of institutional support, the founding of the Ontario Film Development Corporation (OFDC) in 1986 played a pivotal role in providing a crucial funding alternative, enabling filmmakers to pursue their creative visions with greater independence. One key characteristic is the shift towards digital film. Filmmakers within the Toronto New Wave predominantly utilized digital cameras, providing them with more accessible and affordable means to create. They frequently applied techniques such as handheld camerawork, natural lighting and long takes, while producing films on less than $1 million budget. The films created by the New Wave filmmakers are dominantly narrative in nature, and accompanies themes of cultural identity, social class, sexual exploration, and the experiences of young adults. They demonstrated a willingness to experiment with narrative structures and subject matter, creating a new and challenging Canadian cinema. The most important and critically acclaimed figure of the Toronto New Wave movement is Atom Egoyan. Works like “Sparking Parts” (1989) and “Exotica” (1994) explore themes such as alienation and isolation, portraying characters whose connections are mediated by technology, bureaucracy or various power structures. Employing non-linear plot structures, Egoyan arranges events out of sequence, purposely withholding key information to evoke specific emotional reactions from the audience. Known for his distinctive contributions to the country’s cinema landscape, Bruce McDonald gained attention with his films “Roadkill” (1989) and “Hard Core Logo” (1996). They showcased his ability to capture the essence of Canadian landscapes and the diversity of its people. Patricia Rozema‘s debut film “I’ve Heard the Mermaids Singing” (1987) was a breakthrough for the movement, being the first English-language Canadian film to win an award at the Cannes Film Festival. The story revolves around a quirky protagonist, exploring themes of art, self-discovery and unconventional relationships. Unlike previous generations, this group of filmmakers avoided the easy lure of big money and bigger films in Hollywood. Instead, they chose to stay and create in Canada, thus contributing greatly to the ongoing development of an Canadian film culture. The project funding from the OFDC came to an end in 1996, and one of the most creative and innovative periods in Canadian filmmaking history came to an abrupt end.",
+  "key_directors": [
+    "Patricia Rozema",
+    "Bruce McDonald",
+    "Atom Egoyan",
+    "Don McKellar"
+  ],
+  "canonical_films": [
+    {
+      "title": "I've Heard the Mermaids Singing",
+      "year": "1987",
+      "director": "Patricia Rozema",
+      "letterboxd_url": "https://letterboxd.com/film/ive-heard-the-mermaids-singing/"
+    },
+    {
+      "title": "Roadkill",
+      "year": "1989",
+      "director": "Bruce McDonald",
+      "letterboxd_url": "https://letterboxd.com/film/roadkill/"
+    },
+    {
+      "title": "Exotica",
+      "year": "1994",
+      "director": "Atom Egoyan",
+      "letterboxd_url": "https://letterboxd.com/film/exotica/"
+    },
+    {
+      "title": "The Sweet Hereafter",
+      "year": "1997",
+      "director": "Atom Egoyan",
+      "letterboxd_url": "https://letterboxd.com/film/the-sweet-hereafter/"
+    },
+    {
+      "title": "Last Night",
+      "year": "1998",
+      "director": "Don McKellar",
+      "letterboxd_url": "https://letterboxd.com/film/last-night/"
+    }
+  ],
+  "influences_from": [
+    "british-new-wave",
+    "american-new-wave"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/toronto-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

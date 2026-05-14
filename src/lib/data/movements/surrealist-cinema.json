@@ -1,0 +1,69 @@
+{
+  "slug": "surrealist-cinema",
+  "name": "Surrealist Cinema",
+  "period_raw": "early 1920s – late 1930s",
+  "period": {
+    "start": 1920,
+    "end": 1930
+  },
+  "country": "France",
+  "countries": [
+    "France",
+    "Spain"
+  ],
+  "region": "Europe",
+  "coords": [
+    2.349,
+    48.864
+  ],
+  "summary": "Surrealist cinema emerged in the 1920s as an extension of the broader Surrealist art movement, which itself grew out of the Dada movement that arose during and after World War I. The devastation of the war led many artists and intellectuals to reject traditional values and forms of expression. This rejection was crystallized in the Dada movement, which emphasized absurdity, spontaneity, and anti-bourgeois sentiment.",
+  "long_description": "Surrealist cinema emerged in the 1920s as an extension of the broader Surrealist art movement, which itself grew out of the Dada movement that arose during and after World War I. The devastation of the war led many artists and intellectuals to reject traditional values and forms of expression. This rejection was crystallized in the Dada movement, which emphasized absurdity, spontaneity, and anti-bourgeois sentiment.",
+  "key_directors": [
+    "Man Ray",
+    "Luis Buñuel",
+    "Jean Cocteau",
+    "Maya Deren"
+  ],
+  "canonical_films": [
+    {
+      "title": "Return to Reason",
+      "year": "1923",
+      "director": "Man Ray",
+      "letterboxd_url": "https://letterboxd.com/film/return-to-reason/"
+    },
+    {
+      "title": "Un Chien Andalou",
+      "year": "1929",
+      "director": "Luis Buñuel",
+      "letterboxd_url": "https://letterboxd.com/film/un-chien-andalou/"
+    },
+    {
+      "title": "L'Âge d'or",
+      "year": "1930",
+      "director": "Luis Buñuel",
+      "letterboxd_url": "https://letterboxd.com/film/lage-dor/"
+    },
+    {
+      "title": "The Blood of a Poet",
+      "year": "1932",
+      "director": "Jean Cocteau",
+      "letterboxd_url": "https://letterboxd.com/film/the-blood-of-a-poet/"
+    },
+    {
+      "title": "Meshes of the Afternoon",
+      "year": "1943",
+      "director": "Maya Deren",
+      "letterboxd_url": "https://letterboxd.com/film/meshes-of-the-afternoon/"
+    }
+  ],
+  "influences_from": [
+    "french-impressionist-cinema",
+    "german-expressionism"
+  ],
+  "influences_to": [
+    "new-extremity",
+    "no-wave-cinema"
+  ],
+  "cinema_waves_url": null,
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

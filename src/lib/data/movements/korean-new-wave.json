@@ -1,0 +1,65 @@
+{
+  "slug": "korean-new-wave",
+  "name": "Korean New Wave",
+  "period_raw": "late 1990s - now",
+  "period": {
+    "start": 1990,
+    "end": null
+  },
+  "country": "South Korea",
+  "countries": [
+    "South Korea"
+  ],
+  "region": "East Asia",
+  "coords": [
+    126.978,
+    37.566
+  ],
+  "summary": "The Korean New Wave reshaped South Korean cinema, earning both local and international acclaim. Characterized by a departure from conventional filmmaking, it introduced a wave of innovative, diverse, and socially aware films that reshaped the industry. Published by: CinemaWaves Team   |   Filed Under: Film Movements The late 1980s and early 1990s marked a pivotal moment in South Korea’s political and cultural evolution, as the nation underwent significant democratization following years of authoritarian rule. This shift brought political reforms with the lifting of strict government censorship, which had long suppressed artistic expression. Filmmakers, now free from the constraints of state-imposed limitations, found a new sense of creative liberation that allowed them to explore socially relevant themes.",
+  "long_description": "The Korean New Wave reshaped South Korean cinema, earning both local and international acclaim. Characterized by a departure from conventional filmmaking, it introduced a wave of innovative, diverse, and socially aware films that reshaped the industry. Published by: CinemaWaves Team   |   Filed Under: Film Movements The late 1980s and early 1990s marked a pivotal moment in South Korea’s political and cultural evolution, as the nation underwent significant democratization following years of authoritarian rule. This shift brought political reforms with the lifting of strict government censorship, which had long suppressed artistic expression. Filmmakers, now free from the constraints of state-imposed limitations, found a new sense of creative liberation that allowed them to explore socially relevant themes. In tandem with political change, South Korea experienced rapid economic growth during this era, known as the Miracle on the Han River. The country’s newfound prosperity extended into the arts, as increased funding flowed into the film industry. With greater financial backing, filmmakers could pursue more ambitious projects, experiment with new styles, and increase production values, leading to a renaissance in South Korean cinema. Simultaneously, urbanization and modernization were transforming South Korea’s society, while the influx of Western cultural influences contributed to a more globalized outlook. These shifts resulted in a cultural landscape that was increasingly complex and multifaceted. South Korean filmmakers began to reflect this evolving reality by addressing themes that resonated with the changing society – exploring contemporary Korean identity, the clash between traditional and modern values, and the generational conflicts emerging in the rapidly urbanizing nation. The Korean New Wave is characterized by its exploration of diverse and complex themes, often delving into societal issues, historical traumas and the intricacies of human condition. Many films examined the complexities of family dynamics, shedding light on the hidden tensions, and emotional struggles concealed within Korean households. A recurring theme in the New Wave cinema was the critique of social disparities, illuminating the lives of the marginalized, and prompting viewers to confront issues of inequality and injustice. Revenge served as a powerful motif in numerous films, highlighting the moral ambiguity surrounding the pursuit of vengeance. Certain directors, notably Park Chan-wook, incorporated visceral violence and psychological depth into their work. This departure from standard storytelling norms contributed to the “edgy” and unconventional nature of the Korean New Wave. Numerous films explored themes of cultural identity, tradition, and the clash between old and new in South Korea. The tension between tradition and modernity became a rich source of storytelling. Renowned for his visually striking and psychologically intense films, Park Chan-wook gained international acclaim with works like “Oldboy” (2003) and “The Handmaiden” (2016). His films usually feature themes of vengeance, morality, and human nature with the unique blend of style and substance. Bong Joon-ho’s films, including “Memories of Murder” (2003), and the Academy Award and Palme d’Or-winning “Parasite” (2019), exemplify his versatility and social commentary. Bong’s ability to blend genre elements has made him a central figure in South Korean cinema. Known for his unconventional and often provocative films, Kim Ki-duk delves into the darker aspects of human nature. “Spring, Summer, Fall, Winter… and Spring” (2003) and “3-Iron” (2004) are notable examples of his contemplative and visually striking work. His approach to filmmaking has earned him both acclaim and criticism, making him one of the most enigmatic figures in cinema. In addition to these three filmmakers, Lee Chang-dong, with films like “Peppermint Candy” (1999) and more recent “Burning” (2018), offers poignant social commentary through meticulously crafted narratives, and are celebrated for their exploration of relationships and human behavior.",
+  "key_directors": [
+    "Lee Chang-dong",
+    "Kim Ki-duk",
+    "Park Chan-wook",
+    "Kim Jee-woon"
+  ],
+  "canonical_films": [
+    {
+      "title": "Peppermint Candy",
+      "year": "1999",
+      "director": "Lee Chang-dong",
+      "letterboxd_url": "https://letterboxd.com/film/peppermint-candy/"
+    },
+    {
+      "title": "Spring, Summer, Fall, Winter... and Spring",
+      "year": "2003",
+      "director": "Kim Ki-duk",
+      "letterboxd_url": "https://letterboxd.com/film/spring-summer-fall-winter-and-spring/"
+    },
+    {
+      "title": "Oldboy",
+      "year": "2003",
+      "director": "Park Chan-wook",
+      "letterboxd_url": "https://letterboxd.com/film/oldboy/"
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": "2010",
+      "director": "Kim Jee-woon",
+      "letterboxd_url": "https://letterboxd.com/film/i-saw-the-devil/"
+    },
+    {
+      "title": "Burning",
+      "year": "2018",
+      "director": "Lee Chang-dong",
+      "letterboxd_url": "https://letterboxd.com/film/burning-2018/"
+    }
+  ],
+  "influences_from": [
+    "hong-kong-new-wave",
+    "film-noir"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/korean-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

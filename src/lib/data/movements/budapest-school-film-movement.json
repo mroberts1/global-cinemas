@@ -1,0 +1,96 @@
+{
+  "slug": "budapest-school-film-movement",
+  "name": "Budapest School Film Movement",
+  "period_raw": "1972-1984",
+  "period": {
+    "start": 1972,
+    "end": 1984
+  },
+  "country": "Hungary",
+  "countries": [
+    "Hungary"
+  ],
+  "region": "Europe",
+  "coords": [
+    19.04,
+    47.498
+  ],
+  "summary": "The Budapest School Film Movement developed in Hungary during the later half of 20th century, a period marked by Soviet influence and political repression. Following World War II, Hungary’s film industry was heavily controlled by the state, promoting socialist ideals through censored, propagandist content. However, the political thaw after the 1956 Hungarian Revolution allowed for a slight relaxation in censorship, enabling a group of visionary filmmakers to experiment and critique contemporary society through cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements The movement originated from Bela Balazs Studios, a community dedicated to low-budget filmmaking that aimed to unite avant-garde and underground filmmakers in Hungary. It provided them with a platform to create experimental works free from state censorship. The Balazs studio spawned two main movements in the early 1970s: an experimental avant-garde group, and a documentarist group focused on portraying social reality on screen. This movement, and its name, gained recognition as the “Budapest school” after an Italian film critic used that term at a European film festival.",
+  "long_description": "The Budapest School Film Movement developed in Hungary during the later half of 20th century, a period marked by Soviet influence and political repression. Following World War II, Hungary’s film industry was heavily controlled by the state, promoting socialist ideals through censored, propagandist content. However, the political thaw after the 1956 Hungarian Revolution allowed for a slight relaxation in censorship, enabling a group of visionary filmmakers to experiment and critique contemporary society through cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements The movement originated from Bela Balazs Studios, a community dedicated to low-budget filmmaking that aimed to unite avant-garde and underground filmmakers in Hungary. It provided them with a platform to create experimental works free from state censorship. The Balazs studio spawned two main movements in the early 1970s: an experimental avant-garde group, and a documentarist group focused on portraying social reality on screen. This movement, and its name, gained recognition as the “Budapest school” after an Italian film critic used that term at a European film festival. The socio-political context of Hungary in the 1960s and 1970s was marked by a gradual opening up of society, albeit within the constraints of the communist regime. Economic reforms introduced in 1968, aimed to modernize the economy and improve living standards. These changes, while limited, created a somewhat more dynamic and complex social environment. Despite the relative liberalization, censorship remained a significant challenge. Filmmakers had to navigate the delicate balance between expressing their critical perspectives and avoiding outright confrontation with the authorities. The filmmakers associated with the movement were influenced by the broader currents of European art cinema. Italian Neorealism, with its focus on depicting the lives of ordinary people and its use of non-professional actors and real locations, served as an inspiration. Similarly, the French New Wave provided a model for departing from conventional narrative structures and exploring new cinematic techniques. The Budapest school movement, influenced by cinema verite, emphasized a documentary style that aimed to capture raw, unscripted moments of social reality. Like cinema verite, it favored observational techniques and a naturalistic approach to filmmaking, abandoning traditional narrative structures in favor of depicting everyday life with authenticity. This approach allowed filmmakers to explore societal issues and human experiences through a lens that prioritized honesty and direct engagement with their subjects. They often used non-professional actors, real locations, and improvised dialogue while tackling issues such as poverty, oppression, and the struggles of the working class. This provided a much needed critique of Hungarian society under communism. Films of the movement were shot with amateur equipment, mostly hand-held cameras. The Budapest School was marked by a strong sense of collaboration among filmmakers, screenwriters, and actors. Its collective approach fostered a creative environment where ideas could be freely exchanged and developed. Bela Tarr is a Hungarian filmmaker renowned for his distinctive style characterized by long takes, stark black-and-white cinematography, and existential themes. He gained international acclaim for films that explore the human condition with a blend of realism and philosophical depth. Shot in a documentary-like fashion, his early film “Family Nest” (1979) is a portrayal of an ordinary Budapest family facing economic hardships and societal pressures. As the first female director to win the Golden Bear at the Berlin Film Festival, Marta Meszaros is renowned for her intimate and socially conscious films. Her works, such as “Adoption” (1975) and “Diary for My Children” (1984) explore personal and political struggles within Hungarian society. A pivotal figure in the experimental avant-garde wing of the Budapest School, Gabor Body was known for pushing the boundaries of film form. In his film “Narcissus and Psyche” (1980), Gabor merges surreal imagery with philosophical inquiry, reflecting his innovative approach to storytelling and visual expression. The Budapest School had a significant impact on Hungarian cinema by emphasizing realism and critical engagement with social issues, fostering a more nuanced view of life under Communist regimes.",
+  "key_directors": [
+    "Márta Mészáros",
+    "Bela Tarr",
+    "Gábor Bódy",
+    "Charles Burnett",
+    "Billy Woodberry",
+    "Julie Dash"
+  ],
+  "canonical_films": [
+    {
+      "title": "Adoption",
+      "year": "1975",
+      "director": "Márta Mészáros",
+      "letterboxd_url": "https://letterboxd.com/film/adoption/"
+    },
+    {
+      "title": "Family Nest",
+      "year": "1979",
+      "director": "Bela Tarr",
+      "letterboxd_url": "https://letterboxd.com/film/family-nest/"
+    },
+    {
+      "title": "Narcissus and Psyche",
+      "year": "1980",
+      "director": "Gábor Bódy",
+      "letterboxd_url": "https://letterboxd.com/film/narcissus-and-psyche/"
+    },
+    {
+      "title": "Diary for My Children",
+      "year": "1984",
+      "director": "Márta Mészáros",
+      "letterboxd_url": "https://letterboxd.com/film/diary-for-my-children/"
+    },
+    {
+      "title": "Autumn Almanac",
+      "year": "1984",
+      "director": "Bela Tarr",
+      "letterboxd_url": "https://letterboxd.com/film/autumn-almanac/"
+    },
+    {
+      "title": "Killer of Sheep",
+      "year": "1978",
+      "director": "Charles Burnett",
+      "letterboxd_url": "https://letterboxd.com/film/killer-of-sheep/"
+    },
+    {
+      "title": "My Brother's Wedding",
+      "year": "1983",
+      "director": "Charles Burnett",
+      "letterboxd_url": "https://letterboxd.com/film/my-brothers-wedding/"
+    },
+    {
+      "title": "Bless Their Little Hearts",
+      "year": "1983",
+      "director": "Billy Woodberry",
+      "letterboxd_url": "https://letterboxd.com/film/bless-their-little-hearts/"
+    },
+    {
+      "title": "To Sleep with Anger",
+      "year": "1990",
+      "director": "Charles Burnett",
+      "letterboxd_url": "https://letterboxd.com/film/to-sleep-with-anger/"
+    },
+    {
+      "title": "Daughters of the Dust",
+      "year": "1991",
+      "director": "Julie Dash",
+      "letterboxd_url": "https://letterboxd.com/film/daughters-of-the-dust/"
+    }
+  ],
+  "influences_from": [
+    "czechoslovak-new-wave"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/budapest-school-film-movement/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

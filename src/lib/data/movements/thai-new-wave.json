@@ -1,0 +1,64 @@
+{
+  "slug": "thai-new-wave",
+  "name": "Thai New Wave",
+  "period_raw": "late 1990s - 2010s",
+  "period": {
+    "start": 1990,
+    "end": 2010
+  },
+  "country": "Thailand",
+  "countries": [
+    "Thailand"
+  ],
+  "region": "Southeast Asia",
+  "coords": [
+    100.501,
+    13.756
+  ],
+  "summary": "Thai New Wave Cinema is a movement that started in the late 1990s and gained momentum throughout the early 2000s, revitalizing the cinema of Thailand. Directors like Apichatpong Weerasethakul, Pen-Ek Ratanaruang and Wisit Sasanatieng were at the forefront, exploring themes such as social and political issues, cultural identity and the human condition. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the Thai New Wave can be traced back to the 1990s, a period marked by significant changes in Thailand. Rapid modernization, urbanization, and the aftermath of the Asian financial crisis in 1997 were at the forefront, and influenced a new generation of filmmakers to explore the complexities and challenges of Thai society at the time.",
+  "long_description": "Thai New Wave Cinema is a movement that started in the late 1990s and gained momentum throughout the early 2000s, revitalizing the cinema of Thailand. Directors like Apichatpong Weerasethakul, Pen-Ek Ratanaruang and Wisit Sasanatieng were at the forefront, exploring themes such as social and political issues, cultural identity and the human condition. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the Thai New Wave can be traced back to the 1990s, a period marked by significant changes in Thailand. Rapid modernization, urbanization, and the aftermath of the Asian financial crisis in 1997 were at the forefront, and influenced a new generation of filmmakers to explore the complexities and challenges of Thai society at the time. The movement was a departure from the mainstream Thai cinema, which predominantly consisted of grand epics, melodramatic love stories and horror films. Similar to the Dogme 95 movement, the democratization of filmmaking technology served as a catalyst for the emergence of the Thai New Wave. The accessibility of digital cameras and editing software enabled filmmakers to create high-quality films at reduced costs. Another important factor was the success, and the international recognition of the two Thai films in the late 1990s, “Dang Bireley’s and Young Gangsters” (1997) and “Tears of the Black Tiger” (2000), which also set the stage and greatly influenced the beginning of the movement. A hallmark of the Thai New Wave Cinema is its willingness to tackle sensitive social, political and cultural issues. Directors used their films as a platform to explore themes such as corruption, social inequality, urbanization, and the clash between tradition and modernity. Additionally, the movement has been praised for its diverse representation of Thai society, including marginalized communities and LGBTQ+ individuals. Directors were known for their visually stunning cinematography and use of symbolism and metaphor. From lush rural landscapes to gritty urban cityscapes, these films regularly feature striking imagery that enhances the storytelling and evokes a strong emotional response. Many films draw inspiration from traditional Thai folklore, mythology, and spirituality, combining elements of magic realism, supernatural phenomena and Buddhist philosophy into their narratives, blurring the lines between reality and fantasy, and creating a sense of wonder and mystique. Perhaps the most prominent figure of the movement is Apichatpong Weerasethakul, known for his contemplative and dreamlike films such as “Tropical Malady” (2004) and “Uncle Boonmee Who Can Recall His Past Lives” (2010), the latter being the winner of the Palme d’Or at the Cannes Film Festival. His works explore themes of memory, identity and the supernatural, capturing the essence of rural life in Thailand while incorporating elements of folklore and mysticism. He has become known as one of the leading voices in contemporary world cinema, pushing the boundaries of narrative storytelling. Another influential director associated with the Thai New Wave is Pen-Ek Ratanaruang. Films such as “Last Life in the Universe” (2003) and “6ixtynin9” (1999) feature complex characters grappling with existential dilemmas. Ratanaruang’s storytelling style blends elements of film noir with Thai sensibility, drawing inspiration from both Eastern and Western cinematic traditions. Wisit Sasanatieng, known for his visually stunning and stylized films, gained international recognition and helped to spark the New Wave with his debut feature “Tears of the Black Tiger” (2000). His films often highlight vibrant colors, extravagant costumes and surreal set designs, drawing inspiration from Thai popular culture and classical cinema. Thai New Wave Cinema has gained international acclaim and recognition at major film festivals around the world, including Cannes, Berlin and Venice, elevating Thai cinema onto the global stage. Despite the acclaim, Thai New Wave films struggled to find an audience at home due to the conservative nature of its film industry, and the dominance of Hollywood imports. Furthermore, Thai audiences had become more accustomed to Hollywood-style storytelling, making it difficult for experimental films to gain traction.",
+  "key_directors": [
+    "Wisit Sasanatieng",
+    "Pen-ek Ratanaruang",
+    "Apichatpong Weerasethakul",
+    "Nawapol Thamrongrattanarit"
+  ],
+  "canonical_films": [
+    {
+      "title": "Tears of the Black Tiger",
+      "year": "2000",
+      "director": "Wisit Sasanatieng",
+      "letterboxd_url": "https://letterboxd.com/film/tears-of-the-black-tiger/"
+    },
+    {
+      "title": "Last Life in the Universe",
+      "year": "2003",
+      "director": "Pen-ek Ratanaruang",
+      "letterboxd_url": "https://letterboxd.com/film/last-life-in-the-universe/"
+    },
+    {
+      "title": "Tropical Malady",
+      "year": "2004",
+      "director": "Apichatpong Weerasethakul",
+      "letterboxd_url": "https://letterboxd.com/film/tropical-malady/"
+    },
+    {
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": "2010",
+      "director": "Apichatpong Weerasethakul",
+      "letterboxd_url": "https://letterboxd.com/film/uncle-boonmee-who-can-recall-his-past-lives/"
+    },
+    {
+      "title": "36",
+      "year": "2012",
+      "director": "Nawapol Thamrongrattanarit",
+      "letterboxd_url": "https://letterboxd.com/film/36-2012/"
+    }
+  ],
+  "influences_from": [
+    "taiwan-new-wave"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/thai-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

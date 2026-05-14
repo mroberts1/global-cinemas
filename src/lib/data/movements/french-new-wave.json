@@ -1,0 +1,106 @@
+{
+  "slug": "french-new-wave",
+  "name": "French New Wave",
+  "period_raw": "1955 - late 1960s",
+  "period": {
+    "start": 1955,
+    "end": 1960
+  },
+  "country": "France",
+  "countries": [
+    "France"
+  ],
+  "region": "Europe",
+  "coords": [
+    2.349,
+    48.864
+  ],
+  "summary": "The French New Wave or La Nouvelle Vague, is one of the most iconic and influential film movements in the history of cinema. Emerging in the late 1950s and flourishing throughout the 1960s, it transformed the cinema not only in France but also worldwide, which marked cultural and intellectual transformation of the film as a medium. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the French New Wave can be traced to the post-World War II period in France, when the country was undergoing a major cultural and social transformation. After years of Nazi occupation, French cinema had stagnated, relying on formulaic, studio-driven productions.",
+  "long_description": "The French New Wave or La Nouvelle Vague, is one of the most iconic and influential film movements in the history of cinema. Emerging in the late 1950s and flourishing throughout the 1960s, it transformed the cinema not only in France but also worldwide, which marked cultural and intellectual transformation of the film as a medium. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins of the French New Wave can be traced to the post-World War II period in France, when the country was undergoing a major cultural and social transformation. After years of Nazi occupation, French cinema had stagnated, relying on formulaic, studio-driven productions. However, with the liberation of France, a new generation of young cinephiles emerged, many of whom were critics for the influential film journal Cahiers du Cinéma. These aspiring filmmakers, including Jean-Luc Godard, Francois Truffaut, and Claude Chabrol, were passionate about cinema and critical of the conventional French filmmaking practices of the time, which they saw as uninspired and detached from real life. This dissatisfaction laid the foundation of the French New Wave movement. In the 1950s, French New Wave pioneers found inspiration in the films of Italian Neorealism, American cinema, and the writings of film theorists such as Andre Bazin, who championed the idea of “auteur theory.” This theory proposed that directors should have creative control over their films and that their personal vision should be clearly reflected in the final work. Motivated by Bazin’s ideas and a desire to break from the traditional filmmaking, these young directors began experimenting with new techniques and narratives. They wanted to create films that reflected the changing realities of post-war France, stories that were personal and in touch with contemporary life. The French New Wave was also fueled by important technological and economic changes. Advances in lightweight camera equipment, portable sound recorders, and faster film stock allowed filmmakers to shoot on location and with smaller crews, giving them more creative freedom and flexibility. Further, the rise of government funding and support for the arts in France, including the establishment of the Centre National de la Cinematographie (CNC), made it easier for these young filmmakers to access resources. By the late 1950s, with the release of Truffaut’s “The 400 Blows” and Godard’s “Breathless,“ the French New Wave had officially started. The New Wave filmmakers rebelled against the conventions of traditional cinema, which relied on elaborate sets and studio shooting, instead embracing location shooting and using Parisian streets, cafes, and everyday spaces as their backdrops. In their pursuit of realism, they often cast non-professional actors alongside established stars, further enhancing the naturalism and spontaneity of their work. This approach stood in stark contrast to the highly polished, meticulously controlled productions of the previous era. In addition to their dedication to realism, films were characterized by their experimentation with narrative structures. Instead of adhering to the conventional beginning-middle-end format, many filmmakers rejected linear storytelling in favor of non-linear, fragmented, or episodic narratives. The movement introduced innovative cinematography techniques, including hand-held cameras, jump cuts, and unconventional framing. This gave their films an energetic, almost rebellious quality, evoking a sense of immediacy and spontaneity. Many French New Wave films also delved into existential and philosophical themes, with characters grappling with issues of identity, love, alienation, and the complexities of human existence. François Truffaut’s debut film, “The 400 Blows” (1959), stands as one of the defining works of the French New Wave and is widely regarded as a cornerstone of the movement. A deeply personal, semi-autobiographical coming-of-age story, the film follows young Antoine Doinel as he navigates the hardships of adolescence. Truffaut captured the restless energy and rebellion of youth, resonating with a post-war generation. Similarly, Jean-Luc Godard’s “Breathless” (1960) became a symbol of New Wave innovation, known for its unconventional cinematography and radical departure from classical storytelling. The film follows a couple on the run, but its plot is secondary to Godard’s bold use of jump cuts, hand-held camera work, and fragmented narrative. Godard’s subversive approach challenged traditional filmmaking methods, emphasizing style, form, and spontaneity over polished narrative coherence. “Breathless“ encapsulated the rebellious spirit of the French New Wave, with Godard pushing the boundaries of what cinema could be, not only in terms of storytelling but in how films could visually represent the disjointed, uncertain experience of modern life. Although not a member of the original Cahiers du Cinema circle, Agnes Varda played a pivotal role in the French New Wave and remains one of its most celebrated figures, particularly as a pioneering female director in a male-dominated movement. Her film “Cleo from 5 to 7” (1962) is a masterful exploration of existential themes, following a pop singer through a two-hour journey in Paris as she awaits potentially life-changing medical results. Varda’s film blends the personal and the political, using artistic innovation to examine femininity, identity, and the anxieties of mortality. With her unique perspective and sensitivity, Varda expanded the scope of the New Wave, bringing a fresh focus on female subjectivity.",
+  "key_directors": [
+    "Agnès Varda",
+    "Louise Malle",
+    "François Truffaut",
+    "Alain Resnais",
+    "Jean-Luc Godard",
+    "Jacques Demy",
+    "Jean-Pierre Melville"
+  ],
+  "canonical_films": [
+    {
+      "title": "La Pointe Courte",
+      "year": "1955",
+      "director": "Agnès Varda",
+      "letterboxd_url": "https://letterboxd.com/film/la-pointe-courte/"
+    },
+    {
+      "title": "Elevator to the Gallows",
+      "year": "1958",
+      "director": "Louise Malle",
+      "letterboxd_url": "https://letterboxd.com/film/elevator-to-the-gallows/"
+    },
+    {
+      "title": "The 400 Blows",
+      "year": "1959",
+      "director": "François Truffaut",
+      "letterboxd_url": "https://letterboxd.com/film/the-400-blows/"
+    },
+    {
+      "title": "Hiroshima Mon Amour",
+      "year": "1959",
+      "director": "Alain Resnais",
+      "letterboxd_url": "https://letterboxd.com/film/hiroshima-mon-amour/"
+    },
+    {
+      "title": "Breathless",
+      "year": "1960",
+      "director": "Jean-Luc Godard",
+      "letterboxd_url": "https://letterboxd.com/film/breathless/"
+    },
+    {
+      "title": "Jules and Jim",
+      "year": "1962",
+      "director": "François Truffaut",
+      "letterboxd_url": "https://letterboxd.com/film/jules-and-jim/"
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": "1962",
+      "director": "Agnès Varda",
+      "letterboxd_url": "https://letterboxd.com/film/cleo-from-5-to-7/"
+    },
+    {
+      "title": "Pierrot le Fou",
+      "year": "1965",
+      "director": "Jean-Luc Godard",
+      "letterboxd_url": "https://letterboxd.com/film/pierrot-le-fou/"
+    },
+    {
+      "title": "The Young Girls of Rochefort",
+      "year": "1967",
+      "director": "Jacques Demy",
+      "letterboxd_url": "https://letterboxd.com/film/the-young-girls-of-rochefort/"
+    },
+    {
+      "title": "Le Samouraï",
+      "year": "1967",
+      "director": "Jean-Pierre Melville",
+      "letterboxd_url": "https://letterboxd.com/film/le-samourai/"
+    }
+  ],
+  "influences_from": [
+    "italian-neorealism",
+    "french-impressionist-cinema"
+  ],
+  "influences_to": [
+    "british-new-wave",
+    "japanese-new-wave",
+    "cinema-novo",
+    "czechoslovak-new-wave",
+    "american-new-wave",
+    "yugoslav-black-wave",
+    "iranian-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements/french-new-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

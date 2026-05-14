@@ -1,0 +1,65 @@
+{
+  "slug": "cinema-du-look",
+  "name": "Cinema Du Look",
+  "period_raw": "1980-1990s",
+  "period": {
+    "start": 1980,
+    "end": 1990
+  },
+  "country": "France",
+  "countries": [
+    "France"
+  ],
+  "region": "Europe",
+  "coords": [
+    2.349,
+    48.864
+  ],
+  "summary": "A visually stunning film movement, Cinema du Look unfolded in the 1980s France as a radical departure from the more political and artistically engaged cinema of the French New Wave. Characterized by its emphasis on style, sensuality, and a focus on urban youth culture, filmmakers brought a fresh and visually captivating approach to the world of cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins and influences of Cinema du Look are rooted in the socio-cultural and cinematic landscape of its time. The 1980s marked a significant shift in youth culture with the rise of consumerism and individualism. Young people,  particularly the MTV generation, were increasingly drawn to visual and sensory experiences, including music videos, fashion and advertising. Directors were inspired by the visually compelling nature of music videos, which regularly  employed rapid editing, striking visuals and bold color palettes, directly influencing many of the movement’s films.",
+  "long_description": "A visually stunning film movement, Cinema du Look unfolded in the 1980s France as a radical departure from the more political and artistically engaged cinema of the French New Wave. Characterized by its emphasis on style, sensuality, and a focus on urban youth culture, filmmakers brought a fresh and visually captivating approach to the world of cinema. Published by: CinemaWaves Team   |   Filed Under: Film Movements The origins and influences of Cinema du Look are rooted in the socio-cultural and cinematic landscape of its time. The 1980s marked a significant shift in youth culture with the rise of consumerism and individualism. Young people,  particularly the MTV generation, were increasingly drawn to visual and sensory experiences, including music videos, fashion and advertising. Directors were inspired by the visually compelling nature of music videos, which regularly  employed rapid editing, striking visuals and bold color palettes, directly influencing many of the movement’s films. Cinema du Look was heavily influenced by New Hollywood directors like Brian De Palma, Ridley Scott, and Martin Scorsese, whose unique visual styles and genre-driven storytelling left a significant mark on the movement. The French directors adopted De Palma’s suspense and stylized violence, Scott’s futuristic visuals, and Scorsese’s kinetic energy, blending these elements into their own films. This influence is evident in works like Luc Besson’s “La Femme Nikita” (1990) and Leos Carax’s “Mauvais Sang” (1986), which combined American genre sensibilities with a heightened focus on aesthetics. Cinema du Look represented a departure from the more politically and intellectually oriented French New Wave. While the New Wave was characterized by its focus on social and political commentary, Cinema du Look embraced a more hedonistic and visually driven approach. The rejection of the New Wave’s intellectualism, and emphasis on aesthetics and sensuality marked a clear shift in French cinema. The movement’s films were characterized by their extravagance with vibrant colors and a heightened attention to the visual aspects of storytelling. Cinema du Look directors were unapologetic in their pursuit of creating striking and memorable experiences for their audiences. Music played a significant role too, usually featuring eclectic soundtracks that contributed to the overall mood and atmosphere. Many films explored themes of sensuality and romance while love, passion, and physical desire were frequently central to the narratives. The films portrayed intense and tumultuous relationships, capturing the raw emotions and desires of the characters. The protagonists were outsiders, rebels and non-conformists embracing individualism. Cinema du Look was closely tied to the urban experience, and its films revolved around the lives of young people living in the city, mostly Paris. These films portrayed a generation struggling with the complexities of modern urban life, including isolation, alienation and the search for identity. The city itself became a central character, influencing the behavior and choices of the protagonists. Pioneering director, Jean-Jacques Beineix, gained recognition with his iconic film “Diva” (1981) which is, arguably, the first film of the movement. It was marked by vivid colors, stylized cinematography, and an exploration of the sensual and romantic aspects of its characters’ lives. Beineix’s subsequent film, “Betty Blue” (1986), further exemplified the movement’s thematic elements and visuals. Luc Besson is often regarded as one of the foremost figures of Cinema du Look. Films like “Subway” (1985) and “The Big Blue” (1988) epitomize the movement’s aesthetic with their focus on striking visuals, bold colors, and a celebration of youth culture. Besson’s work combined action, romance, and sensuality in a visually extravagant manner, making him a prominent figure in the movement. Leos Carax brought a poetic and surreal quality to the movement. His film “Mauvais Sang” (1986) was notable for its dreamlike sequences and unconventional narrative structure. Carax’s work explored themes of love, passion, and the complexities of urban life with a distinct artistic and emotional approach. Cinema du Look left an enduring impact on French cinema and beyond. Though the movement was criticized for favoring style over substance, it played a crucial role in pushing the boundaries of how stories could be told visually. Its focus on highly stylized, almost operatic visuals created a new way of engaging viewers, turning cinema into a more visceral and immersive experience.",
+  "key_directors": [
+    "Jean-Jacques Beineix",
+    "Leos Carax",
+    "Luc Besson"
+  ],
+  "canonical_films": [
+    {
+      "title": "Diva",
+      "year": "1981",
+      "director": "Jean-Jacques Beineix",
+      "letterboxd_url": "https://letterboxd.com/film/diva/"
+    },
+    {
+      "title": "Boy Meets Girl",
+      "year": "1984",
+      "director": "Leos Carax",
+      "letterboxd_url": "https://letterboxd.com/film/boy-meets-girl/"
+    },
+    {
+      "title": "Betty Blue",
+      "year": "1986",
+      "director": "Jean-Jacques Beineix",
+      "letterboxd_url": "https://letterboxd.com/film/betty-blue/"
+    },
+    {
+      "title": "Nikita",
+      "year": "1990",
+      "director": "Luc Besson",
+      "letterboxd_url": "https://letterboxd.com/film/nikita/"
+    },
+    {
+      "title": "Léon: The Professional",
+      "year": "1994",
+      "director": "Luc Besson",
+      "letterboxd_url": "https://letterboxd.com/film/leon-the-professional/"
+    }
+  ],
+  "influences_from": [
+    "film-noir"
+  ],
+  "influences_to": [
+    "new-extremity"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/cinema-du-look/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

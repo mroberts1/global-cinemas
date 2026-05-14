@@ -1,0 +1,66 @@
+{
+  "slug": "yugoslav-black-wave",
+  "name": "Yugoslav Black Wave",
+  "period_raw": "1963-1970s",
+  "period": {
+    "start": 1963,
+    "end": 1970
+  },
+  "country": "Yugoslavia",
+  "countries": [
+    "Serbia",
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "region": "Europe",
+  "coords": [
+    20.456,
+    44.787
+  ],
+  "summary": "The 1960s was a tumultuous era of change and transformation across the globe, while in the former Yugoslavia, a unique and provocative film movement known as the Yugoslav Black Wave was brewing. This period was characterized by a wave of unconventional films that challenged society both in former Yugoslavia and beyond its borders. Published by: CinemaWaves Team   |   Filed Under: Film Movements Led by the charismatic leader Josip Broz Tito, Yugoslavia had initially gained its independence from the Axis Powers during World War II, and embarked on a path of socialist self-management. However, Tito’s separation from Joseph Stalin and the Soviet Union in 1948, marked a significant shift as rigid cultural constraints gave a way to a policy of non-alignment. This allowed an expansion of artistic realms, making the Yugoslav art scene one of the most avant-garde and unconventional in the Eastern and Central Europe.",
+  "long_description": "The 1960s was a tumultuous era of change and transformation across the globe, while in the former Yugoslavia, a unique and provocative film movement known as the Yugoslav Black Wave was brewing. This period was characterized by a wave of unconventional films that challenged society both in former Yugoslavia and beyond its borders. Published by: CinemaWaves Team   |   Filed Under: Film Movements Led by the charismatic leader Josip Broz Tito, Yugoslavia had initially gained its independence from the Axis Powers during World War II, and embarked on a path of socialist self-management. However, Tito’s separation from Joseph Stalin and the Soviet Union in 1948, marked a significant shift as rigid cultural constraints gave a way to a policy of non-alignment. This allowed an expansion of artistic realms, making the Yugoslav art scene one of the most avant-garde and unconventional in the Eastern and Central Europe. As the 1960s dawned, the country began to experience internal and external pressures, including economic challenges and growing political dissent. It was in this atmosphere that a group of young filmmakers challenged the conventions of Yugoslav cinema, aiming to present a more genuine portrayal of Yugoslav society, while delving into the complexities and contradictions of life under socialism. The term “Black Wave”, or “Crni Talas”, was coined by Yugoslav critics in the 1960s and refers to a wave of domestic films that embraced dark, satirical and atypical subjects. Much like other contemporary movements, the Black Wave focused on depicting the gritty realities of everyday life. Films regularly portrayed marginalized individuals, social outcasts, and the struggles of ordinary people, highlighting issues such as poverty, corruption, and the bureaucratic inefficiencies of the socialist state. The movement was marked by its critical stance towards Yugoslav society and politics. Filmmakers did not shy away from exposing the contradictions and hypocrisies of the socialist regime, highlighting the gap between ideological promises and the lived reality of the people. Influenced by global cinematic trends, Black Wave directors employed innovative narrative techniques, unconventional storytelling, and experimental cinematography, this included the use of handheld cameras, and on-location shooting. Many films incorporated elements of dark humor and satire. This approach allowed filmmakers to address sensitive topics in a manner that was both engaging and thought-provoking. Themes encompassed everything from sexuality and politics to religion, while pushing against the constraints of censorship. As a result, some of the filmmakers were banned from working in Yugoslavia, while the movement’s decline coincided with a period of political repression experienced in the 1970s. One of the most prominent figures of the Yugoslav Black Wave, Dusan Makavejev‘s films, such as “WR: Mysteries of the Organism” (1971) and “Man Is Not a Bird” (1965), are known for their radical style and provocative content. His work usually blends fiction and documentary elements to examine themes of sexual liberation, political repression, and social alienation. Adding his unique voice to the movement with “I Even Met Happy Gypsies” (1967) was Aleksandar Petrovic. Through this film, Petrovic explored the marginalized Roma community, offering a commentary on social inequalities and discrimination, a subject that was often ignored or overlooked. At the 1967 Cannes Festival, the film was nominated for the Palme d’Or and won the Special Grand Prize of the Jury and the FIPRESCI Prize. Zelimir Zilnik is known for his socially engaged documentaries and fiction films. His “Early Works” (1969) is a seminal work of the Black Wave, which won the Golden Bear at the Berlin International Film Festival. It criticized the failures of the socialist state through the lens of a group of young revolutionaries. The Yugoslav Black Wave greatly impacted both Yugoslav and regional cinema. Domestically, the movement challenged the state’s control over artistic expression and highlighted the power of film as a medium. However, its critical nature also led to significant backlash from the authorities. Many Black Wave films were banned, and some filmmakers faced censorship, harassment, or exile.",
+  "key_directors": [
+    "Aleksandar Petrović",
+    "Živojin Pavlović",
+    "Želimir Žilnik",
+    "Dušan Makavejev"
+  ],
+  "canonical_films": [
+    {
+      "title": "Three",
+      "year": "1965",
+      "director": "Aleksandar Petrović",
+      "letterboxd_url": "https://letterboxd.com/film/three-1965/"
+    },
+    {
+      "title": "When I Am Dead and White",
+      "year": "1967",
+      "director": "Živojin Pavlović",
+      "letterboxd_url": "https://letterboxd.com/film/when-i-am-dead-and-white/"
+    },
+    {
+      "title": "I Even Met Happy Gypsies",
+      "year": "1967",
+      "director": "Aleksandar Petrović",
+      "letterboxd_url": "https://letterboxd.com/film/i-even-met-happy-gypsies/"
+    },
+    {
+      "title": "Early Works",
+      "year": "1969",
+      "director": "Želimir Žilnik",
+      "letterboxd_url": "https://letterboxd.com/film/early-works/"
+    },
+    {
+      "title": "WR: Mysteries of the Organism",
+      "year": "1971",
+      "director": "Dušan Makavejev",
+      "letterboxd_url": "https://letterboxd.com/film/wr-mysteries-of-the-organism/"
+    }
+  ],
+  "influences_from": [
+    "french-new-wave"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/yugoslav-black-wave/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

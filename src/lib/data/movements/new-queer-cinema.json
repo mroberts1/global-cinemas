@@ -1,0 +1,66 @@
+{
+  "slug": "new-queer-cinema",
+  "name": "New Queer Cinema",
+  "period_raw": "mid 1980s - late 1990s",
+  "period": {
+    "start": 1980,
+    "end": 1990
+  },
+  "country": "United States",
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "region": "North America",
+  "coords": [
+    -73.987,
+    40.748
+  ],
+  "summary": "Originated in the mid 1980s as a radical film movement, New Queer Cinema, sought to challenge and redefine traditional representations of LGBTQ+ characters and experiences. It played a pivotal role in reshaping the landscape of queer cinema, fostering a sense of community and visibility for LGBTQ+ individuals. Published by: CinemaWaves Team   |   Filed Under: Film Movements The devastating impact of the HIV/AIDS crisis in the 1980s greatly influenced the emergence of New Queer Cinema. Filmmakers responded to the epidemic by creating narratives that addressed the life experiences of LGBTQ+ individuals in the face of illness, loss and discrimination. Films such as “Paris Is Burning” (1990) and “Longtime Companion” (1989) reflected the community’s direct response to the crisis.",
+  "long_description": "Originated in the mid 1980s as a radical film movement, New Queer Cinema, sought to challenge and redefine traditional representations of LGBTQ+ characters and experiences. It played a pivotal role in reshaping the landscape of queer cinema, fostering a sense of community and visibility for LGBTQ+ individuals. Published by: CinemaWaves Team   |   Filed Under: Film Movements The devastating impact of the HIV/AIDS crisis in the 1980s greatly influenced the emergence of New Queer Cinema. Filmmakers responded to the epidemic by creating narratives that addressed the life experiences of LGBTQ+ individuals in the face of illness, loss and discrimination. Films such as “Paris Is Burning” (1990) and “Longtime Companion” (1989) reflected the community’s direct response to the crisis. Against this backdrop, New Queer Cinema emerged as a defiant artistic response, seeking to reclaim narratives and assert queer identities on screen. The 1980s also witnessed a surge in LGBTQ+ activism, with movements advocating for rights, visibility and acceptance. New Queer Cinema became a cinematic counterpart to this activism, pushing for greater representation and understanding of queer culture. The movement was closely tied to the independent filmmaking scene, with many films produced on smaller budgets, outside of the mainstream studio system. This independence allowed filmmakers the freedom to explore unconventional narratives and themes that might have been deemed too risky by mainstream studios. A key to the eventual start of the movement was the establishment of queer film festivals and distribution networks, such as the San Francisco International Lesbian and Gay Film Festival (now Frameline) and New York’s MIX NYC Queer Experimental Film Festival. They became vital spaces for networking, collaboration, and the dissemination of queer cinema. The most prominent characteristic of New Queer Cinema was a celebration of sexual liberation. Many films depicted the complexity and richness of queer experiences, rejecting simplistic, stereotypical portrayals, and explored the intersectionality of queer identities with other aspects such as race, gender and social class. Filmmakers aimed to represent the diversity within the LGBTQ+ community, and address multiple forms of oppression faced by individuals. These films often subverted traditional genre tropes, blending elements of drama, comedy, and even horror to create narratives that defied easy categorization. This challenged audience expectations, and contributed to the movement’s innovative spirit. The use of handheld cameras, non-professional actors, and unorthodox production methods contributed to the raw and authentic feel of these films, embracing do-it-yourself aesthetics. Todd Haynes is considered a key pioneering figure in New Queer Cinema. His critically acclaimed film “Poison” (1991), is an experimental and seminal work that intertwined three distinct narratives to examine themes of desire, sexuality, repression, and societal marginalization. Haynes went on to have a successful mainstream career, directing a number of notable films that received critical acclaim and commercial success, such as “Far from Heaven” (2002) and “Carol” (2015). These works further established his reputation as a leading voice in contemporary cinema. Gregg Araki emerged as a prominent figure within the movement, known for his raw and unapologetic exploration of queer youth culture. Araki’s films, such as “The Living End” (1992) and “Totally F***ed Up” (1993), depicted themes of youthful rebellion, existential angst, and societal alienation with a provocative style. His narratives often challenged conventions of sexuality and gender, offering candid portrayals of characters navigating the complexities of identity and desire in a hostile world. Next up is a British filmmaker Derek Jarman, with acclaimed works, including “Edward II” (1991), and “Blue” (1993). Jarman’s visually striking and politically charged films addressed issues of queerness and the impact of HIV/AIDS crisis, remaining influential to this day, and serving as a powerful testament to resilience and the urgent need for a proper LGBTQ+ representation in film. One of the most significant legacies of New Queer Cinema lies in its role as a catalyst for cultural visibility and social change. The movement played a crucial role in expanding the representation of LGBTQ+ characters and narratives in cinema, moving beyond traditional tropes and stereotypes to portray the diversity of queer experiences. Filmmakers within the movement made a way for greater acceptance and understanding of LGBTQ+ individuals by depicting their lives with empathy, complexity, and authenticity. Furthermore, the impact of New Queer Cinema transcended the boundaries of film festivals and arthouse theaters, influencing mainstream Hollywood and global cinema. The success of films like “My Own Private Idaho” (1991) and “Boys Don’t Cry” (1999) demonstrated the commercial viability of LGBTQ+ stories, prompting studios and distributors to invest in more inclusive and diverse storytelling. This shift contributed to a broader cultural acceptance of queer identities and their representation in mainstream blockbusters and television series.",
+  "key_directors": [
+    "Bill Sherwood",
+    "Marlon Riggs",
+    "Jennie Livingston",
+    "Gus Van Sant",
+    "Gregg Araki"
+  ],
+  "canonical_films": [
+    {
+      "title": "Parting Glances",
+      "year": "1986",
+      "director": "Bill Sherwood",
+      "letterboxd_url": "https://letterboxd.com/film/parting-glances/"
+    },
+    {
+      "title": "Tongues Untied",
+      "year": "1989",
+      "director": "Marlon Riggs",
+      "letterboxd_url": "https://letterboxd.com/film/tongues-untied/"
+    },
+    {
+      "title": "Paris Is Burning",
+      "year": "1990",
+      "director": "Jennie Livingston",
+      "letterboxd_url": "https://letterboxd.com/film/paris-is-burning/"
+    },
+    {
+      "title": "My Own Private Idaho",
+      "year": "1991",
+      "director": "Gus Van Sant",
+      "letterboxd_url": "https://letterboxd.com/film/my-own-private-idaho/"
+    },
+    {
+      "title": "Totally F***ed Up",
+      "year": "1993",
+      "director": "Gregg Araki",
+      "letterboxd_url": "https://letterboxd.com/film/totally-fed-up/"
+    }
+  ],
+  "influences_from": [
+    "la-rebellion"
+  ],
+  "influences_to": [],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page3/new-queer-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}

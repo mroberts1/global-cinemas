@@ -1,0 +1,2143 @@
+{
+  "source": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/detail/",
+  "n_movements": 42,
+  "n_films": 265,
+  "movements": [
+    {
+      "name": "Cinema Of Attractions",
+      "raw_name": "CINEMA OF ATTRACTIONS",
+      "slug": "cinema-of-attractions",
+      "period_raw": "1895 - 1910s",
+      "period": {
+        "start": 1895,
+        "end": 1910
+      },
+      "summary": "Starting with the initial screenings of films in 1895, and extending into the nickelodeon craze of the 1900s, cinema emerged as a thrilling spectacle designed to astonish, captivate and occasionally provoke its viewers. This period marks the inception of the cinema as we recognize it in the present day - the birth of cinema!",
+      "films": [
+        {
+          "title": "Workers Leaving the Lumière Factory",
+          "year": "1895",
+          "director": "Louis Lumière",
+          "letterboxd_url": "https://letterboxd.com/film/la-sortie-de-lusine-lumiere/"
+        },
+        {
+          "title": "The Arrival of a Train at La Ciotat",
+          "year": "1896",
+          "director": "Louis Lumière",
+          "letterboxd_url": "https://letterboxd.com/film/the-arrival-of-a-train-at-la-ciotat/"
+        },
+        {
+          "title": "A Trip to the Moon",
+          "year": "1902",
+          "director": "Georges Méliès",
+          "letterboxd_url": "https://letterboxd.com/film/a-trip-to-the-moon/"
+        },
+        {
+          "title": "The Great Train Robbery",
+          "year": "1903",
+          "director": "Edwin S. Porter",
+          "letterboxd_url": "https://letterboxd.com/film/the-great-train-robbery/"
+        },
+        {
+          "title": "The Dancing Pig",
+          "year": "1907",
+          "director": "Pathé",
+          "letterboxd_url": "https://letterboxd.com/film/the-dancing-pig/"
+        }
+      ]
+    },
+    {
+      "name": "German Expressionism",
+      "raw_name": "GERMAN EXPRESSIONISM",
+      "slug": "german-expressionism",
+      "period_raw": "1913 - 1930",
+      "period": {
+        "start": 1913,
+        "end": 1930
+      },
+      "summary": "Influential film movement that emerged during the early 20th century in Germany. Characterized by its distinctive visual style, psychological depth, and exploration of dark and often unsettling themes, German Expressionism revolutionized filmmaking. The movement's use of distorted sets, dramatic lighting, and surreal narratives left an indelible mark on cinema, influencing genres ranging from horror to film noir and inspiring filmmakers worldwide.",
+      "films": [
+        {
+          "title": "The Student of Prague",
+          "year": "1913",
+          "director": "Paul Wegener",
+          "letterboxd_url": "https://letterboxd.com/film/the-student-of-prague-1913/"
+        },
+        {
+          "title": "The Cabinet of Dr. Caligari",
+          "year": "1920",
+          "director": "Robert Wiene",
+          "letterboxd_url": "https://letterboxd.com/film/the-cabinet-of-dr-caligari-1920/"
+        },
+        {
+          "title": "Nosferatu",
+          "year": "1922",
+          "director": "F. W. Murnau",
+          "letterboxd_url": "https://letterboxd.com/film/nosferatu/"
+        },
+        {
+          "title": "Metropolis",
+          "year": "1927",
+          "director": "Fritz Lang",
+          "letterboxd_url": "https://letterboxd.com/film/metropolis/"
+        },
+        {
+          "title": "M",
+          "year": "1931",
+          "director": "Fritz Lang",
+          "letterboxd_url": "https://letterboxd.com/film/m/"
+        }
+      ]
+    },
+    {
+      "name": "French Impressionist Cinema",
+      "raw_name": "FRENCH IMPRESSIONIST CINEMA",
+      "slug": "french-impressionist-cinema",
+      "period_raw": "1918 - 1930",
+      "period": {
+        "start": 1918,
+        "end": 1930
+      },
+      "summary": "French Impressionism can be considered the catalyst for the scholarly examination of cinema. This cinematic movement ventured into unconventional methods, including non-linear editing, inventive lighting, depicting dreamlike sequences and fantasies, and other creative approaches to narrate stories from a protagonist’s point of view. It also provided a platform for female directors like Germaine Dulac to make their mark in a male-dominated industry, addressing themes of gender and sexuality with nuance and boldness.",
+      "films": [
+        {
+          "title": "I Accuse",
+          "year": "1919",
+          "director": "Abel Gance",
+          "letterboxd_url": "https://letterboxd.com/film/i-accuse-1919/"
+        },
+        {
+          "title": "La Roue",
+          "year": "1923",
+          "director": "Abel Gance",
+          "letterboxd_url": "https://letterboxd.com/film/la-roue/"
+        },
+        {
+          "title": "Ménilmontant",
+          "year": "1926",
+          "director": "Dimitri Kirsanoff",
+          "letterboxd_url": "https://letterboxd.com/film/menilmontant/"
+        },
+        {
+          "title": "Napoleon",
+          "year": "1927",
+          "director": "Abel Gance",
+          "letterboxd_url": "https://letterboxd.com/film/napoleon/"
+        },
+        {
+          "title": "The Fall of the House of Usher",
+          "year": "1928",
+          "director": "Jean Epstein",
+          "letterboxd_url": "https://letterboxd.com/film/the-fall-of-the-house-of-usher/"
+        }
+      ]
+    },
+    {
+      "name": "Surrealist Cinema",
+      "raw_name": "SURREALIST CINEMA",
+      "slug": "surrealist-cinema",
+      "period_raw": "early 1920s – late 1930s",
+      "period": {
+        "start": 1920,
+        "end": 1930
+      },
+      "summary": "Surrealist cinema emerged in the 1920s as an extension of the broader Surrealist art movement, which itself grew out of the Dada movement that arose during and after World War I. The devastation of the war led many artists and intellectuals to reject traditional values and forms of expression. This rejection was crystallized in the Dada movement, which emphasized absurdity, spontaneity, and anti-bourgeois sentiment.",
+      "films": [
+        {
+          "title": "Return to Reason",
+          "year": "1923",
+          "director": "Man Ray",
+          "letterboxd_url": "https://letterboxd.com/film/return-to-reason/"
+        },
+        {
+          "title": "Un Chien Andalou",
+          "year": "1929",
+          "director": "Luis Buñuel",
+          "letterboxd_url": "https://letterboxd.com/film/un-chien-andalou/"
+        },
+        {
+          "title": "L'Âge d'or",
+          "year": "1930",
+          "director": "Luis Buñuel",
+          "letterboxd_url": "https://letterboxd.com/film/lage-dor/"
+        },
+        {
+          "title": "The Blood of a Poet",
+          "year": "1932",
+          "director": "Jean Cocteau",
+          "letterboxd_url": "https://letterboxd.com/film/the-blood-of-a-poet/"
+        },
+        {
+          "title": "Meshes of the Afternoon",
+          "year": "1943",
+          "director": "Maya Deren",
+          "letterboxd_url": "https://letterboxd.com/film/meshes-of-the-afternoon/"
+        }
+      ]
+    },
+    {
+      "name": "Soviet Montage",
+      "raw_name": "SOVIET MONTAGE",
+      "slug": "soviet-montage",
+      "period_raw": "1924 - 1935",
+      "period": {
+        "start": 1924,
+        "end": 1935
+      },
+      "summary": "The idea of Soviet Montage theory was first brought up by director Lev Kuleshov, that an idea or an emotion might not be adequately expressed in a single frame. Two distinct images can be seen by the audience, who subconsciously assigns them a larger context. His method altered how time and space were merged into films, leading to the development of the \"montage\" that still influence modern film, and was important throughout cinematic history.",
+      "films": [
+        {
+          "title": "Battleship Potemkin",
+          "year": "1925",
+          "director": "Sergei Eisenstein",
+          "letterboxd_url": "https://letterboxd.com/film/battleship-potemkin/"
+        },
+        {
+          "title": "Strike",
+          "year": "1925",
+          "director": "Sergei Eisenstein",
+          "letterboxd_url": "https://letterboxd.com/film/strike/"
+        },
+        {
+          "title": "October (Ten Days that Shook the World)",
+          "year": "1928",
+          "director": "Sergei Eisenstein",
+          "letterboxd_url": "https://letterboxd.com/film/october-ten-days-that-shook-the-world/"
+        },
+        {
+          "title": "Man with a Movie Camera",
+          "year": "1929",
+          "director": "Dziga Vertov",
+          "letterboxd_url": "https://letterboxd.com/film/man-with-a-movie-camera/"
+        },
+        {
+          "title": "Earth",
+          "year": "1930",
+          "director": "Alexander Dovzhenko",
+          "letterboxd_url": "https://letterboxd.com/film/earth-1930/"
+        }
+      ]
+    },
+    {
+      "name": "Poetic Realism",
+      "raw_name": "POETIC REALISM",
+      "slug": "poetic-realism",
+      "period_raw": "1930 - 1940s",
+      "period": {
+        "start": 1930,
+        "end": 1940
+      },
+      "summary": "Poetic Realism is not as tightly unified as French Impressionism or Soviet Montage, and is more of a tendency than a film movement. Poetic Realism didn't aim for the \"socio-realism of the documentary\", but rather \"recreated realism,\" stylized and studio-bound. Main characters of the movement typically lives on the periphery of society, either as unemployed members of the working class or as criminals, reflecting their fatalistic outlook on life.",
+      "films": [
+        {
+          "title": "L'Atalante",
+          "year": "1934",
+          "director": "Jean Vigo",
+          "letterboxd_url": "https://letterboxd.com/film/latalante/"
+        },
+        {
+          "title": "Grand Illusion",
+          "year": "1937",
+          "director": "Jean Renoir",
+          "letterboxd_url": "https://letterboxd.com/film/grand-illusion/"
+        },
+        {
+          "title": "Port of Shadows",
+          "year": "1938",
+          "director": "Marcel Carné",
+          "letterboxd_url": "https://letterboxd.com/film/port-of-shadows/"
+        },
+        {
+          "title": "The Rules of the Game",
+          "year": "1939",
+          "director": "Jean Renoir",
+          "letterboxd_url": "https://letterboxd.com/film/the-rules-of-the-game/"
+        },
+        {
+          "title": "Children of Paradise",
+          "year": "1945",
+          "director": "Marcel Carné",
+          "letterboxd_url": "https://letterboxd.com/film/children-of-paradise/"
+        }
+      ]
+    },
+    {
+      "name": "Film Noir",
+      "raw_name": "FILM NOIR",
+      "slug": "film-noir",
+      "period_raw": "late 1930s – late 1950s",
+      "period": {
+        "start": 1930,
+        "end": 1950
+      },
+      "summary": "Film noir emerged in the early 1940s as a distinctive style within American cinema, marked by its dark, moody aesthetics and cynical narratives. The term “film noir,” meaning “black film” or “dark film” in French, was coined by French critics in the post-World War II era, who observed the emergence of American crime dramas with shadowy visuals and themes of moral ambiguity.",
+      "films": [
+        {
+          "title": "The Maltese Falcon",
+          "year": "1941",
+          "director": "John Huston",
+          "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/"
+        },
+        {
+          "title": "Double Indemnity",
+          "year": "1944",
+          "director": "Billy Wilder",
+          "letterboxd_url": "https://letterboxd.com/film/double-indemnity/"
+        },
+        {
+          "title": "Laura",
+          "year": "1944",
+          "director": "Otto Preminger",
+          "letterboxd_url": "https://letterboxd.com/film/laura/"
+        },
+        {
+          "title": "The Big Sleep",
+          "year": "1946",
+          "director": "Howard Hawks",
+          "letterboxd_url": "https://letterboxd.com/film/the-big-sleep/"
+        },
+        {
+          "title": "Touch of Evil",
+          "year": "1958",
+          "director": "Orson Welles",
+          "letterboxd_url": "https://letterboxd.com/film/touch-of-evil/"
+        }
+      ]
+    },
+    {
+      "name": "Italian Neorealism",
+      "raw_name": "ITALIAN NEOREALISM",
+      "slug": "italian-neorealism",
+      "period_raw": "1943 - 1954",
+      "period": {
+        "start": 1943,
+        "end": 1954
+      },
+      "summary": "Italian Neorealism was a revolutionary cinematic movement that emerged in post-World War II Italy. It prioritized authentic storytelling, depicting the harsh realities of everyday life and the struggles of ordinary people. Characterized by the use of non-professional actors, real locations, and a focus on social issues, Italian Neorealism aimed to capture the real world struggles in the aftermath of World War II, and did so to great effect, making Italian Neorealism a cornerstone of film history.",
+      "films": [
+        {
+          "title": "Obsession",
+          "year": "1943",
+          "director": "Luchino Visconti",
+          "letterboxd_url": "https://letterboxd.com/film/obsession-1943/"
+        },
+        {
+          "title": "Rome, Open City",
+          "year": "1945",
+          "director": "Roberto Rossellini",
+          "letterboxd_url": "https://letterboxd.com/film/rome-open-city/"
+        },
+        {
+          "title": "Bicycle Thieves",
+          "year": "1948",
+          "director": "Vittorio De Sica",
+          "letterboxd_url": "https://letterboxd.com/film/bicycle-thieves/"
+        },
+        {
+          "title": "Umberto D.",
+          "year": "1952",
+          "director": "Vittorio De Sica",
+          "letterboxd_url": "https://letterboxd.com/film/umberto-d/"
+        },
+        {
+          "title": "Journey to Italy",
+          "year": "1954",
+          "director": "Roberto Rossellini",
+          "letterboxd_url": "https://letterboxd.com/film/journey-to-italy/"
+        }
+      ]
+    },
+    {
+      "name": "Parallel Cinema",
+      "raw_name": "PARALLEL CINEMA",
+      "slug": "parallel-cinema",
+      "period_raw": "1954 - 1990s",
+      "period": {
+        "start": 1954,
+        "end": 1990
+      },
+      "summary": "A significant film movement that emerged in Indian, Parallel Cinema movement started as a response to the dominance of mainstream Bollywood cinema. Rooted in realism, social commentary and experimental storytelling, it sought to authentically depict everyday life and address pressing societal issues. Filmmakers of this movement used non-professional actors and real locations, providing a stark contrast to the glamour of Bollywood. It was heavily influenced by Italian Neorealist cinema.",
+      "films": [
+        {
+          "title": "Pather Panchali",
+          "year": "1955",
+          "director": "Satyajit Ray",
+          "letterboxd_url": "https://letterboxd.com/film/pather-panchali/"
+        },
+        {
+          "title": "The Cloud-Capped Star",
+          "year": "1960",
+          "director": "Ritwik Ghatak",
+          "letterboxd_url": "https://letterboxd.com/film/the-cloud-capped-star/"
+        },
+        {
+          "title": "The Big City",
+          "year": "1963",
+          "director": "Satyajit Ray",
+          "letterboxd_url": "https://letterboxd.com/film/the-big-city/"
+        },
+        {
+          "title": "Charulata",
+          "year": "1964",
+          "director": "Satyajit Ray",
+          "letterboxd_url": "https://letterboxd.com/film/charulata/"
+        },
+        {
+          "title": "A River Called Titas",
+          "year": "1973",
+          "director": "Ritwik Ghatak",
+          "letterboxd_url": "https://letterboxd.com/film/a-river-called-titas/"
+        }
+      ]
+    },
+    {
+      "name": "Polish Film School",
+      "raw_name": "POLISH FILM SCHOOL",
+      "slug": "polish-film-school",
+      "period_raw": "1955 - 1963",
+      "period": {
+        "start": 1955,
+        "end": 1963
+      },
+      "summary": "Characterized by its innovative storytelling, intellectual depth and strong artistic expression, Polish Film School produced some of the most celebrated filmmakers in cinematic history. Pioneers like Andrzej Wajda, Andrzej Munkand and Krzysztof Kieslowski crafted films that offered profound insights into the human condition, often through allegorical and symbolic narratives.",
+      "films": [
+        {
+          "title": "A Generation",
+          "year": "1955",
+          "director": "Andrzej Wajda",
+          "letterboxd_url": "https://letterboxd.com/film/a-generation/"
+        },
+        {
+          "title": "Kanal",
+          "year": "1957",
+          "director": "Andrzej Wajda",
+          "letterboxd_url": "https://letterboxd.com/film/kanal-1957/"
+        },
+        {
+          "title": "Ashes and Diamonds",
+          "year": "1958",
+          "director": "Andrzej Wajda",
+          "letterboxd_url": "https://letterboxd.com/film/ashes-and-diamonds/"
+        },
+        {
+          "title": "Mother Joan of the Angels",
+          "year": "1961",
+          "director": "Jerzy Kawalerowicz",
+          "letterboxd_url": "https://letterboxd.com/film/mother-joan-of-the-angels/"
+        },
+        {
+          "title": "Knife in the Water",
+          "year": "1962",
+          "director": "Roman Polanski",
+          "letterboxd_url": "https://letterboxd.com/film/knife-in-the-water/"
+        }
+      ]
+    },
+    {
+      "name": "French New Wave",
+      "raw_name": "FRENCH NEW WAVE",
+      "slug": "french-new-wave",
+      "period_raw": "1955 - late 1960s",
+      "period": {
+        "start": 1955,
+        "end": 1960
+      },
+      "summary": "Or La Nouvelle Vague, was a groundbreaking cinematic movement that emerged in the late 1950s, and flourished in the 1960s in France. It revolutionized filmmaking by prioritizing authenticity, innovation, and narrative experimentation. The French New Wave directors challenged traditional cinematic conventions, using natural lighting, location shooting, and non-linear narratives to capture the immediacy of life on film. Their works often featured inter-textual references to other films and filmmakers, adding depth and layers to their creations.",
+      "films": [
+        {
+          "title": "La Pointe Courte",
+          "year": "1955",
+          "director": "Agnès Varda",
+          "letterboxd_url": "https://letterboxd.com/film/la-pointe-courte/"
+        },
+        {
+          "title": "Elevator to the Gallows",
+          "year": "1958",
+          "director": "Louise Malle",
+          "letterboxd_url": "https://letterboxd.com/film/elevator-to-the-gallows/"
+        },
+        {
+          "title": "The 400 Blows",
+          "year": "1959",
+          "director": "François Truffaut",
+          "letterboxd_url": "https://letterboxd.com/film/the-400-blows/"
+        },
+        {
+          "title": "Hiroshima Mon Amour",
+          "year": "1959",
+          "director": "Alain Resnais",
+          "letterboxd_url": "https://letterboxd.com/film/hiroshima-mon-amour/"
+        },
+        {
+          "title": "Breathless",
+          "year": "1960",
+          "director": "Jean-Luc Godard",
+          "letterboxd_url": "https://letterboxd.com/film/breathless/"
+        },
+        {
+          "title": "Jules and Jim",
+          "year": "1962",
+          "director": "François Truffaut",
+          "letterboxd_url": "https://letterboxd.com/film/jules-and-jim/"
+        },
+        {
+          "title": "Cléo from 5 to 7",
+          "year": "1962",
+          "director": "Agnès Varda",
+          "letterboxd_url": "https://letterboxd.com/film/cleo-from-5-to-7/"
+        },
+        {
+          "title": "Pierrot le Fou",
+          "year": "1965",
+          "director": "Jean-Luc Godard",
+          "letterboxd_url": "https://letterboxd.com/film/pierrot-le-fou/"
+        },
+        {
+          "title": "The Young Girls of Rochefort",
+          "year": "1967",
+          "director": "Jacques Demy",
+          "letterboxd_url": "https://letterboxd.com/film/the-young-girls-of-rochefort/"
+        },
+        {
+          "title": "Le Samouraï",
+          "year": "1967",
+          "director": "Jean-Pierre Melville",
+          "letterboxd_url": "https://letterboxd.com/film/le-samourai/"
+        }
+      ]
+    },
+    {
+      "name": "Japanese New Wave",
+      "raw_name": "JAPANESE NEW WAVE",
+      "slug": "japanese-new-wave",
+      "period_raw": "1956 - late 1970s",
+      "period": {
+        "start": 1956,
+        "end": 1970
+      },
+      "summary": "Characterized by its rebellion against established norms, the Japanese New Wave featured directors like Nagisa Oshima and Shohei Imamura, who explored controversial themes, social issues, and unconventional narrative techniques. Films of this movement often challenged societal taboos and political structures, offering a fresh perspective on Japanese culture and identity. The Japanese New Wave's bold experimentation left a lasting impact on global cinema, inspiring a new generation of filmmakers and contributing to the evolution of Japanese cinema.",
+      "films": [
+        {
+          "title": "Crazed Fruit",
+          "year": "1956",
+          "director": "Kō Nakahira",
+          "letterboxd_url": "https://letterboxd.com/film/crazed-fruit/"
+        },
+        {
+          "title": "Pigs and Battleships",
+          "year": "1961",
+          "director": "Shōhei Imamura",
+          "letterboxd_url": "https://letterboxd.com/film/pigs-and-battleships/"
+        },
+        {
+          "title": "Woman in the Dunes",
+          "year": "1964",
+          "director": "Hiroshi Teshigahara",
+          "letterboxd_url": "https://letterboxd.com/film/woman-in-the-dunes/"
+        },
+        {
+          "title": "Pale Flower",
+          "year": "1964",
+          "director": "Masahiro Shinoda",
+          "letterboxd_url": "https://letterboxd.com/film/pale-flower/"
+        },
+        {
+          "title": "Onibaba",
+          "year": "1964",
+          "director": "Kaneto Shindo",
+          "letterboxd_url": "https://letterboxd.com/film/onibaba/"
+        },
+        {
+          "title": "Tokyo Drifter",
+          "year": "1966",
+          "director": "Seijun Suzuki",
+          "letterboxd_url": "https://letterboxd.com/film/tokyo-drifter/"
+        },
+        {
+          "title": "Funeral Parade of Roses",
+          "year": "1969",
+          "director": "Toshio Matsumoto",
+          "letterboxd_url": "https://letterboxd.com/film/funeral-parade-of-roses/"
+        },
+        {
+          "title": "Eros + Massacre",
+          "year": "1969",
+          "director": "Yoshishige Yoshida",
+          "letterboxd_url": "https://letterboxd.com/film/eros-massacre/"
+        },
+        {
+          "title": "In the Realm of the Senses",
+          "year": "1976",
+          "director": "Nagisa Ōshima",
+          "letterboxd_url": "https://letterboxd.com/film/in-the-realm-of-the-senses/"
+        },
+        {
+          "title": "Vengeance Is Mine",
+          "year": "1979",
+          "director": "Shōhei Imamura",
+          "letterboxd_url": "https://letterboxd.com/film/vengeance-is-mine/"
+        }
+      ]
+    },
+    {
+      "name": "Direct And Cinema Verite",
+      "raw_name": "DIRECT AND CINEMA VERITE",
+      "slug": "direct-and-cinema-verite",
+      "period_raw": "1957 - 1970s",
+      "period": {
+        "start": 1957,
+        "end": 1970
+      },
+      "summary": "Emerged in the late 1950s, they shared a common goal of capturing reality in its most unfiltered form. Direct Cinema, pioneered in the United States, used lightweight equipment to observe events spontaneously, offering an untouched and authentic experience. Cinéma Vérité, originating in France, embraces a more subjective and participatory approach, acknowledging the filmmaker’s presence and allowing for interpretations.",
+      "films": [
+        {
+          "title": "Chronicle of a Summer",
+          "year": "1961",
+          "director": "Jean Rouch",
+          "letterboxd_url": "https://letterboxd.com/film/chronicle-of-a-summer/"
+        },
+        {
+          "title": "The Lovely Month of May",
+          "year": "1963",
+          "director": "Chris Marker",
+          "letterboxd_url": "https://letterboxd.com/film/the-lovely-month-of-may/"
+        },
+        {
+          "title": "Dont Look Back",
+          "year": "1967",
+          "director": "D. A. Pennebaker",
+          "letterboxd_url": "https://letterboxd.com/film/dont-look-back-1967/"
+        },
+        {
+          "title": "Salesman",
+          "year": "1969",
+          "director": "Albert and David Maysles",
+          "letterboxd_url": "https://letterboxd.com/film/salesman/"
+        },
+        {
+          "title": "Gimme Shelter",
+          "year": "1970",
+          "director": "Albert and David Maysles",
+          "letterboxd_url": "https://letterboxd.com/film/gimme-shelter-1970/"
+        }
+      ]
+    },
+    {
+      "name": "Cinema Novo",
+      "raw_name": "CINEMA NOVO",
+      "slug": "cinema-novo",
+      "period_raw": "1950s - early 1970s",
+      "period": {
+        "start": 1950,
+        "end": 1970
+      },
+      "summary": "Cinema Novo is a film movement noted for its emphasis on social equality and intellectualism that rose to prominence in Brazil during the 1960s and 1970s. Formed in response to class and racial unrest both in Brazil and the United States, and heavily influenced by Italian Neorealism and French New Wave. Films produced under the ideology of Cinema Novo opposed traditional Brazilian cinema, which consisted primarily of musicals, comedies and Hollywood-style epics.",
+      "films": [
+        {
+          "title": "Rio, 100 Degrees F°",
+          "year": "1955",
+          "director": "Nelson Pereira dos Santos",
+          "letterboxd_url": "https://letterboxd.com/film/rio-100-degrees-f/"
+        },
+        {
+          "title": "Barren Lives",
+          "year": "1963",
+          "director": "Nelson Pereira dos Santos",
+          "letterboxd_url": "https://letterboxd.com/film/barren-lives/"
+        },
+        {
+          "title": "Black God, White Devil",
+          "year": "1964",
+          "director": "Glauber Rocha",
+          "letterboxd_url": "https://letterboxd.com/film/black-god-white-devil/"
+        },
+        {
+          "title": "The Guns",
+          "year": "1964",
+          "director": "Ruy Guerra",
+          "letterboxd_url": "https://letterboxd.com/film/the-guns/"
+        },
+        {
+          "title": "São Paulo, Incorporated",
+          "year": "1965",
+          "director": "Luis Sérgio Person",
+          "letterboxd_url": "https://letterboxd.com/film/sao-paulo-incorporated/"
+        }
+      ]
+    },
+    {
+      "name": "New British Wave",
+      "raw_name": "NEW BRITISH WAVE",
+      "slug": "new-british-wave",
+      "period_raw": "1950s - 1960s",
+      "period": {
+        "start": 1950,
+        "end": 1960
+      },
+      "summary": "The British New Wave represented a surge in the creative aspirations of young British filmmakers during the late 1950s, influenced by American and European art cinema, they were inspired to craft their own distinctive works. Critics coined the term \"new wave\" to draw parallels between it and the French New Wave of the late 1950s. Both cinematic movements prioritized social realism and naturalism, often centering their narratives on young working-class characters and settings.",
+      "films": [
+        {
+          "title": "Saturday Night and Sunday Morning",
+          "year": "1960",
+          "director": "Karel Reisz",
+          "letterboxd_url": "https://letterboxd.com/film/saturday-night-and-sunday-morning/"
+        },
+        {
+          "title": "The Loneliness of the Long Distance Runner",
+          "year": "1962",
+          "director": "Tony Richardson",
+          "letterboxd_url": "https://letterboxd.com/film/the-loneliness-of-the-long-distance-runner/"
+        },
+        {
+          "title": "This Sporting Life",
+          "year": "1963",
+          "director": "Lindsay Anderson",
+          "letterboxd_url": "https://letterboxd.com/film/this-sporting-life/"
+        },
+        {
+          "title": "Billy Liar",
+          "year": "1963",
+          "director": "John Schlesinger",
+          "letterboxd_url": "https://letterboxd.com/film/billy-liar/"
+        },
+        {
+          "title": "The Servant",
+          "year": "1963",
+          "director": "Joseph Losey",
+          "letterboxd_url": "https://letterboxd.com/film/the-servant/"
+        },
+        {
+          "title": "The Small World of Sammy Lee",
+          "year": "1963",
+          "director": "Ken Hughes",
+          "letterboxd_url": "https://letterboxd.com/film/the-small-world-of-sammy-lee/"
+        },
+        {
+          "title": "Seance on a Wet Afternoon",
+          "year": "1964",
+          "director": "Bryan Forbes",
+          "letterboxd_url": "https://letterboxd.com/film/seance-on-a-wet-afternoon/"
+        },
+        {
+          "title": "Cathy Come Home",
+          "year": "1966",
+          "director": "Ken Loach",
+          "letterboxd_url": "https://letterboxd.com/film/cathy-come-home/"
+        },
+        {
+          "title": "if....",
+          "year": "1968",
+          "director": "Lindsay Anderson",
+          "letterboxd_url": "https://letterboxd.com/film/if/"
+        },
+        {
+          "title": "Kes",
+          "year": "1969",
+          "director": "Ken Loach",
+          "letterboxd_url": "https://letterboxd.com/film/kes/"
+        }
+      ]
+    },
+    {
+      "name": "Czechoslovak New Wave",
+      "raw_name": "CZECHOSLOVAK NEW WAVE",
+      "slug": "czechoslovak-new-wave",
+      "period_raw": "1962 - 1970",
+      "period": {
+        "start": 1962,
+        "end": 1970
+      },
+      "summary": "Characterized by its courageous experimentation, sharp wit, and fondness for social commentary, this cinematic movement challenged the prevailing norms of its time. The Czechoslovak New Wave explored subjects that previous filmmakers in communist nations often struggled to depict without encountering censorship. These films frequently conveyed a blend of dark and absurd humor, a stark departure from the predominant social realism seen in the films of the 1950s.",
+      "films": [
+        {
+          "title": "Diamonds of the Night",
+          "year": "1964",
+          "director": "Jan Němec",
+          "letterboxd_url": "https://letterboxd.com/film/diamonds-of-the-night/"
+        },
+        {
+          "title": "The Shop on Main Street",
+          "year": "1965",
+          "director": "Ján Kadár",
+          "letterboxd_url": "https://letterboxd.com/film/the-shop-on-main-street/"
+        },
+        {
+          "title": "Loves of a Blonde",
+          "year": "1965",
+          "director": "Miloš Forman",
+          "letterboxd_url": "https://letterboxd.com/film/loves-of-a-blonde/"
+        },
+        {
+          "title": "Daisies",
+          "year": "1966",
+          "director": "Věra Chytilová",
+          "letterboxd_url": "https://letterboxd.com/film/daisies/"
+        },
+        {
+          "title": "Closely Watched Trains",
+          "year": "1966",
+          "director": "Jiří Menzel",
+          "letterboxd_url": "https://letterboxd.com/film/closely-watched-trains/"
+        }
+      ]
+    },
+    {
+      "name": "Cuban Revolutionary Cinema",
+      "raw_name": "CUBAN REVOLUTIONARY CINEMA",
+      "slug": "cuban-revolutionary-cinema",
+      "period_raw": "early 1960s – late 1970s",
+      "period": {
+        "start": 1960,
+        "end": 1970
+      },
+      "summary": "Cuban Revolutionary Cinema started in the wake of the Cuban Revolution of 1959, a period that saw the overthrow of the Batista regime and the rise of Fidel Castro. The new government recognized cinema as a powerful tool for cultural and political expression, leading to the establishment of the Cuban Institute of Cinematographic Art and Industry (ICAIC) in 1959. ICAIC aimed to produce films that reflected revolutionary ideals, national identity, while addressing social issues.",
+      "films": [
+        {
+          "title": "Now!",
+          "year": "1965",
+          "director": "Santiago Álvarez",
+          "letterboxd_url": "https://letterboxd.com/film/now/"
+        },
+        {
+          "title": "I'm Going to Santiago",
+          "year": "1964",
+          "director": "Sara Gomez",
+          "letterboxd_url": "https://letterboxd.com/film/im-going-to-santiago/"
+        },
+        {
+          "title": "Death of a Bureaucrat",
+          "year": "1966",
+          "director": "Tomás Gutiérrez Alea",
+          "letterboxd_url": "https://letterboxd.com/film/death-of-a-bureaucrat/"
+        },
+        {
+          "title": "Lucía",
+          "year": "1968",
+          "director": "Humberto Solás",
+          "letterboxd_url": "https://letterboxd.com/film/lucia/"
+        },
+        {
+          "title": "One Way or Another",
+          "year": "1975",
+          "director": "Sara Gomez",
+          "letterboxd_url": "https://letterboxd.com/film/one-way-or-another-1975/"
+        }
+      ]
+    },
+    {
+      "name": "Yugoslav Black Wave",
+      "raw_name": "YUGOSLAV BLACK WAVE",
+      "slug": "yugoslav-black-wave",
+      "period_raw": "1963 - 1970s",
+      "period": {
+        "start": 1963,
+        "end": 1970
+      },
+      "summary": "Bold and subversive, the Yugoslav Black Wave is characterized by its dark humor, social critique, and rejection of traditional filmmaking conventions. Themes encompassed everything from sexuality and politics to religion. As a result, many of these films were banned, and some notable directors forbidden from working in Yugoslavia. Filmmakers like Dusan Makavejev and Zivojin Pavlovic played pivotal roles in this movement, producing thought-provoking and often controversial works that left a lasting impact on the Yugoslav and Balkan film landscape.",
+      "films": [
+        {
+          "title": "Three",
+          "year": "1965",
+          "director": "Aleksandar Petrović",
+          "letterboxd_url": "https://letterboxd.com/film/three-1965/"
+        },
+        {
+          "title": "When I Am Dead and White",
+          "year": "1967",
+          "director": "Živojin Pavlović",
+          "letterboxd_url": "https://letterboxd.com/film/when-i-am-dead-and-white/"
+        },
+        {
+          "title": "I Even Met Happy Gypsies",
+          "year": "1967",
+          "director": "Aleksandar Petrović",
+          "letterboxd_url": "https://letterboxd.com/film/i-even-met-happy-gypsies/"
+        },
+        {
+          "title": "Early Works",
+          "year": "1969",
+          "director": "Želimir Žilnik",
+          "letterboxd_url": "https://letterboxd.com/film/early-works/"
+        },
+        {
+          "title": "WR: Mysteries of the Organism",
+          "year": "1971",
+          "director": "Dušan Makavejev",
+          "letterboxd_url": "https://letterboxd.com/film/wr-mysteries-of-the-organism/"
+        }
+      ]
+    },
+    {
+      "name": "Third Cinema",
+      "raw_name": "THIRD CINEMA",
+      "slug": "third-cinema",
+      "period_raw": "mid 1960s - late 1970s",
+      "period": {
+        "start": 1960,
+        "end": 1970
+      },
+      "summary": "Third Cinema emerged in the mid 1960s as a response to the dominant ideals of Hollywood (1st Cinema) and European art cinema (2nd Cinema). Grounded in the principles of social justice, cultural authenticity and political engagement, it represented a radical departure from traditional filmmaking, aiming to address the socio-political realities of the Global South, particularly in Latin America, Africa and Asia. Third Cinema aimed to create a space for the voices of those who had been historically marginalized and silenced in the global discourse.",
+      "films": [
+        {
+          "title": "Black Girl",
+          "year": "1966",
+          "director": "Ousmane Sembene",
+          "letterboxd_url": "https://letterboxd.com/film/black-girl-1966/"
+        },
+        {
+          "title": "Entranced Earth",
+          "year": "1967",
+          "director": "Glauber Rocha",
+          "letterboxd_url": "https://letterboxd.com/film/entranced-earth/"
+        },
+        {
+          "title": "The Hour of the Furnaces",
+          "year": "1968",
+          "director": "Fernando Solanas",
+          "letterboxd_url": "https://letterboxd.com/film/the-hour-of-the-furnaces/"
+        },
+        {
+          "title": "Memories of Underdevelopment",
+          "year": "1968",
+          "director": "Tomas Gutierrez Alea",
+          "letterboxd_url": "https://letterboxd.com/film/memories-of-underdevelopment/"
+        },
+        {
+          "title": "Touki Bouki",
+          "year": "1973",
+          "director": "Djibril Diop Mambéty",
+          "letterboxd_url": "https://letterboxd.com/film/touki-bouki/"
+        }
+      ]
+    },
+    {
+      "name": "New Hollywood",
+      "raw_name": "NEW HOLLYWOOD",
+      "slug": "new-hollywood",
+      "period_raw": "1966 - 1984",
+      "period": {
+        "start": 1966,
+        "end": 1984
+      },
+      "summary": "Or American New Wave, a revolutionary era in American filmmaking, that challenged traditional studio practices and embraced artistic freedom. With visionary directors like Kubrick, Coppola, Scorsese, Altman, and groundbreaking films like \"The Godfather\", \"Taxi Driver\" and \"2001: A Space Odyssey\", it introduced innovative storytelling, tackled societal issues, and left an enduring legacy that continues to influence contemporary cinema worldwide. American New Wave's legacy persist as a beacon of cinematic innovation and cultural reflection, and remains one of the most important film movements in cinema to this date.",
+      "films": [
+        {
+          "title": "Bonnie and Clyde",
+          "year": "1967",
+          "director": "Arthur Penn",
+          "letterboxd_url": "https://letterboxd.com/film/bonnie-and-clyde/"
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "year": "1968",
+          "director": "Stanley Kubrick",
+          "letterboxd_url": "https://letterboxd.com/film/2001-a-space-odyssey/"
+        },
+        {
+          "title": "Easy Rider",
+          "year": "1969",
+          "director": "Dennis Hopper",
+          "letterboxd_url": "https://letterboxd.com/film/easy-rider/"
+        },
+        {
+          "title": "The Godfather",
+          "year": "1972",
+          "director": "Francis Ford Coppola",
+          "letterboxd_url": "https://letterboxd.com/film/the-godfather/"
+        },
+        {
+          "title": "American Graffiti",
+          "year": "1973",
+          "director": "George Lucas",
+          "letterboxd_url": "https://letterboxd.com/film/american-graffiti/"
+        },
+        {
+          "title": "The Long Goodbye",
+          "year": "1973",
+          "director": "Robert Altman",
+          "letterboxd_url": "https://letterboxd.com/film/the-long-goodbye/"
+        },
+        {
+          "title": "A Woman Under the Influence",
+          "year": "1974",
+          "director": "John Cassavetes",
+          "letterboxd_url": "https://letterboxd.com/film/a-woman-under-the-influence/"
+        },
+        {
+          "title": "Jaws",
+          "year": "1975",
+          "director": "Steven Spielberg",
+          "letterboxd_url": "https://letterboxd.com/film/jaws/"
+        },
+        {
+          "title": "Taxi Driver",
+          "year": "1976",
+          "director": "Martin Scorsese",
+          "letterboxd_url": "https://letterboxd.com/film/taxi-driver/"
+        },
+        {
+          "title": "Network",
+          "year": "1976",
+          "director": "Sidney Lumet",
+          "letterboxd_url": "https://letterboxd.com/film/network/"
+        },
+        {
+          "title": "Days of Heaven",
+          "year": "1978",
+          "director": "Terrence Malick",
+          "letterboxd_url": "https://letterboxd.com/film/days-of-heaven/"
+        },
+        {
+          "title": "The Deer Hunter",
+          "year": "1978",
+          "director": "Michael Cimino",
+          "letterboxd_url": "https://letterboxd.com/film/the-deer-hunter/"
+        },
+        {
+          "title": "Big Wednesday",
+          "year": "1978",
+          "director": "John Milius",
+          "letterboxd_url": "https://letterboxd.com/film/big-wednesday/"
+        },
+        {
+          "title": "All That Jazz",
+          "year": "1979",
+          "director": "Bob Fosse",
+          "letterboxd_url": "https://letterboxd.com/film/all-that-jazz/"
+        },
+        {
+          "title": "Manhattan",
+          "year": "1979",
+          "director": "Woody Allen",
+          "letterboxd_url": "https://letterboxd.com/film/manhattan/"
+        }
+      ]
+    },
+    {
+      "name": "New German Cinema",
+      "raw_name": "NEW GERMAN CINEMA",
+      "slug": "new-german-cinema",
+      "period_raw": "1966 - 1980s",
+      "period": {
+        "start": 1966,
+        "end": 1980
+      },
+      "summary": "New German Cinema, a prominent film movement in the late 1960s and 1970s, marked a resurgence of German filmmaking after a period of decline. It emphasized realism, explored social and political themes, and introduced internationally acclaimed directors like Rainer Werner Fassbinder, Werner Herzog and Wim Wenders. This film movement played a pivotal role in reinvigorating German cinema, and got critical acclaim at many international festivals.",
+      "films": [
+        {
+          "title": "Young Törless",
+          "year": "1966",
+          "director": "Volker Schlöndorff",
+          "letterboxd_url": "https://letterboxd.com/film/young-torless/"
+        },
+        {
+          "title": "Aguirre, the Wrath of God",
+          "year": "1972",
+          "director": "Werner Herzog",
+          "letterboxd_url": "https://letterboxd.com/film/aguirre-the-wrath-of-god/"
+        },
+        {
+          "title": "Ali: Fear Eats the Soul",
+          "year": "1974",
+          "director": "Rainer Werner Fassbinder",
+          "letterboxd_url": "https://letterboxd.com/film/ali-fear-eats-the-soul/"
+        },
+        {
+          "title": "Alice in the Cities",
+          "year": "1974",
+          "director": "Wim Wenders",
+          "letterboxd_url": "https://letterboxd.com/film/alice-in-the-cities/"
+        },
+        {
+          "title": "Fitzcarraldo",
+          "year": "1982",
+          "director": "Werner Herzog",
+          "letterboxd_url": "https://letterboxd.com/film/fitzcarraldo/"
+        }
+      ]
+    },
+    {
+      "name": "Iranian New Wave",
+      "raw_name": "IRANIAN NEW WAVE",
+      "slug": "iranian-new-wave",
+      "period_raw": "S",
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "summary": "(1960s - 2010s)A revolutionary film movement that redefined Iranian and Asian cinema. Distinguished by its genuine portrayal, innovative narrative methods, and unflinching examination of societal matters, it illuminated the diverse tapestry of Iranian culture. The Iranian New Wave emerged amidst a period of transition and cultural renaissance in Iran. In the late 1960s and early 1970s, the nation was undergoing substantial political and social transformations, fostering a sizable middle class hungry for intellectual and artistic outlets.",
+      "films": [
+        {
+          "title": "The House Is Black",
+          "year": "1963",
+          "director": "Forugh Farrokhzad",
+          "letterboxd_url": "https://letterboxd.com/film/the-house-is-black/"
+        },
+        {
+          "title": "The Cow",
+          "year": "1969",
+          "director": "Dariush Mehrjui",
+          "letterboxd_url": "https://letterboxd.com/film/the-cow-1969/"
+        },
+        {
+          "title": "Still Life",
+          "year": "1974",
+          "director": "Sohrab Shahid-Saless",
+          "letterboxd_url": "https://letterboxd.com/film/still-life-1974/"
+        },
+        {
+          "title": "Close-Up",
+          "year": "1990",
+          "director": "Abbas Kiarostami",
+          "letterboxd_url": "https://letterboxd.com/film/close-up/"
+        },
+        {
+          "title": "A Moment of Innocence",
+          "year": "1996",
+          "director": "Mohsen Makhmalbaf",
+          "letterboxd_url": "https://letterboxd.com/film/a-moment-of-innocence/"
+        },
+        {
+          "title": "Taste of Cherry",
+          "year": "1997",
+          "director": "Abbas Kiarostami",
+          "letterboxd_url": "https://letterboxd.com/film/taste-of-cherry/"
+        },
+        {
+          "title": "Crimson Gold",
+          "year": "2003",
+          "director": "Jafar Panahi",
+          "letterboxd_url": "https://letterboxd.com/film/crimson-gold/"
+        },
+        {
+          "title": "A Separation",
+          "year": "2011",
+          "director": "Asghar Farhadi",
+          "letterboxd_url": "https://letterboxd.com/film/a-separation/"
+        },
+        {
+          "title": "This Is Not a Film",
+          "year": "2011",
+          "director": "Jafar Panahi",
+          "letterboxd_url": "https://letterboxd.com/film/this-is-not-a-film/"
+        },
+        {
+          "title": "The Salesman",
+          "year": "2016",
+          "director": "Asghar Farhadi",
+          "letterboxd_url": "https://letterboxd.com/film/the-salesman-2016/"
+        }
+      ]
+    },
+    {
+      "name": "Australian New Wave",
+      "raw_name": "AUSTRALIAN NEW WAVE",
+      "slug": "australian-new-wave",
+      "period_raw": "1970 - late 1980s",
+      "period": {
+        "start": 1970,
+        "end": 1980
+      },
+      "summary": "Characterized by its fresh and daring storytelling, the Australian New Wave brought a unique Australian perspective to the world of cinema. In stark contrast to the earlier films, those works were perceived as innovative and imaginative, characterized by vibrant energy, an appreciation for expansive landscapes, and with tendency for sudden violence. The straightforward storytelling approach found in numerous Australian New Wave films evoked memories of the auteur spirit of the New American Wave.",
+      "films": [
+        {
+          "title": "Wake in Fright",
+          "year": "1971",
+          "director": "Ted Kotcheff",
+          "letterboxd_url": "https://letterboxd.com/film/wake-in-fright/"
+        },
+        {
+          "title": "Walkabout",
+          "year": "1971",
+          "director": "Nicolas Roeg",
+          "letterboxd_url": "https://letterboxd.com/film/walkabout/"
+        },
+        {
+          "title": "Picnic at Hanging Rock",
+          "year": "1975",
+          "director": "Peter Weir",
+          "letterboxd_url": "https://letterboxd.com/film/picnic-at-hanging-rock/"
+        },
+        {
+          "title": "Mad Max",
+          "year": "1979",
+          "director": "George Miller",
+          "letterboxd_url": "https://letterboxd.com/film/mad-max/"
+        },
+        {
+          "title": "Breaker Morant",
+          "year": "1980",
+          "director": "Bruce Beresford",
+          "letterboxd_url": "https://letterboxd.com/film/breaker-morant/"
+        }
+      ]
+    },
+    {
+      "name": "Budapest School",
+      "raw_name": "BUDAPEST SCHOOL",
+      "slug": "budapest-school",
+      "period_raw": "1972-1984",
+      "period": {
+        "start": 1972,
+        "end": 1984
+      },
+      "summary": "he Budapest School Film Movement emerged in Hungary during the later half of 20th century, a period marked by Soviet influence and political repression. Following World War II, Hungary’s film industry was heavily controlled by the state, promoting socialist ideals through censored, propagandist content. However, the political thaw after the 1956 Hungarian Revolution allowed for a slight relaxation in censorship, enabling a group of visionary filmmakers to experiment and critique contemporary society through cinema.",
+      "films": [
+        {
+          "title": "Adoption",
+          "year": "1975",
+          "director": "Márta Mészáros",
+          "letterboxd_url": "https://letterboxd.com/film/adoption/"
+        },
+        {
+          "title": "Family Nest",
+          "year": "1979",
+          "director": "Bela Tarr",
+          "letterboxd_url": "https://letterboxd.com/film/family-nest/"
+        },
+        {
+          "title": "Narcissus and Psyche",
+          "year": "1980",
+          "director": "Gábor Bódy",
+          "letterboxd_url": "https://letterboxd.com/film/narcissus-and-psyche/"
+        },
+        {
+          "title": "Diary for My Children",
+          "year": "1984",
+          "director": "Márta Mészáros",
+          "letterboxd_url": "https://letterboxd.com/film/diary-for-my-children/"
+        },
+        {
+          "title": "Autumn Almanac",
+          "year": "1984",
+          "director": "Bela Tarr",
+          "letterboxd_url": "https://letterboxd.com/film/autumn-almanac/"
+        },
+        {
+          "title": "Killer of Sheep",
+          "year": "1978",
+          "director": "Charles Burnett",
+          "letterboxd_url": "https://letterboxd.com/film/killer-of-sheep/"
+        },
+        {
+          "title": "My Brother's Wedding",
+          "year": "1983",
+          "director": "Charles Burnett",
+          "letterboxd_url": "https://letterboxd.com/film/my-brothers-wedding/"
+        },
+        {
+          "title": "Bless Their Little Hearts",
+          "year": "1983",
+          "director": "Billy Woodberry",
+          "letterboxd_url": "https://letterboxd.com/film/bless-their-little-hearts/"
+        },
+        {
+          "title": "To Sleep with Anger",
+          "year": "1990",
+          "director": "Charles Burnett",
+          "letterboxd_url": "https://letterboxd.com/film/to-sleep-with-anger/"
+        },
+        {
+          "title": "Daughters of the Dust",
+          "year": "1991",
+          "director": "Julie Dash",
+          "letterboxd_url": "https://letterboxd.com/film/daughters-of-the-dust/"
+        }
+      ]
+    },
+    {
+      "name": "Cinema Of Moral Anxiety",
+      "raw_name": "CINEMA OF MORAL ANXIETY",
+      "slug": "cinema-of-moral-anxiety",
+      "period_raw": "1976 - 1981",
+      "period": {
+        "start": 1976,
+        "end": 1981
+      },
+      "summary": "The Cinema of Moral Anxiety, or Kino moralnego niepokoju in Polish, represents a pivotal movement in Polish cinema, emerging in the 1970s and continuing into the early 1980s. The term was also translated as “cinema of moral unrest” and “cinema of moral concern”. This era is distinguished by its exploration of ethical and moral dilemmas faced by individuals under political repression and social transformation. The movement arose during a time of significant political unrest in Poland under the Communist regime, which exercised stringent control over artistic expression through censorship.",
+      "films": [
+        {
+          "title": "The Scar",
+          "year": "1976",
+          "director": "Krzysztof Kieślowski",
+          "letterboxd_url": "https://letterboxd.com/film/the-scar/"
+        },
+        {
+          "title": "Man of Marble",
+          "year": "1977",
+          "director": "Andrzej Wajda",
+          "letterboxd_url": "https://letterboxd.com/film/man-of-marble/"
+        },
+        {
+          "title": "Camouflage",
+          "year": "1977",
+          "director": "Krzysztof Zanussi",
+          "letterboxd_url": "https://letterboxd.com/film/camouflage-1977/"
+        },
+        {
+          "title": "Camera Buff",
+          "year": "1979",
+          "director": "Krzysztof Kieślowski",
+          "letterboxd_url": "https://letterboxd.com/film/camera-buff/"
+        },
+        {
+          "title": "The War of the Worlds: Next Century",
+          "year": "1981",
+          "director": "Piotr Szulkin\"",
+          "letterboxd_url": "https://letterboxd.com/film/the-war-of-the-worlds-next-century/"
+        }
+      ]
+    },
+    {
+      "name": "No Wave Cinema",
+      "raw_name": "NO WAVE CINEMA",
+      "slug": "no-wave-cinema",
+      "period_raw": "late 1970s - late 1980s",
+      "period": {
+        "start": 1970,
+        "end": 1980
+      },
+      "summary": "Provocative and avant-garde film movement that emerged in New York City during the late 1970s, represents a bold departure from traditional filmmaking norms. Characterized by its raw and unapologetic style, the movement challenged conventions, and brought a gritty, urban edge to the world of cinema. Filmmakers embraced low budget, DIY (do-it-yourself) aesthetics, and fearless approach to storytelling, leaving an enduring mark on the history of independent filmmaking.",
+      "films": [
+        {
+          "title": "Permanent Vacation",
+          "year": "1980",
+          "director": "Jim Jarmusch",
+          "letterboxd_url": "https://letterboxd.com/film/permanent-vacation/"
+        },
+        {
+          "title": "Smithereens",
+          "year": "1982",
+          "director": "Susan Seidelman",
+          "letterboxd_url": "https://letterboxd.com/film/smithereens/"
+        },
+        {
+          "title": "Stranger Than Paradise",
+          "year": "1984",
+          "director": "Jim Jarmusch",
+          "letterboxd_url": "https://letterboxd.com/film/stranger-than-paradise/"
+        },
+        {
+          "title": "Born in Flames",
+          "year": "1983",
+          "director": "Lizzie Borden",
+          "letterboxd_url": "https://letterboxd.com/film/born-in-flames/"
+        },
+        {
+          "title": "Working Girls",
+          "year": "1986",
+          "director": "Lizzie Borden",
+          "letterboxd_url": "https://letterboxd.com/film/working-girls-1986/"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong New Wave",
+      "raw_name": "HONG KONG NEW WAVE",
+      "slug": "hong-kong-new-wave",
+      "period_raw": "late 1970s - 2000s",
+      "period": {
+        "start": 1970,
+        "end": 2000
+      },
+      "summary": "Dynamic and influential film movement of the late 20th century, emerged from the vibrant and overcrowded streets of Hong Kong. Characterized by its innovative storytelling, action-packed sequences, and exploration of contemporary social issues, this film movement reshaped the landscape of Asian cinema. Hong Kong New Wave films embraced new technologies such as synchronous sound, innovative editing techniques and on-location shooting.",
+      "films": [
+        {
+          "title": "Boat People",
+          "year": "1982",
+          "director": "Ann Hui",
+          "letterboxd_url": "https://letterboxd.com/film/boat-people/"
+        },
+        {
+          "title": "Nomad",
+          "year": "1982",
+          "director": "Patrick Tam",
+          "letterboxd_url": "https://letterboxd.com/film/nomad/"
+        },
+        {
+          "title": "The Killer",
+          "year": "1989",
+          "director": "John Woo",
+          "letterboxd_url": "https://letterboxd.com/film/the-killer/"
+        },
+        {
+          "title": "Chungking Express",
+          "year": "1994",
+          "director": "Wong Kar-wai",
+          "letterboxd_url": "https://letterboxd.com/film/chungking-express/"
+        },
+        {
+          "title": "In the Mood for Love",
+          "year": "2000",
+          "director": "Wong Kar-wai",
+          "letterboxd_url": "https://letterboxd.com/film/in-the-mood-for-love/"
+        }
+      ]
+    },
+    {
+      "name": "Cinema Du Look",
+      "raw_name": "CINEMA DU LOOK",
+      "slug": "cinema-du-look",
+      "period_raw": "1980 - 1990s",
+      "period": {
+        "start": 1980,
+        "end": 1990
+      },
+      "summary": "Cinema du Look, a transformative film movement of 1980s French cinema, defined by its visually striking aesthetics and sensory-driven storytelling. Filmmakers of this movement, such as Jean-Jacques Beineix, Luc Besson and Leos Carax, adopted bold colors, innovative editing techniques and an exploration of urban life, delivering an immersive and emotional cinematic experience. With many classics, Cinema du Look redefined French cinema, and its still influencing it to this day.",
+      "films": [
+        {
+          "title": "Diva",
+          "year": "1981",
+          "director": "Jean-Jacques Beineix",
+          "letterboxd_url": "https://letterboxd.com/film/diva/"
+        },
+        {
+          "title": "Boy Meets Girl",
+          "year": "1984",
+          "director": "Leos Carax",
+          "letterboxd_url": "https://letterboxd.com/film/boy-meets-girl/"
+        },
+        {
+          "title": "Betty Blue",
+          "year": "1986",
+          "director": "Jean-Jacques Beineix",
+          "letterboxd_url": "https://letterboxd.com/film/betty-blue/"
+        },
+        {
+          "title": "Nikita",
+          "year": "1990",
+          "director": "Luc Besson",
+          "letterboxd_url": "https://letterboxd.com/film/nikita/"
+        },
+        {
+          "title": "Léon: The Professional",
+          "year": "1994",
+          "director": "Luc Besson",
+          "letterboxd_url": "https://letterboxd.com/film/leon-the-professional/"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan New Wave",
+      "raw_name": "TAIWAN NEW WAVE",
+      "slug": "taiwan-new-wave",
+      "period_raw": "1982 - late 1990s",
+      "period": {
+        "start": 1982,
+        "end": 1990
+      },
+      "summary": "Taiwan New Wave became renowned for its authentic, grounded, and empathetic depictions of Taiwanese life. These films aspired to present genuine narratives of individuals residing in either urban or rural Taiwan, and are often linked stylistically to the works of the Italian Neorealism movement. Through its candid portrayal of life, the New Wave delved into critical societal issues of its time, including urbanization, battle against poverty, confrontations with political authority, and ever evolving Taiwanese identity.",
+      "films": [
+        {
+          "title": "Growing Up",
+          "year": "1983",
+          "director": "Chen Kunhou",
+          "letterboxd_url": "https://letterboxd.com/film/growing-up/"
+        },
+        {
+          "title": "The Time to Live and the Time to Die",
+          "year": "1985",
+          "director": "Hou Hsiao-hsien",
+          "letterboxd_url": "https://letterboxd.com/film/the-time-to-live-and-the-time-to-die/"
+        },
+        {
+          "title": "A City of Sadness",
+          "year": "1989",
+          "director": "Hou Hsiao-hsien",
+          "letterboxd_url": "https://letterboxd.com/film/a-city-of-sadness/"
+        },
+        {
+          "title": "A Brighter Summer Day",
+          "year": "1991",
+          "director": "Edward Yang",
+          "letterboxd_url": "https://letterboxd.com/film/a-brighter-summer-day/"
+        },
+        {
+          "title": "Rebels of the Neon God",
+          "year": "1992",
+          "director": "Tsai Ming-liang",
+          "letterboxd_url": "https://letterboxd.com/film/rebels-of-the-neon-god/"
+        },
+        {
+          "title": "Eat Drink Man Woman",
+          "year": "1994",
+          "director": "Ang Lee",
+          "letterboxd_url": "https://letterboxd.com/film/eat-drink-man-woman/"
+        },
+        {
+          "title": "Vive L'Amour",
+          "year": "1994",
+          "director": "Tsai Ming-liang",
+          "letterboxd_url": "https://letterboxd.com/film/vive-lamour/"
+        },
+        {
+          "title": "Crouching Tiger, Hidden Dragon",
+          "year": "2000",
+          "director": "Ang Lee",
+          "letterboxd_url": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/"
+        },
+        {
+          "title": "Yi Yi",
+          "year": "2000",
+          "director": "Edward Yang",
+          "letterboxd_url": "https://letterboxd.com/film/yi-yi/"
+        },
+        {
+          "title": "Blue Gate Crossing",
+          "year": "2002",
+          "director": "Yee Chih-yen",
+          "letterboxd_url": "https://letterboxd.com/film/blue-gate-crossing/"
+        },
+        {
+          "title": "The Horse Thief",
+          "year": "1986",
+          "director": "Tian Zhuangzhuang",
+          "letterboxd_url": "https://letterboxd.com/film/the-horse-thief/"
+        },
+        {
+          "title": "Raise the Red Lantern",
+          "year": "1991",
+          "director": "Zhang Yimou",
+          "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/"
+        },
+        {
+          "title": "The Blue Kite",
+          "year": "1993",
+          "director": "Tian Zhuangzhuang",
+          "letterboxd_url": "https://letterboxd.com/film/the-blue-kite/"
+        },
+        {
+          "title": "Farewell My Concubine",
+          "year": "1993",
+          "director": "Chen Kaige",
+          "letterboxd_url": "https://letterboxd.com/film/farewell-my-concubine/"
+        },
+        {
+          "title": "To Live",
+          "year": "1994",
+          "director": "Zhang Yimou",
+          "letterboxd_url": "https://letterboxd.com/film/to-live/"
+        },
+        {
+          "title": "In the Heat of the Sun",
+          "year": "1994",
+          "director": "Jiang Wen",
+          "letterboxd_url": "https://letterboxd.com/film/in-the-heat-of-the-sun/"
+        },
+        {
+          "title": "Suzhou River",
+          "year": "2000",
+          "director": "Lou Ye",
+          "letterboxd_url": "https://letterboxd.com/film/suzhou-river/"
+        },
+        {
+          "title": "Devils on the Doorstep",
+          "year": "2000",
+          "director": "Jiang Wen",
+          "letterboxd_url": "https://letterboxd.com/film/devils-on-the-doorstep/"
+        },
+        {
+          "title": "Platform",
+          "year": "2000",
+          "director": "Jia Zhangke",
+          "letterboxd_url": "https://letterboxd.com/film/platform/"
+        },
+        {
+          "title": "Still Life",
+          "year": "2006",
+          "director": "Jia Zhangke",
+          "letterboxd_url": "https://letterboxd.com/film/still-life/"
+        }
+      ]
+    },
+    {
+      "name": "New Queer Cinema",
+      "raw_name": "NEW QUEER CINEMA",
+      "slug": "new-queer-cinema",
+      "period_raw": "mid 1980s - late 1990s",
+      "period": {
+        "start": 1980,
+        "end": 1990
+      },
+      "summary": "Influenced by academic theories from the 1980s, particularly postmodernism and poststructuralism, New Queer Cinema depicted human identity and sexuality as products of social constructs. Consequently, it portrayed them as flexible and adaptable rather than rigid and unchanging. Within the realm of New Queer Cinema, sexuality is frequently depicted as a disruptive and subversive element, one that challenges, and is often harshly suppressed by prevailing heterosexual power structures.",
+      "films": [
+        {
+          "title": "Parting Glances",
+          "year": "1986",
+          "director": "Bill Sherwood",
+          "letterboxd_url": "https://letterboxd.com/film/parting-glances/"
+        },
+        {
+          "title": "Tongues Untied",
+          "year": "1989",
+          "director": "Marlon Riggs",
+          "letterboxd_url": "https://letterboxd.com/film/tongues-untied/"
+        },
+        {
+          "title": "Paris Is Burning",
+          "year": "1990",
+          "director": "Jennie Livingston",
+          "letterboxd_url": "https://letterboxd.com/film/paris-is-burning/"
+        },
+        {
+          "title": "My Own Private Idaho",
+          "year": "1991",
+          "director": "Gus Van Sant",
+          "letterboxd_url": "https://letterboxd.com/film/my-own-private-idaho/"
+        },
+        {
+          "title": "Totally F***ed Up",
+          "year": "1993",
+          "director": "Gregg Araki",
+          "letterboxd_url": "https://letterboxd.com/film/totally-fed-up/"
+        }
+      ]
+    },
+    {
+      "name": "Toronto New Wave",
+      "raw_name": "TORONTO NEW WAVE",
+      "slug": "toronto-new-wave",
+      "period_raw": "mid 1980s - late 1990s",
+      "period": {
+        "start": 1980,
+        "end": 1990
+      },
+      "summary": "While not a formal or structured movement, the term “Toronto New Wave” is often used retrospectively to encapsulate the spirit of the creative wave that emerged in the city. Filmmakers like Atom Egoyan and Bruce McDonald distanced themselves from the conventional norms of Hollywood, embracing independent and unique way of storytelling, frequently applying techniques such as handheld camerawork, natural lighting and long takes, with films produced on less than $1 million budget.",
+      "films": [
+        {
+          "title": "I've Heard the Mermaids Singing",
+          "year": "1987",
+          "director": "Patricia Rozema",
+          "letterboxd_url": "https://letterboxd.com/film/ive-heard-the-mermaids-singing/"
+        },
+        {
+          "title": "Roadkill",
+          "year": "1989",
+          "director": "Bruce McDonald",
+          "letterboxd_url": "https://letterboxd.com/film/roadkill/"
+        },
+        {
+          "title": "Exotica",
+          "year": "1994",
+          "director": "Atom Egoyan",
+          "letterboxd_url": "https://letterboxd.com/film/exotica/"
+        },
+        {
+          "title": "The Sweet Hereafter",
+          "year": "1997",
+          "director": "Atom Egoyan",
+          "letterboxd_url": "https://letterboxd.com/film/the-sweet-hereafter/"
+        },
+        {
+          "title": "Last Night",
+          "year": "1998",
+          "director": "Don McKellar",
+          "letterboxd_url": "https://letterboxd.com/film/last-night/"
+        }
+      ]
+    },
+    {
+      "name": "Nuevo Cine Mexicano",
+      "raw_name": "NUEVO CINE MEXICANO",
+      "slug": "nuevo-cine-mexicano",
+      "period_raw": "1990s - 2010s",
+      "period": {
+        "start": 1990,
+        "end": 2010
+      },
+      "summary": "Often regarded as a cinematic renaissance of Mexico. Characterized by innovative storytelling and social commentary, while focusing on Mexican culture. This revival is attributed to the creation of superior-quality films, resulting in both international acclaim and impressive box office performance, challenging those of Hollywood. Key themes explored within the movement encompass issues related to gender, identity, tradition, and the complex socio-political landscape of Mexico.",
+      "films": [
+        {
+          "title": "Sólo con tu pareja",
+          "year": "1991",
+          "director": "Alfonso Cuarón",
+          "letterboxd_url": "https://letterboxd.com/film/solo-con-tu-pareja/"
+        },
+        {
+          "title": "Midaq Alley",
+          "year": "1995",
+          "director": "Jorge Fons",
+          "letterboxd_url": "https://letterboxd.com/film/midaq-alley/"
+        },
+        {
+          "title": "Amores Perros",
+          "year": "2000",
+          "director": "Alejandro González Iñárritu",
+          "letterboxd_url": "https://letterboxd.com/film/amores-perros/"
+        },
+        {
+          "title": "Y Tu Mamá También",
+          "year": "2001",
+          "director": "Alfonso Cuarón",
+          "letterboxd_url": "https://letterboxd.com/film/y-tu-mama-tambien/"
+        },
+        {
+          "title": "Japón",
+          "year": "2002",
+          "director": "Carlos Reygadas",
+          "letterboxd_url": "https://letterboxd.com/film/japon/"
+        },
+        {
+          "title": "The Celebration",
+          "year": "1998",
+          "director": "Thomas Vinterberg",
+          "letterboxd_url": "https://letterboxd.com/film/the-celebration/"
+        },
+        {
+          "title": "The Idiots",
+          "year": "1998",
+          "director": "Lars von Trier",
+          "letterboxd_url": "https://letterboxd.com/film/the-idiots/"
+        },
+        {
+          "title": "Mifune",
+          "year": "1999",
+          "director": "Søren Kragh-Jacobsen",
+          "letterboxd_url": "https://letterboxd.com/film/mifune/"
+        },
+        {
+          "title": "Julien Donkey-Boy",
+          "year": "1999",
+          "director": "Harmony Korine",
+          "letterboxd_url": "https://letterboxd.com/film/julien-donkey-boy/"
+        },
+        {
+          "title": "Open Hearts",
+          "year": "2002",
+          "director": "Susanne Bier",
+          "letterboxd_url": "https://letterboxd.com/film/open-hearts/"
+        }
+      ]
+    },
+    {
+      "name": "American Eccentric Cinema",
+      "raw_name": "AMERICAN ECCENTRIC CINEMA",
+      "slug": "american-eccentric-cinema",
+      "period_raw": "mid 1990s - now",
+      "period": {
+        "start": 1990,
+        "end": null
+      },
+      "summary": "American eccentric cinema is a distinctive style, and a movement of filmmaking that emerged prominently in the late 20th and early 21st centuries, characterized by its quirky characters, whimsical narratives, idiosyncratic visual aesthetics, and a tendency to blend genres and tones in unexpected ways. This movement, often rooted in independent cinema, has grown to influence mainstream film and foster a dedicated fan base that appreciates its unique approach to storytelling and character development.",
+      "films": [
+        {
+          "title": "Fargo",
+          "year": "1996",
+          "director": "Coen Brothers",
+          "letterboxd_url": "https://letterboxd.com/film/fargo/"
+        },
+        {
+          "title": "Boogie Nights",
+          "year": "1997",
+          "director": "Paul Thomas Anderson",
+          "letterboxd_url": "https://letterboxd.com/film/boogie-nights/"
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "year": "2001",
+          "director": "Wes Anderson",
+          "letterboxd_url": "https://letterboxd.com/film/the-royal-tenenbaums/"
+        },
+        {
+          "title": "Punch-Drunk Love",
+          "year": "2002",
+          "director": "Paul Thomas Anderson",
+          "letterboxd_url": "https://letterboxd.com/film/punch-drunk-love/"
+        },
+        {
+          "title": "Lost in Translation",
+          "year": "2003",
+          "director": "Sofia Coppola",
+          "letterboxd_url": "https://letterboxd.com/film/lost-in-translation/"
+        }
+      ]
+    },
+    {
+      "name": "Korean New Wave",
+      "raw_name": "KOREAN NEW WAVE",
+      "slug": "korean-new-wave",
+      "period_raw": "late 1990s - now",
+      "period": {
+        "start": 1990,
+        "end": null
+      },
+      "summary": "Emerged in South Korea in the late 20th and early 21st centuries, it revitalized the country's film industry and introduced an distinct aesthetics and exceptional talent of directors, actors and screenwriters to the world of cinema. The Korean New Wave explores a rich tapestry of themes, including family, revenge, social inequality and identity. Its global impact, marked by critical acclaim and historic wins at major film festivals, has left an enduring legacy on the international film landscape.",
+      "films": [
+        {
+          "title": "Peppermint Candy",
+          "year": "1999",
+          "director": "Lee Chang-dong",
+          "letterboxd_url": "https://letterboxd.com/film/peppermint-candy/"
+        },
+        {
+          "title": "Spring, Summer, Fall, Winter... and Spring",
+          "year": "2003",
+          "director": "Kim Ki-duk",
+          "letterboxd_url": "https://letterboxd.com/film/spring-summer-fall-winter-and-spring/"
+        },
+        {
+          "title": "Oldboy",
+          "year": "2003",
+          "director": "Park Chan-wook",
+          "letterboxd_url": "https://letterboxd.com/film/oldboy/"
+        },
+        {
+          "title": "I Saw the Devil",
+          "year": "2010",
+          "director": "Kim Jee-woon",
+          "letterboxd_url": "https://letterboxd.com/film/i-saw-the-devil/"
+        },
+        {
+          "title": "Burning",
+          "year": "2018",
+          "director": "Lee Chang-dong",
+          "letterboxd_url": "https://letterboxd.com/film/burning-2018/"
+        }
+      ]
+    },
+    {
+      "name": "Thai New Wave",
+      "raw_name": "THAI NEW WAVE",
+      "slug": "thai-new-wave",
+      "period_raw": "late 1990s - 2010s",
+      "period": {
+        "start": 1990,
+        "end": 2010
+      },
+      "summary": "Thai New Wave Cinema is a movement that emerged in the late 1990s and gained momentum throughout the early 2000s, revitalizing cinema of Thailand. Directors like Apichatpong Weerasethakul, Pen-Ek Ratanaruang and Wisit Sasanatieng were at the forefront, exploring themes such as social and political issues, cultural identity and the human condition. Numerous films gained international acclaim and recognition at major film festivals around the world, including Cannes, Berlin and Venice.",
+      "films": [
+        {
+          "title": "Tears of the Black Tiger",
+          "year": "2000",
+          "director": "Wisit Sasanatieng",
+          "letterboxd_url": "https://letterboxd.com/film/tears-of-the-black-tiger/"
+        },
+        {
+          "title": "Last Life in the Universe",
+          "year": "2003",
+          "director": "Pen-ek Ratanaruang",
+          "letterboxd_url": "https://letterboxd.com/film/last-life-in-the-universe/"
+        },
+        {
+          "title": "Tropical Malady",
+          "year": "2004",
+          "director": "Apichatpong Weerasethakul",
+          "letterboxd_url": "https://letterboxd.com/film/tropical-malady/"
+        },
+        {
+          "title": "Uncle Boonmee Who Can Recall His Past Lives",
+          "year": "2010",
+          "director": "Apichatpong Weerasethakul",
+          "letterboxd_url": "https://letterboxd.com/film/uncle-boonmee-who-can-recall-his-past-lives/"
+        },
+        {
+          "title": "36",
+          "year": "2012",
+          "director": "Nawapol Thamrongrattanarit",
+          "letterboxd_url": "https://letterboxd.com/film/36-2012/"
+        }
+      ]
+    },
+    {
+      "name": "New Extremity",
+      "raw_name": "NEW EXTREMITY",
+      "slug": "new-extremity",
+      "period_raw": "late 1990s - now",
+      "period": {
+        "start": 1990,
+        "end": null
+      },
+      "summary": "New Extremity is a provocative and boundary-pushing cinematic movement that emerged mainly in Europe. Defined by its unflinching exploration of taboo subjects, graphic violence, visceral horror and explicit sexuality. Filmmakers associated with the movement challenge conventional storytelling norms, aiming to shock and provoke audiences while delving into the darkest corners of human experience. The New French Extremity movement has its roots in art house and horror cinema.",
+      "films": [
+        {
+          "title": "I Stand Alone",
+          "year": "1998",
+          "director": "Gaspar Noé",
+          "letterboxd_url": "https://letterboxd.com/film/i-stand-alone/"
+        },
+        {
+          "title": "Trouble Every Day",
+          "year": "2001",
+          "director": "Claire Denis",
+          "letterboxd_url": "https://letterboxd.com/film/trouble-every-day/"
+        },
+        {
+          "title": "Demonlover",
+          "year": "2002",
+          "director": "Olivier Assayas",
+          "letterboxd_url": "https://letterboxd.com/film/demonlover/"
+        },
+        {
+          "title": "House of Tolerance",
+          "year": "2011",
+          "director": "Bertrand Bonello",
+          "letterboxd_url": "https://letterboxd.com/film/house-of-tolerance/"
+        },
+        {
+          "title": "Climax",
+          "year": "2018",
+          "director": "Gaspar Noé",
+          "letterboxd_url": "https://letterboxd.com/film/climax-2018/"
+        }
+      ]
+    },
+    {
+      "name": "Berlin School Movement",
+      "raw_name": "BERLIN SCHOOL MOVEMENT",
+      "slug": "berlin-school-movement",
+      "period_raw": "2000s - now",
+      "period": {
+        "start": 2000,
+        "end": null
+      },
+      "summary": "The Berlin School Movement of the 2000s can be seen as an evolution of the broader landscape of German cinema, with its roots tracing back to the 1990s. The movement emerged in a post-reunification Germany, marked by societal changes and a shifting cultural and political landscape. Many filmmakers associated with the movement, including Christian Petzold and Angela Schanelec, studied during the 1990s at the Deutsche Film und Fernsehakademie Berlin (DFFB), arguably the country’s most intellectual film school.",
+      "films": [
+        {
+          "title": "Yella",
+          "year": "2007",
+          "director": "Christian Petzold",
+          "letterboxd_url": "https://letterboxd.com/film/yella/"
+        },
+        {
+          "title": "Everyone Else",
+          "year": "2009",
+          "director": "Maren Ade",
+          "letterboxd_url": "https://letterboxd.com/film/everyone-else/"
+        },
+        {
+          "title": "In the Shadows",
+          "year": "2010",
+          "director": "Thomas Arslan",
+          "letterboxd_url": "https://letterboxd.com/film/in-the-shadows-2010/"
+        },
+        {
+          "title": "Phoenix",
+          "year": "2014",
+          "director": "Christian Petzold",
+          "letterboxd_url": "https://letterboxd.com/film/phoenix-2014/"
+        },
+        {
+          "title": "The Dreamed Path",
+          "year": "2016",
+          "director": "Angela Schanelec",
+          "letterboxd_url": "https://letterboxd.com/film/the-dreamed-path/"
+        }
+      ]
+    },
+    {
+      "name": "Mumblecore",
+      "raw_name": "MUMBLECORE",
+      "slug": "mumblecore",
+      "period_raw": "2002 - now",
+      "period": {
+        "start": 2002,
+        "end": null
+      },
+      "summary": "Low-budget filmmaking movement that emerged in the early 2000s, characterized by its emphasis on naturalistic dialogue, and the exploration of everyday life and relationships. Filmmakers often employ non-professional actors, minimalist production techniques, and improvisation to create authentic and relatable narratives. This film movement is celebrated for its genuine portrayal of the human experience, making it a unique and influential part of independent cinema.",
+      "films": [
+        {
+          "title": "Funny Ha Ha",
+          "year": "2002",
+          "director": "Andrew Bujalski",
+          "letterboxd_url": "https://letterboxd.com/film/funny-ha-ha/"
+        },
+        {
+          "title": "All the Real Girls",
+          "year": "2003",
+          "director": "David Gordon Green",
+          "letterboxd_url": "https://letterboxd.com/film/all-the-real-girls/"
+        },
+        {
+          "title": "Tiny Furniture",
+          "year": "2010",
+          "director": "Lena Dunham",
+          "letterboxd_url": "https://letterboxd.com/film/tiny-furniture/"
+        },
+        {
+          "title": "Martha Marcy May Marlene",
+          "year": "2011",
+          "director": "Sean Durkin",
+          "letterboxd_url": "https://letterboxd.com/film/martha-marcy-may-marlene/"
+        },
+        {
+          "title": "Frances Ha",
+          "year": "2012",
+          "director": "Noah Baumbach",
+          "letterboxd_url": "https://letterboxd.com/film/frances-ha/"
+        }
+      ]
+    },
+    {
+      "name": "Philippine New Wave",
+      "raw_name": "PHILIPPINE NEW WAVE",
+      "slug": "philippine-new-wave",
+      "period_raw": "early 2000s - now",
+      "period": {
+        "start": 2000,
+        "end": null
+      },
+      "summary": "The Philippine New Wave, also known as the Filipino New Wave, refers to a movement in Philippine cinema that emerged in the early 2000s. It is characterized by a departure from traditional filmmaking practices and narratives, embracing digital technology, and exploring innovative storytelling techniques. This movement has garnered international recognition and has been pivotal in revitalizing Philippine cinema.",
+      "films": [
+        {
+          "title": "Evolution of a Filipino Family",
+          "year": "2004",
+          "director": "Lav Diaz",
+          "letterboxd_url": "https://letterboxd.com/film/evolution-of-a-filipino-family/"
+        },
+        {
+          "title": "The Blossoming of Maximo Oliveros",
+          "year": "2005",
+          "director": "Auraeus Solito",
+          "letterboxd_url": "https://letterboxd.com/film/the-blossoming-of-maximo-oliveros/"
+        },
+        {
+          "title": "The Execution of P",
+          "year": "2009",
+          "director": "Brillante Mendoza",
+          "letterboxd_url": "https://letterboxd.com/film/the-execution-of-p/"
+        },
+        {
+          "title": "Norte, the End of History",
+          "year": "2013",
+          "director": "Lav Diaz",
+          "letterboxd_url": "https://letterboxd.com/film/norte-the-end-of-history/"
+        },
+        {
+          "title": "From What Is Before",
+          "year": "2014",
+          "director": "Lav Diaz",
+          "letterboxd_url": "https://letterboxd.com/film/from-what-is-before/"
+        }
+      ]
+    },
+    {
+      "name": "Romanian New Wave",
+      "raw_name": "ROMANIAN NEW WAVE",
+      "slug": "romanian-new-wave",
+      "period_raw": "2004 - now",
+      "period": {
+        "start": 2004,
+        "end": null
+      },
+      "summary": "The Romanian New Wave is cinematic movement that arose in Romania in the early 21st century. Known for its stark realism, social commentary, and minimalist storytelling, the movement has garnered international acclaim for its thought-provoking and often gritty portrayal of contemporary Romanian society. Characterized by talented directors like Cristian Mungiu and Cristi Puiu, the Romanian New Wave offers a profound and unflinching look at the human condition, showcasing the artistic depth of Romanian cinema.",
+      "films": [
+        {
+          "title": "The Death of Mr. Lazarescu",
+          "year": "2005",
+          "director": "Cristi Puiu",
+          "letterboxd_url": "https://letterboxd.com/film/the-death-of-mr-lazarescu/"
+        },
+        {
+          "title": "4 Months, 3 Weeks and 2 Days",
+          "year": "2007",
+          "director": "Cristian Mungiu",
+          "letterboxd_url": "https://letterboxd.com/film/4-months-3-weeks-and-2-days/"
+        },
+        {
+          "title": "Beyond the Hills",
+          "year": "2012",
+          "director": "Cristian Mungiu",
+          "letterboxd_url": "https://letterboxd.com/film/beyond-the-hills/"
+        },
+        {
+          "title": "Sieranevada",
+          "year": "2016",
+          "director": "Cristi Puiu",
+          "letterboxd_url": "https://letterboxd.com/film/sieranevada/"
+        },
+        {
+          "title": "I Do Not Care If We Go Down in History as Barbarians",
+          "year": "2018",
+          "director": "Radu Jude",
+          "letterboxd_url": "https://letterboxd.com/film/i-do-not-care-if-we-go-down-in-history-as-barbarians/"
+        }
+      ]
+    },
+    {
+      "name": "New Nigerian Cinema",
+      "raw_name": "NEW NIGERIAN CINEMA",
+      "slug": "new-nigerian-cinema",
+      "period_raw": "mid 2000s - now",
+      "period": {
+        "start": 2000,
+        "end": null
+      },
+      "summary": "New Nigerian Cinema, referred to as New Nigerian Wave, or Nollywood 2.0, represents a transformative period in the Nigerian film industry. This renaissance, starting in the mid-2000s, signifies a departure from the low-budget, rapid-production approach that characterized the earlier Nollywood films. It marks a shift towards higher quality, improved storytelling, and significant international recognition.",
+      "films": [
+        {
+          "title": "The Figurine: Araromire",
+          "year": "2009",
+          "director": "Kunle Afolayan",
+          "letterboxd_url": "https://letterboxd.com/film/the-figurine-araromire/"
+        },
+        {
+          "title": "October 1",
+          "year": "2014",
+          "director": "Kunle Afolayan",
+          "letterboxd_url": "https://letterboxd.com/film/october-1/"
+        },
+        {
+          "title": "The Wedding Party",
+          "year": "2016",
+          "director": "Kemi Adetiba",
+          "letterboxd_url": "https://letterboxd.com/film/the-wedding-party-2016/"
+        },
+        {
+          "title": "King of Boys",
+          "year": "2018",
+          "director": "Kemi Adetiba",
+          "letterboxd_url": "https://letterboxd.com/film/king-of-boys/"
+        },
+        {
+          "title": "The Arbitration",
+          "year": "2016",
+          "director": "Niyi Akinmolayan",
+          "letterboxd_url": "https://letterboxd.com/film/the-arbitration/"
+        }
+      ]
+    },
+    {
+      "name": "Greek Weird Wave",
+      "raw_name": "GREEK WEIRD WAVE",
+      "slug": "greek-weird-wave",
+      "period_raw": "late 2000s - now",
+      "period": {
+        "start": 2000,
+        "end": null
+      },
+      "summary": "The Greek Weird Wave is a distinctive and unconventional movement in Greek cinema that emerged in the late 2000s as a response to the country’s economic and social challenges. Characterized by surreal storytelling, dark humor, departure from traditional narrative structures and a sheer “weirdness” of it, the films within this wave explore themes of alienation, identity and societal norms. The movement wasn’t a preplanned initiative, instead, it was a convergence of individual artistic expressions that shared a common spirit of innovation and change.",
+      "films": [
+        {
+          "title": "Dogtooth",
+          "year": "2009",
+          "director": "Yorgos Lanthimos",
+          "letterboxd_url": "https://letterboxd.com/film/dogtooth/"
+        },
+        {
+          "title": "Attenberg",
+          "year": "2010",
+          "director": "Athina Rachel Tsangari",
+          "letterboxd_url": "https://letterboxd.com/film/attenberg/"
+        },
+        {
+          "title": "The Lobster",
+          "year": "2015",
+          "director": "Yorgos Lanthimos",
+          "letterboxd_url": "https://letterboxd.com/film/the-lobster/"
+        },
+        {
+          "title": "Pity",
+          "year": "2018",
+          "director": "Babis Makridis",
+          "letterboxd_url": "https://letterboxd.com/film/pity-2018/"
+        },
+        {
+          "title": "Apples",
+          "year": "2020",
+          "director": "Christos Nikou",
+          "letterboxd_url": "https://letterboxd.com/film/apples/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "third-cinema",
+  "name": "Third Cinema",
+  "period_raw": "mid 1960s - late 1970s",
+  "period": {
+    "start": 1960,
+    "end": 1970
+  },
+  "country": "Argentina",
+  "countries": [
+    "Argentina",
+    "Cuba",
+    "Brazil",
+    "Bolivia"
+  ],
+  "region": "Latin America",
+  "coords": [
+    -58.382,
+    -34.603
+  ],
+  "summary": "Third Cinema is a revolutionary film movement that emerged in the 1960s as a response to the dominant ideals of Hollywood (1st Cinema) and European art cinema (2nd Cinema). Grounded in the principles of social justice, cultural authenticity and political engagement, it represents a radical departure from traditional filmmaking, aiming to address the socio-political realities of the Global South, particularly in Latin America, Africa and Asia. Published by: CinemaWaves Team   |   Filed Under: Film Movements The historical context of Third Cinema’s development is deeply tied to global liberation movements. In the 1960s, many nations across Latin America, Africa, and Asia were experiencing political upheaval as they fought to break from the legacies of colonialism, imperialism, and dictatorial regimes.",
+  "long_description": "Third Cinema is a revolutionary film movement that emerged in the 1960s as a response to the dominant ideals of Hollywood (1st Cinema) and European art cinema (2nd Cinema). Grounded in the principles of social justice, cultural authenticity and political engagement, it represents a radical departure from traditional filmmaking, aiming to address the socio-political realities of the Global South, particularly in Latin America, Africa and Asia. Published by: CinemaWaves Team   |   Filed Under: Film Movements The historical context of Third Cinema’s development is deeply tied to global liberation movements. In the 1960s, many nations across Latin America, Africa, and Asia were experiencing political upheaval as they fought to break from the legacies of colonialism, imperialism, and dictatorial regimes. These newly independent nations faced immense economic challenges, inequality, and ongoing foreign intervention, particularly from Western powers. Amid this backdrop, Third Cinema filmmakers sought to create a new kind of cinema that reflected the struggles of the people, rejected the capitalist values propagated by mainstream cinema, and encouraged collective resistance against oppressive systems. In 1969, Argentine filmmakers Fernando Solanas and Octavio Getino define the ideas and aspirations of this movement in their manifesto “Toward a Third Cinema.” The document proposed a vision for a cinema that would be distinctly different from both the commercial escapism of Hollywood, and the esoteric experimentation of European art films. Solanas and Getino proposed a cinema that would be politically engaging, socially relevant, and deeply rooted in the cultural realities of the Global South. Third Cinema was also shaped by the broader intellectual and political movements of the time, such as Marxism, socialism, and the Cuban Revolution. It was inspired by the writings of Frantz Fanon, who discussed the role of culture in anti-colonial struggles. One of the key principles of Third Cinema is its storytelling commitment from the perspective of the oppressed. Filmmakers rejected the traditional narrative structures and conventions imposed by mainstream cinema, instead prioritizing on authentic representation of their cultures, histories and struggles. It was a cinema of resistance and activism, seeking to empower marginalized communities and challenge the neocolonial structures. Filmmakers within the movement collaborated with local communities, involving them in the filmmaking process, and ensuring that the stories told are representative and authentic. They emphasized the importance of collective identity and solidarity, using cinema as a tool for social change and mobilization. The goal was not merely to entertain, but to educate and inspire audiences to engage critically with the world around them. In addition to challenging narrative conventions, Third Cinema is characterized by a distinct visual style. Filmmakers experimented with cinematography, using innovative techniques, incorporating elements such as documentary footage, news reels, video clips, interviews and non-professional actors. These elements were creatively blended to convey the message aimed for the specific local audience. In Latin America, filmmakers such as Cinema Novo’s Glauber Rocha from Brazil and Tomas Gutierrez Alea, contributed significantly to the Third Cinema movement. Rocha’s films, like “Entranced Earth” (1968), are known for their experimental style and their critique of neocolonialism. Tomas Alea, on the other hand, focused on issues of race, class, and political power in films such as “Memories of Underdevelopment” (1968). Notable example of Third Cinema is the cinema of African filmmaker Ousmane Sembene, commonly referred to as the “father of African cinema.” His films often explored post-colonial issues, cultural conflicts and the challenges faced by the working class. Film “Black Girl” (1966) is considered a classic of Third Cinema, addressing themes of identity, alienation and post-colonization. Though predating the formalization of Third Cinema, Parallel Cinema’s Satyajit Ray‘s works, particularly his “Apu Trilogy,” are often considered early examples of a cinema that authentically captures the social and economic struggles of post-colonial India. In addition to the trilogy, Ray’s films frequently explored the complexities of Indian society, blending humanism with a sharp critique of class divisions, further aligning his work with the core principles of Third Cinema.",
+  "key_directors": [
+    "Ousmane Sembene",
+    "Glauber Rocha",
+    "Fernando Solanas",
+    "Tomas Gutierrez Alea",
+    "Djibril Diop Mambéty"
+  ],
+  "canonical_films": [
+    {
+      "title": "Black Girl",
+      "year": "1966",
+      "director": "Ousmane Sembene",
+      "letterboxd_url": "https://letterboxd.com/film/black-girl-1966/"
+    },
+    {
+      "title": "Entranced Earth",
+      "year": "1967",
+      "director": "Glauber Rocha",
+      "letterboxd_url": "https://letterboxd.com/film/entranced-earth/"
+    },
+    {
+      "title": "The Hour of the Furnaces",
+      "year": "1968",
+      "director": "Fernando Solanas",
+      "letterboxd_url": "https://letterboxd.com/film/the-hour-of-the-furnaces/"
+    },
+    {
+      "title": "Memories of Underdevelopment",
+      "year": "1968",
+      "director": "Tomas Gutierrez Alea",
+      "letterboxd_url": "https://letterboxd.com/film/memories-of-underdevelopment/"
+    },
+    {
+      "title": "Touki Bouki",
+      "year": "1973",
+      "director": "Djibril Diop Mambéty",
+      "letterboxd_url": "https://letterboxd.com/film/touki-bouki/"
+    }
+  ],
+  "influences_from": [
+    "cinema-novo",
+    "cuban-revolutionary-cinema",
+    "soviet-montage"
+  ],
+  "influences_to": [
+    "new-nigerian-cinema",
+    "philippine-new-wave"
+  ],
+  "cinema_waves_url": "https://cinemawavesblog.com/movements-page2/third-cinema/",
+  "letterboxd_list_url": "https://letterboxd.com/billybibbic/list/guide-to-film-movements-history-of-art-cinema/"
+}
