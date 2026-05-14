@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { movements } from '$lib/movements';
+	import WorldMap from '$lib/WorldMap.svelte';
 </script>
 
 <svelte:head>
@@ -20,6 +21,8 @@
 	</p>
 </section>
 
+<WorldMap {movements} />
+
 {#if movements.length === 0}
 	<section class="empty">
 		<h2>No movements loaded yet.</h2>
@@ -28,27 +31,30 @@
 		</p>
 	</section>
 {:else}
-	<section class="grid">
-		{#each movements as m}
-			<a class="card" href="/movement/{m.slug}">
-				<header>
-					<h3>{m.name}</h3>
-					<small class="dim">
-						{m.period.start}{m.period.end ? `–${m.period.end}` : '–'} · {m.country}
-					</small>
-				</header>
-				<p class="summary">{m.summary || ''}</p>
-				{#if m.canonical_films?.length}
-					<small class="films dim">{m.canonical_films.length} canonical films</small>
-				{/if}
-			</a>
-		{/each}
+	<section>
+		<h2 class="grid-h">All {movements.length} movements</h2>
+		<div class="grid">
+			{#each movements as m (m.slug)}
+				<a class="card" href="/movement/{m.slug}">
+					<header>
+						<h3>{m.name}</h3>
+						<small class="dim">
+							{m.period.start}{m.period.end ? `–${m.period.end}` : '–'} · {m.country}
+						</small>
+					</header>
+					<p class="summary">{m.summary || ''}</p>
+					{#if m.canonical_films?.length}
+						<small class="films dim">{m.canonical_films.length} canonical films</small>
+					{/if}
+				</a>
+			{/each}
+		</div>
 	</section>
 {/if}
 
 <style>
 	.hero {
-		padding: 2rem 0 3rem;
+		padding: 1.5rem 0 1.5rem;
 		max-width: 720px;
 	}
 	.lead {
@@ -56,6 +62,14 @@
 		font-size: 1.15rem;
 		line-height: 1.65;
 		color: var(--fg);
+	}
+	.grid-h {
+		font-size: 1rem;
+		font-weight: 500;
+		color: var(--fg-dim);
+		margin: 1rem 0 0.75rem;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
 	}
 	.empty {
 		text-align: center;
